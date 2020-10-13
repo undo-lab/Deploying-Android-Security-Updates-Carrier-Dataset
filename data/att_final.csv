@@ -1,0 +1,441 @@
+Phone,Carrier_Release,AndroidOS,Security_Level,Extra_Details,Android_Level_Guessed,Software_Ver,Baseband,Build_Num,Manufacture,difference
+ASUS PadFone X,2018-08-31,N/A,2018-04-01,Software version 11.10.11.2 Android security update,True,3.4.0,N/A,ATT_11.10.11.2File,ASUS,152
+AT&T AXIA,2015-12-30,8.1,2015-12-01,Android 8.1 Oreo Security patch level,True,N/A,N/A,N/A,AT&T,29
+AT&T AXIA,2018-10-22,8.1.0,2018-10-01,N/A,False,1A76,N/A,N/A,AT&T,21
+Alcatel IdealXCITE and CAMEOX,2018-04-03,7.0,2018-02-05,Android device security updates,False,YAMUAM0,JO.2.0.c1-00150-8909_GEN_PACK-1,N/A,Alcatel,57
+Alcatel IdealXCITE and CAMEOX,2018-04-03,7.0.0,2018-04-01,Android 7.0 Nougat December security patch level,True,N/A,N/A,YB4UA40File,Alcatel,2
+Alcatel IdealXCITE and CAMEOX,2018-10-24,7.0,2018-08-01,Android device security updates,False,YAYUAY0,JO.2.0.c1-00267-8909_GEN_PACK-2,N/A,Alcatel,84
+Alcatel IdealXCITE and CAMEOX,2018-12-18,7.0,2018-10-05,Android device security updates  YAGUAK0,False,N/A,JO.2.0.c1-00267-8909_GEN_PACK-2,YB3UA30,Alcatel,74
+Alcatel ONETOUCH ALLURA,2017-04-26,5.1.1,2017-04-01,Security patch level,True,N/A,MSM8909.LA.1.1.c7.1-113370123,HBAUAA4,Alcatel,25
+Alcatel idealXtra,2018-12-07,8.1,2018-12-01,Android 8.1 Oreo Security patch level,True,N/A,N/A,N/A,Alcatel,6
+BlackBerry KEYone,2017-09-26,7.1.1,2017-09-01,Fix to disable auto-connect to AT&T Wi-Fi for Enterprise customers and fix for AT&T Reverse Logistics  3.18.31-perf-g241e1d1ec_agent@br611cnc #1  7.1.1/NMF26F/AAR649  AAQ555,False,N/A,MPSS.TA.2.3.c1-00333-8953_GEN_PACK-1.103777.4.107751.1,AAR649,BlackBerry,25
+BlackBerry KEYone,2017-09-26,7.1.1,2017-09-05,"Android device security updates, including Meltdown and Spectre migration patches  3.18.31-perf-g0a5248cec_agent@br821cnc #1  7.1.1/NMF26F/AAT030  AAR649",False,N/A,MPSS.TA.2.3.c1-00333-8953_GEN_PACK-1.103777.4.107751.1,AAT030,BlackBerry,21
+BlackBerry KEYone,2017-10-31,7.1.1,2017-10-05,Fix for Docs to Go app for ABS customer and Android device security updates  3.18.31-perf-g4e370beec_agent@br609cnc #1  7.1.1/NMF26F/AAV056  AAT030,False,N/A,MPSS.TA.2.3.c1-00333-8953_GEN_PACK-1.103777.4.107751.1,AAV056,BlackBerry,26
+BlackBerry KEYone,2017-11-15,7.1.1,2017-11-06,Android device security updates  7.1.1/NMF26F/AAW392  AAV056,False,N/A,MPSS.TA.2.3.c1-00333-8953_GEN_PACK-1.103777.4.107751.1,AAW392,BlackBerry,9
+BlackBerry KEYone,2018-01-22,7.1.1,2018-01-05,Android device security updates  7.1.1/NMF26F/ABA075  AAY494,False,N/A,MPSS.TA.2.3.c1-00333-8953_GEN_PACK-1.140059.1.140665.2,ABA075,BlackBerry,17
+BlackBerry KEYone,2018-02-27,8.1,2018-02-05,Android 8.1 Oreo™  Android device security updates  8.1.0/OPM1.171019.026/ABD375  ABA075,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABD375,BlackBerry,22
+BlackBerry KEYone,2018-03-26,8.1,2018-03-05,Android device security updates  8.1.0/OPM1.171019.026/ABG360  ABD375,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABG360,BlackBerry,21
+BlackBerry KEYone,2018-05-29,8.1,2018-04-01,Android device security updates  8.1.0/OPM1.171019.026/ABI975  ABG360,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABI975,BlackBerry,58
+BlackBerry KEYone,2018-06-12,8.1,2018-06-01,Android device security updates  8.1.0/OPM1.171019.026/ABL183,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABL183,BlackBerry,11
+BlackBerry KEYone,2018-08-15,8.1,2018-07-05,Android device security updates  8.1.0/OPM1.171019.026/ABM658,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABM658,BlackBerry,41
+BlackBerry KEYone,2018-09-24,8.1.0,2018-09-01,N/A,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABO838,BlackBerry,23
+BlackBerry KEYone,2018-11-05,8.1.0,2018-10-05,Android device security updates,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.153374.2,ABR128,BlackBerry,31
+BlackBerry KEYone,2018-12-03,8.1.0,2018-11-05,April Security patch level,False,N/A,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.188623.1.193466.2,ABU380,BlackBerry,28
+BlackBerry KEYone,2018-12-26,8.1,2018-12-05,N/A,False,N/A,N/A,ABV803,BlackBerry,21
+BlackBerry KEYone,2019-01-29,8.1,2019-01-05,N/A,False,N/A,N/A,ABX992,BlackBerry,24
+BlackBerry KEYone,2019-03-05,8.1,2019-02-05,N/A,False,N/A,N/A,ABZ982,BlackBerry,28
+BlackBerry KEYone,2019-04-30,8.1,2019-04-05,N/A,False,N/A,N/A,ACD561,BlackBerry,25
+HTC Desire 610,2015-12-08,4.4.2,2015-11-01,Device security improvements,True,N/A,1.101.1372.19.1121_1 0.27.4205.OOL_F,1.54.502.16 CL343839,HTC,37
+HTC Desire 610,2018-03-07,N/A,2018-01-01,Resolve SMS Issues,True,1 .53.502.11,1.101.1372.19.1121_1 0.27.4205.OOL_F,1 .53.502.11 CL343839,HTC,65
+HTC Desire 610,2019-11-13,N/A,2019-10-01,"Pushed via FOTA over AT&T wireless network,Android OS enhancements",True,1.51.502.9,1.101.1221.19.091 6_10.20.41 87.OOL_F,1.51.502.9 CL343839,HTC,43
+HTC Desire 626,2015-09-10,5.1,2015-09-01,Android 5.1 Lollipop Google security patches Second Source LCM driver update,True,3.10.49,N/A,1.24.502.5,HTC,9
+HTC One M9,2015-10-19,5.1,2015-10-01,Google Bulletin 13 patches Charging Fixes  7.0  3.10.49-perf-g4c1a6af,True,2.11.502.18,01.01_U11440601_72.02.50602A_F,2.11.502.18 CL591203,HTC,18
+HTC One M9,2016-09-12,6.0,2016-08-01,Device Handset Security Updates  3.10.84-perf-ge35e2d1,False,3.38.502.17 CL682052 release-keys,01.01_U11440801_96.01.51207A_F,3045450,HTC,42
+HTC One M9,2016-10-06,6.0,2016-09-01,Android device security updates  3.10.84-perf-g8d4a576,False,N/A,01.01_U11440801_96.01.51207A_F,3046689,HTC,35
+HTC One M9,2016-10-28,6.0,2016-10-01,Android device security updates  3.10.84-perf-g67cc27a  3.38.502.31 CL682052 release-keys,False,N/A,01.01_U11440801_96.01.51207A_F,3047498,HTC,27
+HTC One M9,2016-11-29,6.0,2016-11-01,Android device security updates  3.10.84-perf-g8ae269b  3.38.502.41 CL682052 release-keys  3.38.502.31,False,N/A,01.01_U11440801_96.01.51207A_F,3049426,HTC,28
+Huawei Ascend XT,2016-10-14,6.0.1,2016-08-01,Android device security updates  3.10.49-g2f841ca  H1611C07B150,False,N/A,20234,H1611C07B160,Huawei,74
+Huawei Ascend XT,2016-10-14,6.0.1,2016-10-01,Android device security updates  3.10.49-gdbae02d  H1611C07B140  HLH1611M,False,N/A,20234,H1611C07B150,Huawei,13
+Huawei Ascend XT,2017-01-16,6.0.1,2016-12-01,Android device security updates  3.10.49-gd403fad  H1611C07B160,False,N/A,20234,H1611C07B170,Huawei,46
+Huawei Ascend XT,2018-03-26,6.0.1,2018-02-01,"Android 6.0.1 Marshmallow Android device security updates, including BlueBorne fix (on SPLs September 1 or later)",True,3.10.49,N/A,H1611C07B180Previous,Huawei,53
+Huawei Ascend XT,2018-04-03,6.0.1,2018-03-01,"Android device security updates  NameID User Interface (UI) updates, AT&T PREPAIDSM (formerly known as GoPhone®) SIM card setup updates, Google permissions updates, and browser update to default to home.att.com  3.10.49-gf29db28",False,N/A,20234,H1611C07B140,Huawei,33
+Kyocera DuraForce PRO 2,2016-09-28,9.0,2016-07-05,Android 9.0 Pie Security patch level,True,N/A,N/A,N/A,Kyocera,85
+Kyocera DuraForce PRO 2,2016-12-14,8.1,2016-10-05,N/A,False,1.100AT,N/A,N/A,Kyocera,70
+Kyocera DuraForce PRO 2,2017-04-20,8.1,2017-03-05,N/A,False,1.250AT,N/A,N/A,Kyocera,46
+Kyocera DuraForce PRO 2,2017-10-18,8.1,2017-07-05,N/A,False,1.301AT,N/A,N/A,Kyocera,105
+Kyocera DuraForce PRO 2,2018-08-10,8.1,2018-05-05,True,None,1.501AT,N/A,N/A,Kyocera,97
+Kyocera DuraForce PRO 2,2019-04-30,8.1,2019-04-01,N/A,False,1.411AT,N/A,N/A,Kyocera,29
+Kyocera DuraForce Pro,2016-09-28,7.1.2 (3GB RAM) or 6.0.1 (2GB RAM),2016-07-05,Android 7.1.2 Nougat,False,5.081AT (3GB RAM) or 1.050AT (2GB RAM),N/A,N/A,Kyocera,85
+Kyocera DuraForce Pro,2017-12-19,6.0.1,2017-10-01,"Camera improvements at colder temperatures,Increase speakerphone loudness for media and alerts",False,1.017AT,N/A,N/A,Kyocera,79
+Kyocera DuraForce Pro,2018-02-23,6.0.1,2018-01-05,Android device security enhancements,False,1.034AT,N/A,N/A,Kyocera,49
+Kyocera DuraForce Pro,2018-08-06,6.0.1,2018-05-01,Android device security enhancements,False,1.50AT (2GB RAM) or 3.017AT (3GB RAM),N/A,N/A,Kyocera,97
+Kyocera DuraForce Pro,2018-09-18,6.0.1,2018-08-01,"Android device security enhancements, including BlueBorne fix",False,1.050AT (2GB RAM) or 3.030AT (3GB RAM),N/A,N/A,Kyocera,48
+Kyocera DuraForce Pro,2019-12-16,6.0.1,2019-11-05,Android device security enhancements  3.10.84,False,1.50AT (2GB RAM) or 3.017AT (3GB RAM),MPSS.TA.2.1.c1-00094-8976_GEN_PACK-1.61269.1.61529.1,5f4e69cae3387a4098501678709be221 (2GB RAM Memory variant) or 2cc25e3daf0faa27e30aeb73b4108a66 (3GB RAM Memory variant),Kyocera,41
+K30,2018-07-25,8.1,2018-05-01,Android device security updates (LM-X410AS only),False,X410AS10c,MPSS.JO.3.0.c12-00005-8937_GENNS_PACK-1,OPM1.171019.019,LG,85
+K30,2018-07-25,8.1,2018-07-01,Android device security update (LM-X410ASR only),False,X410AS10a,MPSS.JO.3.0.c12-00005-8937_GENNS_PACK-1,OPM1.171019.019,LG,24
+K30,2018-08-27,8.1,2018-08-01,Android device security updates,False,X410AS10f,MPSS.JO.3.0.c12-00005-8937_GENNS_PACK-1,OPM1.171019.019,LG,26
+K30,2018-10-26,8.1,2018-10-01,Real Time Text (RTT) feature,False,X410ASR10g,MPSS.JO.3.0.c12-00015-8937_GENNS_PACK-1,OPM1.171019.019,LG,25
+K30,2018-12-18,8.1,2018-12-01,Android device security updates,False,X410AS10i,MPSS.JO.3.0.c12-00015-8937_GENNS_PACK-1,OPM1.171019.019,LG,17
+K30,2019-02-22,8.1,2019-02-01,Security Patch Level,False,X410AS10j,N/A,OPM1.171019.019,LG,21
+K30,2019-04-22,8.1,2019-04-01,N/A,False,X410AS10k,N/A,N/A,LG,21
+LG G Vista 2,2015-11-12,6.0.1,2015-11-01,AT&T Video Call  Upgrade to Android 6.0 Marshmallow  3.10.84,False,H74020e,MPSS.TA.1.0.c1-00030-8952_GEN_PACK-1,MMB29M,LG,11
+LG G4,2016-08-02,6.0,2016-08-01,Android device security updates  3.10.84  H81021z,False,H81022b,MPSS.BO.2.5.c3-00128-M8992FAAAANAZM-1.50758.1,MRA58K,LG,1
+LG G4,2016-09-30,6.0,2016-09-01,Android device security updates  3.10.84  H81022b,False,H81022c,MPSS.BO.2.5.c3-00128-M8992FAAAANAZM-1.50758.1,MRA58K,LG,29
+LG G4,2016-12-12,6.0,2016-11-01,Android device security updates  3.10.84  H81022c,False,H81022d,MPSS.BO.2.5.c3-00128-M8992FAAAANAZM-1.50758.1,MRA58K,LG,41
+LG G5,2016-05-05,6.0.1,2016-05-01,Wi-Fi Calling  3.18.20,False,H82011k,MPSS.TH.2.0.C1.4-00032-M8996FAAAANAZM-1.63052.1,MMB29M,LG,4
+LG G5,2016-09-30,7.0,2016-09-01,Android device security updates  3.18.31,False,H82020i,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.72241.1.75329.1,NRD90U,LG,29
+LG G5,2017-02-20,7.0,2017-01-01,Subscriber Identity Module (SIM) / International Mobile Subscriber Identity (IMSI) support for Wireless Internet Service Provider roaming (WISPr) and Real Time Text (RTT) fix  3.18.31  H82020i,False,H82020n,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.72241.1.75329.1,NRD90U,LG,50
+LG G5,2017-03-23,7.0,2017-03-01,Android device security updates  3.18.31,False,H82020o,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.75329.1.104781.1,NRD90U,LG,22
+LG G5,2017-05-31,7.0,2017-04-01,BlueBorne fix (on SPLs September 1 or later)  Android device security updates  3.18.31,False,H82020p,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.104781.1.109835.1a,NRD90U,LG,60
+LG G5,2017-07-21,7.0,2017-06-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later) and KRACK Wi-Fi vulnerability fix.  3.18.31",False,H82020q,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.104781.1.109835.1a,NRD90U,LG,50
+LG G5,2017-09-11,8.0,2017-08-01,Android 8.0 Oreo Android 8.0 OreoTM Android device security updates,True,N/A,N/A,OPR1.170623.032Software,LG,41
+LG G5,2017-10-04,7.0,2017-09-01,Android device security updates,False,H82020r,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.109835.1a.128516.1,NRD90U,LG,33
+LG G5,2017-12-12,6.0.1,2017-11-01,Add DTV Widget to homescreen +1  Device Performance enhancements  3.18.20,False,H82010h,MPSS.TH.2.0.c1.4-00013-M8996FAAAANAZM-2.44625.9,MMB29M,LG,41
+LG G5,2017-12-05,7.0,2017-11-06,"Android device security updates, including Meltdown and Spectre mitigation patches",False,H82020s,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.109835.1a.128516.1,NRD90U,LG,29
+LG G5,2018-02-05,7.0,2018-01-01,Android device security updates and radio improvements,False,H82020t,MPSS.TH.2.0.c1.4-00041-M8996FAAAANAZM-1.128516.1.135048.1,NRD90U,LG,35
+LG G8,2019-04-17,9.0,2019-04-01,N/A,False,G820UM10j,N/A,N/A,LG,16
+LG G8,2019-11-08,9.0,2019-11-01,N/A,True,G820UM10m,N/A,N/A,LG,7
+LG G8,2019-12-17,9.0,2019-12-01,N/A,True,G820UM10n,N/A,N/A,LG,16
+LG G8X ThinQ,2019-12-09,9.0,2019-11-01,Security Patch Level,False,G850UM10i,N/A,PKQ1.190522.001,LG,38
+LG K10,2016-11-01,7.0,2016-09-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later) and KRACK Wi-Fi vulnerability fix  3.10.49  K42520e",False,K42520f,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.90266.1.93441.1.106743.1,NRD90U,LG,61
+LG K10,2017-06-21,7.0,2017-04-01,"Android device security updates, including KRACK Wi-Fi vulnerability fix and BlueBorne fix (on SPLs Sept. 1 or later)",False,K42520g,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.90266.1.93441.1.106743.1,NRD90U,LG,81
+LG K10,2017-08-14,7.0,2017-07-01,Android device security updates,False,K42520i,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.90266.1.93441.1.106743.1,NRD90U,LG,44
+LG K20,2017-08-11,7.0,2017-05-01,"Wallpaper Image updates and Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.18.31",False,M25510I,MPSS.JO.2.0.c1.2-00029-8937_GENNS_PACK-1,NRD90U,LG,102
+LG K20,2017-08-11,7.0,2017-08-01,Updated lock screen  3.18.31,False,M25510k,MPSS.JO.2.0.c1.2-00029-8937_GENNS_PACK-1,NRD90U,LG,10
+LG K20,2017-11-16,7.0,2017-10-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.18.31",False,M25510q,MPSS.JO.2.0.c1.2-00029-8937,NRD90U,LG,46
+LG K20,2018-01-08,7.0,2017-12-01,Android device security updates  3.18.31,False,M25510r,MPSS.JO.2.0.c1.2-00029-8937,NRD90U,LG,38
+LG K20,2018-03-08,7.0,2018-02-01,Android device security updates,False,M25510s,MPSS.JO.2.0.c1.2-00029-8937_GENNS_PACK-1,NRD9OU,LG,35
+LG K20,2018-05-15,7.0,2018-04-01,Various fixes and enhancements,False,M25510u,MPSS.JO.2.0.c1.2-00029-8937_GENNS_PACK-1,NRD9OU,LG,44
+LG K20,2018-10-10,8.1.0,2018-08-01,Android device security updates,False,M25520c,MPSS.JO.2.0.c1.2-00044-8937_GENNS_PACK-1,OPM1.171019.026,LG,70
+LG K20,2018-10-30,8.1.0,2018-10-01,Android device security updates,False,M25520d,MPSS.JO.2.0.c1.2-00044-8937_GENNS_PACK-1,OPM1.171019.026,LG,29
+LG K20,2018-12-18,8.1.0,2018-12-01,Android device security updates,False,M25520e,N/A,OPM1.171019.026,LG,17
+LG K20,2019-02-26,8.1,2019-02-01,N/A,False,M25520f,N/A,OPM1.171019.026,LG,25
+LG Phoenix 3,2017-06-20,7.0,2017-04-01,Android device security updates  3.10.49  M15020d,False,M15020e,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,NRD90U,LG,80
+LG Phoenix 3,2017-06-20,7.0,2017-06-01,"Android 7.0, Firefox browser, Wi-Fi Calling, and Call Protect  Android device security updates  3.10.49  Build number ending in 10g",False,M15020d,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1,NRD90U,LG,19
+LG Phoenix 3,2017-09-05,7.0,2017-08-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.10.49  M15020e",False,M15020f,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,N/A,LG,35
+LG Phoenix 3,2017-11-09,7.0,2017-10-01,"Android device security updates, including KRACK Wi-Fi vulnerability fix  3.10.49  M15020f",False,M15020g,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,N/A,LG,39
+LG Phoenix 3,2018-01-03,7.0,2017-12-01,Android device security updates  3.10.49  M15020g,False,M15020h,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,NRD90U,LG,33
+LG Phoenix 3,2018-03-08,7.0,2018-02-01,Device performance improvements  3.10.49  M15020h,False,M15020l,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,NRD90U,LG,35
+LG Phoenix 3,2018-06-05,7.0,2018-04-01,Various fixes and enhancements  M15020m,False,M15020n,MPSS.JO.2.0.c1.2-00020-8909_GEN_PACK-1.92496.1.104247.1,NRD90U,LG,65
+LG Phoenix 4,2018-08-31,7.1.2,2018-08-01,"Messaging and email fixes, and sensor, LCD, modem, and LG app updates",False,X210APM10h,MPSS.JO.3.0.c12-00013-8937_GENNS_PACK-1,N2G47H,LG,30
+LG Phoenix 4,2018-10-29,7.1.2,2018-10-01,Real Time Text (RTT) capability  Android device security updates,False,X210APM10k,MPSS.JO.3.0.c12-00013-8937_GENNS_PACK-1,N2G47H,LG,28
+LG Phoenix 4,2018-12-12,7.1.2,2018-11-01,Device security updates,False,X210APM10l,MPSS.JO.3.0.c12-00013-8937_GENNS_PACK-1,N/A,LG,41
+LG Phoenix 4,2019-01-16,7.1.2,2019-01-01,Device security updates,False,X210APM10m,MPSS.JO.3.0.c12-00013-8937_GENNS_PACK-1,N/A,LG,15
+LG Prime 2,2018-01-03,9.0,2017-11-01,Android 9.0 Pie Security patch levelWhat's new: Advanced Messaging version 2 fix and Device performance improvements,True,N/A,N/A,PKQ1.190414.001Software,LG,63
+LG Prime 2,2018-08-01,9.0,2018-05-01,N/A,False,X320AA10d,N/A,N/A,LG,92
+LG Prime 2,2019-11-25,9.0,2019-11-01,N/A,False,X320AA10e,N/A,N/A,LG,24
+LG Stylo 5+,2018-01-03,9.0,2018-01-01,N/A,False,Q720AM10b,N/A,N/A,LG,2
+LG Stylo 5+,2018-04-24,9.0,2018-03-01,Android 9.0 Pie Security patch level,True,N/A,N/A,PKQ1.190302.001Software,LG,54
+LG V10,2015-11-11,6.0,2015-11-01,Upgrade to Android 6.0 Marshmallow Video Calling (IR94) Advanced Messaging (IPME)  3.10.84  980MB,False,H90020j,MPSS.BO.2.5.c10.1-00014-M8992FAAAANAZM-1.41087.1,MRA58K,LG,10
+LG V10,2016-10-11,6.0,2016-09-01,Android device security updates  3.10.84,False,H90021x,MPSS.BO.2.5.c10.1-00024-M8992FAAAANAZM-1.55482.1.56599.1,MRA58K,LG,40
+LG V10,2016-12-12,6.0,2016-11-01,Android device security updates  3.10.84,False,H90021y,MPSS.BO.2.5.c10.1-00024-M8992FAAAANAZM-1.55482.1.56599.1,MRA58K,LG,41
+LG V10,2017-02-14,6.0,2017-01-01,Android device security updates  3.10.84,False,H90021z,MPSS.BO.2.5.c10.1-00024-M8992FAAAANAZM-1.55482.1.56599.1,MRA58K,LG,44
+LG V20,2017-01-10,7.0,2016-12-01,"Android device security updates, including BlueBornefix (for SPLs September 1 or later) and KRACK Wi-Fi vulnerability fix  3.18.31",False,H91010r,MPSS.TH.2.0.1.c3-00045-M8996FAAAANAZM-1,NRD90M,LG,40
+LG V20,2017-01-10,7.0,2017-01-01,"Android device security updates, including BlueBornefix (for SPLs September 1 or later)  3.18.31",False,H91010q,MPSS.TH.2.0.1.c3-00045-M8996FAAAANAZM-1,NRD90M,LG,9
+LG V20,2017-04-14,7.0,2017-04-01,"Android device security updates, including Meltdown and Spectre mitigation patches  3.18.31",False,H91010u,MPSS.TH.2.0.1.c3-00045-M8996FAAAANAZM-1,NRD90M,LG,13
+LG V20,2017-10-04,7.0,2017-08-01,Android device security updates,False,H91010v,MPSS.TH.2.0.1.c3-00045-M8996FAAAANAZM-1.145041.1.149166.1,NRD90M,LG,64
+LG V20,2017-10-31,8.0,2017-10-01,Android 8.0 OreoTM and First Responder Network Authority (FirstNet) IOC2  Mobile Hotspot Access Point Name (APN),False,H91020g,MPSS.TH.2.0.1.c3-00058-M8996FAAAANAZM-1.155473.1.156374.2,OPR1.170623.032,LG,30
+LG V30,2017-10-06,8.0.0,2017-10-01,N/A,False,H93120d,N/A,N/A,LG,5
+LG V30,2017-12-19,9.0,2017-12-01,Android 9.0 Pie Security Patch Level and Android 9.0 Pie OS,True,N/A,N/A,N/A,LG,18
+LG V30,2018-02-23,7.1.2,2018-01-05,N/A,False,H93111N,N/A,N/A,LG,49
+LG V30,2018-08-06,8.0.0,2018-05-01,N/A,False,H93120c,N/A,N/A,LG,97
+LG V30,2019-11-19,8.0,2019-11-01,True,None,H93120d,N/A,N/A,LG,18
+LG V35 ThinQ,2018-07-25,8.0,2018-07-01,N/A,False,V350AWM10i,N/A,N/A,LG,24
+LG V40 ThinQ,2015-12-21,9.0,2015-12-01,Android 9.0 Pie Security patch level,True,N/A,N/A,PKQ1.190202.001Software,LG,20
+LG V40 ThinQ,2016-05-02,8.0,2016-05-01,Android device security updates,False,V405UA10j,MPSS.AT.4.0.c2.9-00051-SDM845_GEN_PACK-1.167582.1.170033.3,OPM1.171019.026,LG,1
+LG V40 ThinQ,2018-11-14,8.1,2018-10-01,Android device security updates,False,V405UA10l,MPSS.AT.4.0.c2.9-00051-SDM845_GEN_PACK-1.167827.1.170033.3,OPM1.171019.026,LG,44
+LG V40 ThinQ,2018-11-14,8.0,2018-11-01,Android device security updates,False,V405UA10k,MPSS.AT.4.0.c2.9-00051-SDM845_GEN_PACK-1.167827.1.170033.3,OPM1.171019.026,LG,13
+LG V40 ThinQ,2019-01-28,8.1,2019-01-01,April Security Patch Level,False,V405UA10o,N/A,OPM1.171019.026,LG,27
+LG V40 ThinQ,2019-03-26,9.0,2019-03-01,Android 9.0 Pie OS update,False,V405UA20d,N/A,PKQ1.190202.001,LG,25
+LG V40 ThinQ,2019-04-17,9.0,2019-04-01,N/A,False,V405UA20e,N/A,N/A,LG,16
+LG X venture,2017-10-04,7.0,2017-09-01,"Android device security updates, including Meltdown and Spectre mitigation patches (on SPLs February 1 and later)",False,H70010l,MPSS.TA.2.3.c4-00011-8940_GEN_PACK-1.114711.1,NRD90U,LG,33
+LG X venture,2018-01-26,7.0,2017-12-01,Android device security updates,False,H70010m,MPSS.TA.2.3.c4-00011-8940_GEN_PACK-1.114711.1,NRD90U,LG,56
+LG X venture,2018-03-13,7.0,2018-02-01,Various fixes and improvements,False,H70010o,N/A,NRD90U,LG,40
+LG X venture,2018-05-16,8.1,2018-04-01,Security patch level  Android 8.1 Oreo OS,False,H70020a,N/A,OPM1.171019.026,LG,45
+LG Xpression Plus,2018-10-24,8.1,2018-10-01,N/A,False,X410AS10f,N/A,N/A,LG,23
+LG Xpression Plus 2,2019-11-19,9.0,2019-11-01,Android 9.0 Pie Security patch level,True,N/A,N/A,PKQ1.190414.001Software,LG,18
+Motorola Moto G6 Play,2018-06-06,8.0,2018-06-01,N/A,False,N/A,N/A,OCP27.91-62,Motorola,5
+Motorola Moto X,2015-12-22,5.1,2015-12-01,Device security enhancements  2016-03-01  3.4.42  23.201.3.victara_att.att.en.US att,False,N/A,MSM8974BP_4235210.110.09.11R VICTARA_ATT_CUST,LPES23.32-21.9-3,Motorola,21
+Motorola Moto Z2 Force Edition,2017-09-01,7.1.1,2017-08-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  4.4.21  26.206.9",False,N/A,M8998_24.71.01.87R NUS_ATT,NCXS26.122-59-8-9,Motorola,31
+Motorola Moto Z2 Force Edition,2017-09-01,7.1.1,2017-09-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  4.4.21  26.51.8",False,N/A,M8998_24.71.01.87R NUS_ATT,NCX26.122-59-8-6,Motorola,0
+Motorola Moto Z2 Force Edition,2017-10-31,8.0.0,2017-10-01,Android Oreo 8.0  8.0.0/OCX27.109-47/51,False,N/A,M8998_20207.117.02.41R,OCX27.109-47,Motorola,30
+Motorola Moto Z2 Force Edition,2017-12-12,8.0.0,2017-11-01,Android device security updates  8.0.0/OCXS27.109-47-11/13,False,N/A,M8998_20207.117.02.41R,OCXS27.109-47-11,Motorola,41
+Motorola Moto Z2 Force Edition,2018-02-20,8.0.0,2018-01-01,Android device security updates  8.0.0/OCXS27.109-47-14/18,False,N/A,M8998_20207.117.02.41R,OCXS27.109-47-14,Motorola,50
+Motorola Moto Z2 Force Edition,2018-08-14,8.0.0,2018-07-01,Android device security updates  8.0.0/OCXS27.109-47-17/23,False,N/A,M8998_20207.117.02.41R,OCXS27.109-47-17,Motorola,44
+Motorola Moto Z2 Force Edition,2018-10-09,8.0.0,2018-09-01,N/A,False,N/A,N/A,OCXS27.109-47-20,Motorola,38
+Motorola Moto Z2 Force Edition,2018-12-18,8.0.0,2018-11-01,N/A,False,N/A,N/A,OCXS27.109-47-23,Motorola,47
+Motorola Moto e,2017-04-07,5.1,2017-03-01,Android 5.1 Lollipop Android device security updates,True,N/A,N/A,LPI23.29,Motorola,37
+Motorola Moto e,2017-08-21,5.1,2017-06-05,Upgrade to Android OS 5.1 Factory Reset Protection Exchange Active Sync upgrades,False,N/A,M8916_2020602.05.03.21.07RS,LPI23.29-18.5,Motorola,77
+Motorola Moto e5 play,2017-10-11,8.0,2017-08-01,Android 8.0 Security patch level,True,N/A,N/A,N/A,Motorola,71
+Motorola Moto e5 play,2019-01-22,8.0,2019-01-01,N/A,False,N/A,N/A,OCPS27.91-157-2,Motorola,21
+RED Hydrogen One,2018-11-01,8.1.0,2018-09-01,Android device security updates and camera enhancements,False,N/A,MPSS.JO.3.0-00459-8909_GEN_PACK-1.154660.1,H1A1000.007ho.01.01.01r252,RED,61
+RED Hydrogen One,2018-11-01,8.1.0,2018-11-01,"Android device security updates, Integrated Camera stability fixes, Integrated Audio 3D improvements, and Integrated Leiafoft updates and minor bug fixes",False,N/A,MPSS.AT.2.0.C4-00933-8998_GEN_PACK-1.160736.2.163182.1,H1A1000.007ho.01.01.01r230,RED,0
+Razer Phone 2,2018-12-19,8.1,2018-12-01,O-RZR-ATT-RLS003,False,N/A,N/A,N/A,Razer,18
+Galaxy A6,2018-11-06,8.0.0,2018-11-01,N/A,False,N/A,G892AUCU3BRJ2,N/A,Samsung,5
+Galaxy Express 3,2016-04-27,6.0.1,2016-04-01,Voice over LTE (VoLTE) and AT&T Messages enhancements  3.10.9-7662162,False,N/A,J120AUCU1APC8,MMB29K.J120AUCU1APC8,Samsung,26
+Galaxy Express 3,2016-04-27,6.0.1,2016-04-02,Fullscreen virtual preload  Android device security updates  3.10.9-7662162  J120AUCU1APC4 or J120AUCU1APC8,False,N/A,J120AUCU2APJ2,MMB29K.J120AUCU2APJ2,Samsung,25
+Galaxy Express 3,2016-11-08,6.0.1,2016-10-01,Android device security updates  3.10.9-7662162,False,N/A,J120AUCS2AQB1,MMB29K.J120AUCS2AQB1,Samsung,38
+Galaxy Express 3,2017-02-23,6.0.1,2017-01-01,"MCC/MNC support (310/030, 310/280)  Fixes for issues with VoLTE mute, RTCP jitter, and Rx audio (market reported issue)  3.10.9-7662162  J120AUCU2APJ2 or J120AUCS2AQB1",False,N/A,J120AUCU2AQC1,MMB29K.J120AUCU2AQC1,Samsung,53
+Galaxy Express 3,2017-03-28,6.0.1,2017-03-01,Android device security updates  3.10.9-7662162,False,N/A,J120AUCS3AQE1,MMB29K.J120AUCS3AQE1,Samsung,27
+Galaxy Express 3,2017-06-08,6.0.1,2017-05-01,KRACK Wi-Fi vulnerability fix  3.10.9-7662162  J120AUCS3AQE1,False,N/A,J120AUCS4AQJ2,MMB29K.J120AUCS4AQJ2,Samsung,38
+Galaxy Express Prime 2,2017-04-18,7.0,2017-04-01,N/A,False,N/A,J327AUCU1AQC2,N/A,Samsung,17
+Galaxy Express Prime 3,2018-07-20,8.0,2018-07-01,N/A,False,N/A,J337AUCS1ARG1,N/A,Samsung,19
+Galaxy Express prime,2016-04-18,6.0.1,2016-04-01,Fullscreen Virtual Preload  Android device security updates  3.10.9-7663112,False,N/A,J320AUCU2APJ2,MMB29K.J320AUCU2APJ2,Samsung,17
+Galaxy Express prime,2016-04-18,6.0.1,2016-04-02,Android device security updates  3.10.9-7663112,False,N/A,J320AUCU2AQA1,MMB29K.J320AUCS2AQA1,Samsung,16
+Galaxy Express prime,2016-11-08,6.0.1,2016-10-01,"MCC/MNC support (310/030, 310/280)  Fixes for issues with VoLTE mute, RTCP jitter, and Rx audio (market reported issue)  3.10.9-7663112  Build number ending in PJ2 or QA1",False,N/A,J320AUCU2AQC1,MMB29K.J320AUCU2AQC1,Samsung,38
+Galaxy Express prime,2017-02-23,6.0.1,2017-01-01,Android device security updates  3.10.9-7663112  J320AUCU2AQC1,False,N/A,J320AUCS3AQG1,MMB29K.J320AUCS3AQG1,Samsung,53
+Galaxy Express prime,2017-03-28,7.1.1,2017-03-01,"Android 7.1.1 Nougat, Video Calling, and Wi-Fi Calling  BlueBorne fix  3.10.9-12256182",False,N/A,J320AUCU2AQI5,NMF26X.J320AUCU3BQI5,Samsung,27
+Galaxy Express prime,2018-06-28,7.1.1,2018-06-01,Android 7.1.1 Nougat Android device security updates,True,3.10.9,N/A,NMF26X.J320AUCS3BQL2File,Samsung,27
+Galaxy Express prime,2018-07-26,6.0.1,2018-07-01,Voice over LTE (VoLTE) and AT&T Messages enhancements  3.10.9-7663112 Security enhancements: Enforcing SEPF_SECMOBILE_6.0.1_0010 Thu Mar 31 14:02:20 2016,False,N/A,J320AUCU1APC9,MMB29K.J320AUCU1APC9,Samsung,25
+Galaxy Fold,2019-10-31,9.0,2019-10-01,N/A,False,N/A,F900USQU1ASJ4,N/A,Samsung,30
+Galaxy J3 (2016),2016-11-08,6.0.1,2016-10-01,Android device security updates  3.10.9-7663112,False,N/A,J320AUCU2AQA1,MMB29K.J320AUCS2AQA1,Samsung,38
+Galaxy J3 (2016),2016-11-08,6.0.1,2016-11-01,Fullscreen Virtual Preload  Android device security updates  3.10.9-7663112,False,N/A,J320AUCU2APJ2,MMB29K.J320AUCU2APJ2,Samsung,7
+Galaxy J3 (2016),2017-02-23,6.0.1,2017-01-01,"MCC/MNC support (310/030, 310/280)  Fixes for issues with VoLTE mute, RTCP jitter, and Rx audio (market reported issue)  3.10.9-7663112  Build number ending in PJ2 or QA1",False,N/A,J320AUCU2AQC1,MMB29K.J320AUCU2AQC1,Samsung,53
+Galaxy J3 (2016),2017-03-28,6.0.1,2017-03-01,Android device security updates  3.10.9-7663112  J320AUCU2AQC1,False,N/A,J320AUCS3AQG1,MMB29K.J320AUCS3AQG1,Samsung,27
+Galaxy J3 (2016),2017-07-21,7.1.1,2017-07-01,"Android 7.1.1 Nougat, Video Calling, and Wi-Fi Calling  BlueBorne fix  3.10.9-12256182",False,N/A,J320AUCU2AQI5,NMF26X.J320AUCU3BQI5,Samsung,20
+Galaxy J3 (2017),2017-04-18,7.0,2017-04-01,N/A,False,N/A,J327AUCU1AQC2,N/A,Samsung,17
+Galaxy J3 (2018),2018-07-20,8.0,2018-07-01,"Messaging fix, browser update, and Android device security updates",False,N/A,J337AUCU3ARJ1,R16NW.J337AUCU3ARJ1,Samsung,19
+Galaxy J3 (2018),2018-10-30,8.0.0,2018-09-01,December Security Patch Level,False,N/A,J337AUCU4ARL1,R16NW.J337AUCU4ARL1,Samsung,59
+Galaxy J3 (2018),2018-11-23,9.0,2018-10-01,Android 9.0  Security Patch Level,True,N/A,N/A,PPR1.180610.011.J337AUCS9BTB1File,Samsung,53
+Galaxy J3 (2018),2019-01-08,8.0.0,2018-12-01,March Security Patch Level,False,N/A,J337AUCS5ASC1,R16NW.J337AUCS5ASC1,Samsung,38
+Galaxy J3 (2018),2019-03-21,8.0,2019-03-01,N/A,False,N/A,J337AUCS6ASE1,N/A,Samsung,20
+Galaxy J7 (2018),2017-03-31,9.0,2017-03-01,Android 9.0 Pie Security patch level,True,N/A,N/A,PPR1.180610.011.J737AUCU6BTA3File,Samsung,30
+Galaxy J7 (2018),2018-08-16,8.0,2018-08-01,N/A,False,N/A,J737AUCS2ARH1,N/A,Samsung,15
+Galaxy J7 (J727A),2017-11-15,7.0,2017-11-01,N/A,False,N/A,J727AUCS1AQJ1,N/A,Samsung,14
+Galaxy Note 3,2018-03-06,5.0,2018-02-01,Android 5.0 Lollipop Android device security updates,True,3.4.0,N/A,LRX21V.N900AUCSEOC3,Samsung,33
+Galaxy Note 4,2016-08-18,6.0.1,2016-08-01,"Android 6.0 Marshmallow Operating System Video Calling Advanced Messaging Wi-Fi Calling  3.10.40-8932341  OI6, OI7, or OI9",False,N/A,N910AUCU2EPH5,MMB29M.N910AUCU2EPH5,Samsung,17
+Galaxy Note 4,2016-09-26,6.0.1,2016-09-01,Android device security enhancements  Call and data reliability improvements for certain network conditions  3.10.40-8932341  N910AUCU2EPH5 or N910AUCS2EPH7,False,N/A,N910AUCU2EPK1,MMB29M.N910AUCU2EPK1,Samsung,25
+Galaxy Note 4,2016-12-01,6.0.1,2016-11-01,Android device security updates  3.10.40-8932341  N910AUCU2EPK1,False,N/A,N910AUCS2EPK2,MMB29M.N910AUCS2EPK2,Samsung,30
+Galaxy Note 4,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.10.40-8932341  N910AUCS2EPK2,False,N/A,N910AUCS2EPK3,MMB29M.N910AUCS2EPK3,Samsung,42
+Galaxy Note 4,2017-02-06,6.0.1,2017-01-01,Android device security updates  3.10.40-8932341  N910AUCS2EPK3,False,N/A,N910AUCS2EPK4,MMB29M.N910AUCS2EPK4,Samsung,36
+Galaxy Note 4,2017-03-10,6.0.1,2017-02-01,Android device security updates  3.10.40-8932341  N910AUCS2EPK4,False,N/A,N910AUCS2EPK5,MMB29M.N910AUCS2EPK5,Samsung,37
+Galaxy Note 4,2017-03-27,6.0.1,2017-03-01,Android device security updates  3.10.40-8932341  N910AUCS2EPK5,False,N/A,N910AUCS2EQD1,MMB29M.N910AUCS2EQD1,Samsung,26
+Galaxy Note 4,2017-04-26,6.0.1,2017-04-01,Android device security updates  3.10.40-8932341  N910AUCS2EQD1,False,N/A,N910AUCS2EQE1,MMB29M.N910AUCS2EQE1,Samsung,25
+Galaxy Note 4,2017-05-22,6.0.1,2017-05-01,Android device security updates  3.10.40-8932341  6.0.1/MMB29M/N910AUCS2EQF1  N910AUCS2EQE1,False,N/A,N910AUCS2EQF1,MMB29M.N910AUCS2EQF1,Samsung,21
+Galaxy Note 4,2017-06-20,6.0.1,2017-06-01,Android device security updates  3.10.40-8932341  6.0.1/MMB29M/N910AUCS2EQG1  N910AUCS2EQF1,False,N/A,N910AUCS2EQG1,MMB29M.N910AUCS2EQG1,Samsung,19
+Galaxy Note 5,2015-09-15,5.1.1,2015-09-01,Enhanced performance and other device improvements Samsung Pay  3.10.61-5554916  84MB,False,N/A,G920AUCU1AOH5,LMY47X.N920AUCU1AOH5,Samsung,14
+Galaxy Note 5,2016-08-25,6.0.1,2016-08-01,Android device security updates  3.10.61-8961126  N920AUCU3CPHA,False,N/A,N920AUCS3CPJ1,MMB29K. N920AUCS3CPJ1,Samsung,24
+Galaxy Note 5,2016-09-20,6.0.1,2016-09-01,Android device security updates  3.10.61-8961126  N920AUCS3CPJ1,False,N/A,N920AUCS4CPK1,MMB29K.N920AUCS4CPK1,Samsung,19
+Galaxy Note 5,2016-10-26,6.0.1,2016-10-01,Android device security updates  3.10.61-8961126  N920AUCS4CPK1,False,N/A,N920AUCS4CPL1,MMB29K.N920AUCS4CPL1,Samsung,25
+Galaxy Note 5,2016-11-29,6.0.1,2016-11-01,Android device security updates  3.10.61-8961126  N920AUCS4CPL1,False,N/A,N920AUCS4CQA1,MMB29K.N920AUCS4CQA1,Samsung,28
+Galaxy Note 5,2017-01-16,6.0.1,2016-12-01,Android device security updates  3.10.61-8961126  N920AUCS4CQA1,False,N/A,N920AUCS4CQB2,MMB29K.N920AUCS4CQB2,Samsung,46
+Galaxy Note 5,2017-02-08,7.0,2017-01-01,"Android 7.0 Nougat, Samsung Cloud, and Samsung Pass  Network performance enhancements and Android device security updates  AT&T Address Book, MobiTV, and AT&T Live  3.10.61-10809541  N920AUCS4CQA1 or N920AUCS4CQB2",False,N/A,N920AUCU4EQC6,NRD90M.N920AUCU4EQC6,Samsung,38
+Galaxy Note 5,2017-03-10,7.0,2017-02-01,Android device security updates  3.10.61-10809541  N920AUCU4EQC6,False,N/A,N920AUCS4EQD1,NRD90M.N920AUCS4EQD1,Samsung,37
+Galaxy Note 5,2017-04-11,7.0,2017-03-01,Android device security updates  3.10.61-10809541  N920AUCS4EQD1,False,N/A,N920AUCS4EQE1,NRD90M.N920AUCS4EQE1,Samsung,41
+Galaxy Note 5,2017-04-27,7.0,2017-04-01,Android device security updates  3.10.61-10809541  N920AUCS4EQE1,False,N/A,N920AUCS4EQF1,NRD90M.N920AUCS4EQF1,Samsung,26
+Galaxy Note 5,2017-05-25,7.0,2017-05-01,Android device security updates  3.10.61-10809541  N920AUCS4EQF1,False,N/A,N920AUCS4EQG1,NRD90M.N920AUCS4EQG1,Samsung,24
+Galaxy Note 5,2017-06-27,7.0,2017-06-01,Android device security updates  3.10.61-10809541  N920AUCS4EQG1,False,N/A,N920AUCS4EQH1,NRD90M.N920AUCS4EQH1,Samsung,26
+Galaxy Note 5,2017-07-31,7.0,2017-07-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.10.61-10809541  N920AUCS4EQH1",False,N/A,N920AUCS4EQJ1,NRD90M.N920AUCS4EQJ1,Samsung,30
+Galaxy Note 5,2017-08-25,7.0,2017-08-01,"Support for new Mobile Hotspot APN  Network performance improvements and Android device security updates, including BlueBorne fix (on SPLs September 1 or later) and KRACK Wi-Fi vulnerability fix  3.10.61-12579816  7.0/NRD90M/N920AUCU4EQK6  N920AUCS4EQH1 or N920AUCS4EQJ1",False,N/A,N920AUCU4EQK6,NRD90M.N920AUCU4EQK6,Samsung,24
+Galaxy Note 5,2017-11-07,7.0,2017-10-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.10.61-12579816  7.0/NRD90M/N920AUCS4EQL1  N920AUCU4EQK6",False,N/A,N920AUCS4EQL1,NRD90M.N920AUCS4EQL1,Samsung,37
+Galaxy Note 5,2017-12-12,7.0,2017-11-01,"Android device security updates, including Meltdown and Spectre mitigation patches  3.10.61-12579816  7.0/NRD90M/N920AUCS5ERA2  N920AUCS4EQL1",False,N/A,N920AUCS5ERA2,NRD90M.N920AUCS5ERA2,Samsung,41
+Galaxy Note 5,2017-12-28,7.0,2017-12-01,Android device security updates  7.0/NRD90M/N920AUCS5ERB2  N920AUCS5ERA2,False,N/A,N920AUCS5ERB2,NRD90M.N920AUCS5ERB2,Samsung,27
+Galaxy Note 5,2018-02-02,7.0,2018-01-01,Mobile Hotspot APN fix and Android device security updates  N920AUCS5ERA2 & N920AUCS5ERB2,False,N/A,N920AUCU5ERB5,NRD90M.N920AUCU5ERB5,Samsung,32
+Galaxy Note 5,2018-03-09,7.0,2018-02-01,Android device security updates  N920AUCU5ERB5,False,N/A,N920AUCS5ERD1,NRD90M.N920AUCS5ERD1,Samsung,36
+Galaxy Note 5,2018-03-27,7.0,2018-03-01,Android device security updates  N920AUCS5ERD1,False,N/A,N920AUCS5ERE1,NRD90M.N920AUCS5ERE1,Samsung,26
+Galaxy Note 5,2018-05-07,7.0,2018-04-01,Android device security updates  N920AUCS5ERE1,False,N/A,N920AUCS5ERF2,NRD90M.N920AUCS5ERF2,Samsung,36
+Galaxy Note 5,2018-05-25,7.0,2018-05-01,Android device security updates  N920AUCS5ERF2,False,N/A,N920AUCS5ERG1,NRD90M.N920AUCS5ERG1,Samsung,24
+Galaxy Note Edge,2016-08-19,6.0.1,2016-08-01,Android 6.0 Marshmallow Video Calling Advanced Messaging Wi-Fi Calling  3.10.40-8932341,False,N/A,N915AUCU2DPH5,MMB29M.N915AUCU2DPH5,Samsung,18
+Galaxy Note Edge,2016-09-26,6.0.1,2016-09-01,Android device security enhancements  Call and data reliability improvements for certain network conditions  3.10.40-8932341  N915AUCU2DPH5 or N915AUCS2DPH7,False,N/A,N915AUCU2DPK1,MMB29M.N915AUCU2DPK1,Samsung,25
+Galaxy Note Edge,2016-12-08,6.0.1,2016-11-01,Android device security updates  3.10.40-8932341  N915AUCU2DPK1,False,N/A,N915AUCS2DPK2,MMB29M.N915AUCS2DPK2,Samsung,37
+Galaxy Note Edge,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.10.40-8932341  N915AUCS2DPK2,False,N/A,N915AUCS2DPK3,MMB29M.N915AUCS2DPK3,Samsung,42
+Galaxy Note Edge,2017-02-01,6.0.1,2017-01-01,Android device security updates  3.10.40-8932341  N915AUCS2DPK3,False,N/A,N915AUCS2DPK4,MMB29M.N915AUCS2DPK4,Samsung,31
+Galaxy Note Edge,2017-03-10,6.0.1,2017-02-01,Android device security updates  3.10.40-8932341  N915AUCS2DPK4,False,N/A,N915AUCS2DPK5,MMB29M.N915AUCS2DPK5,Samsung,37
+Galaxy Note Edge,2017-03-27,6.0.1,2017-03-01,Android device security updates  3.10.40-8932341  N915AUCS2DPK5,False,N/A,N915AUCS2DQD1,MMB29M.N915AUCS2DQD1,Samsung,26
+Galaxy Note Edge,2017-04-26,6.0.1,2017-04-01,Android device security updates  3.10.40-8932341  N915AUCS2DQD1,False,N/A,N915AUCS2DQE1,MMB29M.N915AUCS2DQE1,Samsung,25
+Galaxy Note Edge,2017-05-22,6.0.1,2017-05-01,Android device security updates  3.10.40-8932341  6.0.1/MMB29M/N915AUCS2DQF1  N915AUCS2DQE1,False,N/A,N915AUCS2DQF1,MMB29M.N915AUCS2DQF1,Samsung,21
+Galaxy Note Edge,2017-06-20,6.0.1,2017-06-01,Android device security updates  3.10.40-8932341  6.0.1/MMB29M/N915AUCS2DQG1  N915AUCS2DQF1,False,N/A,N915AUCS2DQG1,MMB29M.N915AUCS2DQG1,Samsung,19
+Galaxy Note II,2017-07-21,4.4.2,2017-07-01,Android 4.4.2 KitKat Android device security updates,True,3.0.31,N/A,KOT49H.I317UCSCNJ5File,Samsung,20
+Galaxy Note II,2017-10-11,4.1.2,2017-08-01,Chipset security enhancement Update is only available for devices that have been upgraded to Android 4.1.2,False,N/A,I317UCAMA4,N/A,Samsung,71
+Galaxy Note8,2017-09-25,7.1.1,2017-08-01,"Network performance enhancements, stability improvements, other various updates and fixes, and Android device security updates, including KRACK Wi-Fi vulnerability fix and BlueBorne fix (on SPLs September 1 or later)  4.4.21-12461033  7.1.1/NMF26X/N950USQU2BQJA  N950USQU1AQH7 or N950USQU1AQIA",False,N/A,N950USQU2BQJA,NMF26X.N950USQU2BQJA,Samsung,55
+Galaxy Note8,2017-09-25,7.1.1,2017-09-01,"Network performance enhancements, call performance improvements, stability improvements, GPS issue fix, updated Setup and Transfer, update to Bixby Applications, and BlueBorne fix (for SPLs after August)  4.4.21-12185999  7.1.1/NMF26X/N950USQU1AQIA  N950USQU1AQH7",False,N/A,N950USQU1AQIA,NMF26X.N950USQU1AQIA,Samsung,24
+Galaxy Note8,2017-11-14,7.1.1,2017-10-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  4.4.21-12461033  7.1.1/NMF26X/N950USQS2BQK2  N950USQU2BQJA",False,N/A,N950USQS2BQK2,NMF26X.N950USQS2BQK2,Samsung,44
+Galaxy Note8,2017-12-04,7.1.1,2017-11-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  4.4.21-12461033  7.1.1/NMF26X/N950USQS2BQL5  N950USQS2BQK2",False,N/A,N950USQS2BQL5,NMF26X.N950USQS2BQL5,Samsung,33
+Galaxy Note8,2017-12-28,7.1.1,2017-12-01,"Android device security updates, including Meltdown and Spectre migration patches (on SPLs Jan. 1 or later)  N950USQS2BQL5",False,N/A,N950USQS3BRA8,NMF26X.N950USQS3BRA8,Samsung,27
+Galaxy Note8,2018-01-26,7.1.1,2018-01-01,Android device security updates  N950USQS3BRA8,False,N/A,N950USQS3BRB2,NMF26X.N950USQS3BRB2,Samsung,25
+Galaxy Note8,2018-03-09,8.0.0,2018-02-01,Android 8.0 OreoTM  N950USQS3BRA8 or N950USQS3BRB2,False,N/A,N950USQU3CRC2,R16NW.N950USQU3CRC2,Samsung,36
+Galaxy Note8,2018-03-27,8.0.0,2018-03-01,FirstNet IOC2  Android device security updates  N950USQU3CRC2,False,N/A,N950USQU4CRD7,R16NW.N950USQU4CRD7,Samsung,26
+Galaxy Note8,2018-05-15,8.0.0,2018-04-01,Android device security updates  N950USQU4CRD7,False,N/A,N950USQS4CRE1,R16NW.N950USQS4CRE1,Samsung,44
+Galaxy Note8,2018-05-29,8.0.0,2018-05-01,"Various fixes and enhancements, and Android device security updates  N950USQU4CRD7 or N950USQS4CRE1",False,N/A,N950USQU4CRF3,R16NW.N950USQU4CRF3,Samsung,28
+Galaxy Note8,2018-06-26,8.0.0,2018-06-01,Android device security updates  N950USQU4CRF3,False,N/A,N950USQS5CRF6,R16NW.N950USQS5CRF6,Samsung,25
+Galaxy Note8,2018-07-23,8.0.0,2018-07-01,Improved stability and various other enhancements and fixes  N950USQU4CRF3 or N950USQS5CRF6,False,N/A,N950USQU5CRG7,R16NW.N950USQU5CRG7,Samsung,22
+Galaxy Note8,2018-08-31,8.0,2018-08-01,Android device security updates,False,N/A,N950USQS5CRI4,R16NW.N950USQS5CRI4,Samsung,30
+Galaxy Note8,2018-10-02,8.0,2018-09-01,Super Slow Motion added to camera and AR Emoji  Other fixes and enhancements,False,N/A,N950USQU5CRIA,R16NW.N950USQU5CRIA,Samsung,31
+Galaxy Note8,2018-10-23,8.0,2018-10-01,Android device security updates,False,N/A,N950USQS5CRJ3,R16NW.N950USQS5CRJ3,Samsung,22
+Galaxy Note8,2018-11-28,8.0.0,2018-11-01,Android device security updates,False,N/A,N950USQS5CRK,R16NW.N950USQS5CRK1,Samsung,27
+Galaxy Note8,2018-12-21,8.0.0,2018-12-01,"January 1, 2019 Security Patch Level",False,N/A,N950USQS5CRL1,R16NW.N950USQS5CRL1,Samsung,20
+Galaxy Note8,2019-01-30,8.0,2019-01-01,January Security Patch Level,False,N/A,N950USQS5CSA1,R16NW.N950USQS5CSA1,Samsung,29
+Galaxy Note8,2019-03-05,9.0,2019-02-01,"Android 9.0 Pie OS update, Support for WIFI Calling and Video Calling on FirstNet, and March Security Patch Level",False,N/A,N950USQU5DSC1,PPR1.180610.011.N950USQU5DSC1,Samsung,32
+Galaxy Note8,2019-03-28,9.0,2019-03-01,April Security patch level and Fix for BSCP/VPN failure,False,N/A,N950USQU5DSD3,PPR1.180610.011.N950USQU5DSD3,Samsung,27
+Galaxy Note8,2019-04-30,9.0,2019-04-01,N/A,False,N/A,N950USQS5DSE8,N/A,Samsung,29
+Galaxy Note9,2017-03-23,10,2017-03-01,Android 10 Security patch level,True,N/A,N/A,QP1A.190711.020.N960USQS3DTB1File,Samsung,22
+Galaxy Note9,2018-08-24,8.1.0,2018-08-01,N/A,False,N/A,N960USQU1ARH4,N/A,Samsung,23
+Galaxy S4,2017-07-21,5.1,2017-07-01,Android 5.1 Lollipop Android device security updates,True,3.4.0,N/A,LRX22C.I337UCSGOK3File,Samsung,20
+Galaxy S5,2015-10-22,5.1.1,2015-10-01,Device security enhancements and Device performance enhancements  3.4.0-5869384  209MB,False,N/A,G900AUCU4CPA1,LMY47X.G900AUCU4CPA1,Samsung,21
+Galaxy S5,2016-08-11,6.0.1,2016-08-01,"Android 6.0 Marshmallow Wi-Fi Calling Video Calling Android device security enhancements  3.4.0-8903521  PA1, PA3 and PA6",False,N/A,G900AUCU4DPH2,MMB29M.G900AUCU4DPH2,Samsung,10
+Galaxy S5,2016-09-19,6.0.1,2016-09-01,Android device security updates  3.4.0-8903521  G900AUCS4CPH3,False,N/A,G900AUCS4CPH4,MMB29M.G900AUCS4DPH4,Samsung,18
+Galaxy S5,2016-10-26,6.0.1,2016-10-01,Android device security updates  Performance enhancements  3.4.0-9723602,False,N/A,G900AUCU4DQA1,MMB29M.G900AUCU4DQA1,Samsung,25
+Galaxy S5,2017-02-01,6.0.1,2017-01-01,Android device security updates  3.4.0-9723602  G900AUCU4DQA1,False,N/A,G900AUCU4DQB1,MMB29M.G900AUCS4DQB1,Samsung,31
+Galaxy S5,2017-03-10,6.0.1,2017-02-01,Android device security updates  3.4.0-9723602  G900AUCU4DQB1,False,N/A,G900AUCS4DQC1,MMB29M.G900AUCS4DQC1,Samsung,37
+Galaxy S5 Active,2015-11-10,5.1.1,2015-11-01,Device security enhancements Device performance enhancements  3.4.0-6027846 OF3 > PB1 = 647MB,False,N/A,G870AUCU2CPB1,LMY47X.G870AUCU2CPB1,Samsung,9
+Galaxy S5 Active,2016-08-11,6.0.1,2016-08-01,Upgrade to Android OS 6.0 (Marshmallow) Wi-Fi Calling Video Calling Android device security enhancements  3.18.20-8737252,False,N/A,G870AUCU2DPH2,MMB29M.G870AUCU2DPH2,Samsung,10
+Galaxy S5 Active,2016-09-19,6.0.1,2016-09-01,Android device security updates  3.4.0-8903555  G870AUCS2DPH3,False,N/A,G870AUCS2DPH4,MMB29M.G870AUCS2DPH4,Samsung,18
+Galaxy S5 Active,2016-10-26,6.0.1,2016-10-01,Android device security updates  Call and data reliability improvements for certain network conditions  3.4.0-9723602  G870AUCS2DPH3 or G870AUCS2DPH4,False,N/A,G870AUCU2DPK2,MMB29M.G870AUCU2DPK2,Samsung,25
+Galaxy S5 Active,2016-12-19,6.0.1,2016-11-01,Android device security updates  3.4.0-9723602  G870AUCU2DPK2,False,N/A,G870AUCS2DPK3,MMB29M.G870AUCS2DPK3,Samsung,48
+Galaxy S5 Active,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.4.0-9723602  G870AUCS2DPK3,False,N/A,G870AUCS2DPK4,MMB29M.G870AUCS2DPK4,Samsung,42
+Galaxy S5 Active,2017-02-01,6.0.1,2017-01-01,Android device security updates  3.4.0-9723602  G870AUCS2DPK4,False,N/A,G870AUCS2DPK5,MMB29M.G870AUCS2DPK5,Samsung,31
+Galaxy S5 Active,2017-03-10,6.0.1,2017-02-01,Android device security updates  3.4.0-9723602  G870AUCS2DPK5,False,N/A,G870AUCS2DPK7,MMB29M.G870AUCS2DPK7,Samsung,37
+Galaxy S5 Active,2017-07-21,6.0.1,2017-07-01,Android 6.0.1 Marshmallow Android device security updates,True,3.4.0,N/A,MMB29M.G870AUCS2DQD1Previous,Samsung,20
+Galaxy S6,2015-11-24,5.1.1,2015-11-01,Device security enhancements Device performance enhancements  3.10.61-5927475  MDF v2.0 Release 3; VPN v1.4 Release 5.2  Knox 2.4.1; Standard SDK 5.4.1; Premium SDK 2.4.1; Customization SDK 2.4.0; Container 2.4.1; CEP 2.0.1,False,N/A,G920AUCU3BOJ9,LMY47X.G920AUCU3BOJ9,Samsung,23
+Galaxy S6,2016-09-20,6.0.1,2016-08-01,Android device security updates  3.10.61-8851614  G920AUCU4DPH5,False,N/A,G920AUCS5DPI1,MMB29K.G920AUCS5DPI1,Samsung,50
+Galaxy S6,2016-09-30,6.0.1,2016-09-01,Android device security updates  3.10.61-8851614  G920AUCS5DPI1,False,N/A,G920AUCS5DPJ1,MMB29K.G920AUCS5DPJ1,Samsung,29
+Galaxy S6,2016-10-26,6.0.1,2016-10-01,Android device security updates  3.10.61-9462607,False,N/A,G920AUCS5DPK1,MMB29K.G920AUCS5DPK1,Samsung,25
+Galaxy S6,2016-11-22,6.0.1,2016-11-01,Android device security updates  3.10.61-9462607  G920AUCS5DPK1,False,N/A,G920AUCS5DPK3,MMB29K.G920AUCS5DPK3,Samsung,21
+Galaxy S6,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.10.61-9462607  G920AUCS5DPK3,False,N/A,G920AUCS5DPK5,MMB29K.G920AUCS5DPK5,Samsung,42
+Galaxy S6,2017-02-08,6.0.1,2017-01-01,"Android device security updates  AT&T Messages Backup and Sync (AMBS) option greyed out fix and call quality improvements  3.10.61-9462607  Baseband versions ending in PKA, PK3, or PK5",False,N/A,G920AUCU5DQB3,MMB29K.G920AUCU5DQB3,Samsung,38
+Galaxy S6,2017-03-10,6.0.1,2017-02-01,Android device security updates  3.10.61-9462607  G920AUCU5DQB3,False,N/A,G920AUCS6DQC1,MMB29K.G920AUCS6DQC1,Samsung,37
+Galaxy S6,2017-03-30,7.0,2017-03-01,"Android 7.0 Nougat, Samsung Cloud, Samsung Pass, and Android device security updates  Other fixes and enhancements  AT&T Address Book and MobiTV  3.10.61-10950877  7.0/NRD90M/G920AUCU6EQCF  G920AUCU5DQB3 or G920AUCS6DQC1",False,N/A,G920AUCU6EQCF,NRD90M.G920AUCU6EQCF,Samsung,29
+Galaxy S6,2017-05-03,7.0,2017-04-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G920AUCS6EQE1  G920AUCU6EQCF,False,N/A,G920AUCS6EQE1,NRD90M.G920AUCS6EQE1,Samsung,32
+Galaxy S6,2017-05-25,7.0,2017-05-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G920AUCS6EQF1  G920AUCS6EQE1,False,N/A,G920AUCS6EQF1,NRD90M.G920AUCS6EQF1,Samsung,24
+Galaxy S6,2017-06-23,7.0.1,2017-06-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G920AUCS6EQG1  G920AUCS6EQF1,False,N/A,G920AUCS6EQG1,NRD90M.G920AUCS6EQG1,Samsung,22
+Galaxy S6,2017-07-25,7.0.1,2017-07-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G920AUCS6EQH1  G920AUCS6EQG1,False,N/A,G920AUCS6EQH1,NRD90M.G920AUCS6EQH1,Samsung,24
+Galaxy S6,2017-08-25,7.0.1,2017-08-01,"Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later) and KRACK Wi-Fi vulnerability fix  3.10.61-10950877  7.0/NRD90M/G920AUCS6EQJ1  G920AUCS6EQH1",False,N/A,G920AUCS6EQJ1,NRD90M.G920AUCS6EQJ1,Samsung,24
+Galaxy S6,2017-11-09,7.0.1,2017-10-01,"Support for new Mobile Hotspot APN  Network performance improvements and Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later)  3.10.61-12599862  7.0/NRD90M/G920AUCU6EQK3  G920AUCS6EQH1 or G920AUCS6EQJ1",False,N/A,G920AUCU6EQK3,NRD90M.G920AUCU6EQK3,Samsung,39
+Galaxy S6,2017-12-21,7.0.1,2017-12-01,"Android device security updates, including Meltdown and Spectre migration patches (on SPLs Jan. 1 or later)  G920AUCU6EQK3",False,N/A,G920AUCS7ERA2,NRD90M.G920AUCS7ERA2,Samsung,20
+Galaxy S6,2018-01-26,7.0.1,2018-01-01,Fix for Mobile Hotspot and Android device security updates  G920AUCS7ERA2,False,N/A,G920AUCU7ERB1,NRD90M.G920AUCU7ERB1,Samsung,25
+Galaxy S6,2018-03-06,7.0.1,2018-02-01,Android 7.0.1 Nougat Android device security updates,True,N/A,N/A,NRD90M.G920AUCS7ERC1Previous,Samsung,33
+Galaxy S6 active,2016-08-31,6.0.1,2016-08-01,Android device security updates  3.10.61.8347181  G890AUCU5CPI2,False,N/A,G890AUCS5CPI4,MMB29K.G890AUCS5CPI4,Samsung,30
+Galaxy S6 active,2016-09-27,6.0.1,2016-09-01,"Enhancements for AT&T Messages Backup & Sync and AT&T Wi-Fi calling  Android device security updates  3.10.61.9696102  G890AUCU4CPH3, G890AUCU5CPI2, or G890AUCS5CPI4",False,N/A,G890AUCU5CPK3,MMB29K.G890AUCU5CPK3,Samsung,26
+Galaxy S6 active,2016-10-25,6.0.1,2016-10-01,Android device security updates  3.10.61.9696102  G890AUCU5CPK3,False,N/A,G890AUCS5CPK4,MMB29K.G890AUCS5CPK4,Samsung,24
+Galaxy S6 active,2016-12-19,6.0.1,2016-11-01,Android device security updates  3.10.61.9696102  G890AUCS5CPK4,False,N/A,G890AUCS5CPK5,MMB29K.G890AUCS5CPK5,Samsung,48
+Galaxy S6 active,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.10.61.9696102  G890AUCS5CPK5,False,N/A,G890AUCS6CPK8,MMB29K.G890AUCS6CPK8,Samsung,42
+Galaxy S6 active,2017-02-08,7.0,2017-01-01,"Android 7.0 Nougat, Samsung Cloud, Samsung Pass, and Android device security updates  Other fixes and enhancements  AT&T Address Book and MobiTV  3.10.61-10950877  7.0/NRD90M/G890AUCU6DQD1  G890AUCS5CPK5 or G890AUCS6CPK8",False,N/A,G890AUCU6DQD1,NRD90M.G890AUCU6DQD1,Samsung,38
+Galaxy S6 active,2017-04-05,7.0,2017-03-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G890AUCS6DQE1  G890AUCU6DQD1,False,N/A,G890AUCU6DQE1,NRD90M.G890AUCS6DQE1,Samsung,35
+Galaxy S6 active,2017-05-03,7.0,2017-04-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G890AUCS6DQF1  G890AUCU6DQE1,False,N/A,G890AUCU6DQF1,NRD90M.G890AUCS6DQF1,Samsung,32
+Galaxy S6 active,2017-05-26,7.0.1,2017-05-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G890AUCS6DQG1  G890AUCU6DQF1,False,N/A,G890AUCU6DQG1,NRD90M.G890AUCS6DQG1,Samsung,25
+Galaxy S6 active,2017-06-23,7.0.1,2017-06-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G890AUCS6DQH1  G890AUCU6DQG1,False,N/A,G890AUCS6DQH1,NRD90M.G890AUCS6DQH1,Samsung,22
+Galaxy S6 active,2017-07-27,7.0.1,2017-07-01,"Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later) and KRACK Wi-Fi- vulnerability fix  3.10.61-10950877  7.0/NRD90M/G890AUCS6DQJ1  G890AUCS6DQH1",False,N/A,G890AUCS6DQJ1,NRD90M.G890AUCS6DQJ1,Samsung,26
+Galaxy S6 active,2017-08-24,7.0.1,2017-08-01,"Support for new Mobile Hotspot APN  Network performance improvements and Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later)  3.10.61-12599862  7.0/NRD90M/G890AUCU6DQK3  G890AUCS6DQH1 or G890AUCS6DQJ1",False,N/A,G890AUCU6DQK3,NRD90M.G890AUCU6DQK3,Samsung,23
+Galaxy S6 active,2017-11-10,7.0.1,2017-10-01,"Android device security updates, including Meltdown and Spectre migration patches (on SPLs Jan. 1 or later)  G890AUCU6DQK3",False,N/A,G890AUCS7DRA2,NRD90M.G890AUCS7DRA2,Samsung,40
+Galaxy S6 active,2017-12-21,7.0.1,2017-12-01,Android device security updates  G890AUCS7DRA2,False,N/A,G890AUCS7DRB1,NRD90M.G890AUCS7DRB1,Samsung,20
+Galaxy S6 active,2018-01-26,7.0.1,2018-01-01,Android device security updates  G890AUCS7DRB1,False,N/A,G890AUCS7DRC1,NRD90M.G890AUCS7DRC1,Samsung,25
+Galaxy S6 active,2018-03-09,7.0.1,2018-02-01,Android device security updates  G890AUCS7DRC1,False,N/A,G890AUCS7DRD3,NRD90M.G890AUCS7DRD3,Samsung,36
+Galaxy S6 active,2018-04-04,7.0.1,2018-03-01,Android device security updates  G890AUCS7DRD3,False,N/A,G890AUCS7DRE1,NRD90M.G890AUCS7DRE1,Samsung,34
+Galaxy S6 active,2018-07-02,7.0.1,2018-06-01,Android 7.0.1 Nougat Android device security updates,True,N/A,N/A,NRD90M.G890AUCS7DRF2Previous,Samsung,31
+Galaxy S6 active,2018-07-26,5.0.2,2018-07-01,Find My Mobile with Reactivation Mode  3.10.61-4969613  146MB,False,N/A,G890AUCU2AOF3,LRX22G.G890AUCU2AOF3,Samsung,25
+Galaxy S6 edge,2015-11-24,5.1.1,2015-11-01,Device security enhancements Device performance enhancements  3.10.61-5927475  MDF v2.0 Release 3; VPN v1.4 Release 5.2  Knox 2.4.1; Standard SDK 5.4.1; Premium SDK 2.4.1; Customization SDK 2.4.0; Container 2.4.1; CEP 2.0.1  up to 104MB,False,N/A,G925AUCU3BOJ9,LMY47X.G925AUCU3BOJ9,Samsung,23
+Galaxy S6 edge,2016-09-20,6.0.1,2016-08-01,Android device security updates  3.10.61-8851614  G925AUCU4DPH5,False,N/A,G925AUCS5DPI1,MMB29K.G925AUCS5DPI1,Samsung,50
+Galaxy S6 edge,2016-09-30,6.0.1,2016-09-01,Android device security updates  3.10.61-8851614  G925AUCS5DPI1,False,N/A,G925AUCS5DPJ1,MMB29K.G925AUCS5DPJ1,Samsung,29
+Galaxy S6 edge,2016-10-26,6.0.1,2016-10-01,Android device security updates  3.10.61-8851614,False,N/A,G925AUCS5DPK1,MMB29K.G925AUCS5DPK1,Samsung,25
+Galaxy S6 edge,2016-11-22,6.0.1,2016-11-01,Android device security updates  3.10.61-8851614  G925AUCS5DPK1,False,N/A,G925AUCS5DPK2,MMB29K.G925AUCS5DPK2,Samsung,21
+Galaxy S6 edge,2017-01-12,6.0.1,2016-12-01,Android device security updates  3.10.61-8851614  G925AUCS5DPK2,False,N/A,G925AUCS5DPK5,MMB29K.G925AUCS5DPK5,Samsung,42
+Galaxy S6 edge,2017-02-01,6.0.1,2017-01-01,Android device security updates  3.10.61-8851614  G925AUCS5DPK5,False,N/A,G925AUCS6DQC1,MMB29K.G925AUCS6DQC1,Samsung,31
+Galaxy S6 edge,2017-03-27,7.0,2017-03-01,"Android 7.0 Nougat, Samsung Cloud, Samsung Pass, and Android device security updates  Other fixes and enhancements  AT&T Address Book and MobiTV  3.10.61-10950877  7.0/NRD90M/G925AUCU6EQCF  G925AUCS5DPK5 or G925AUCS6DQC1",False,N/A,G925AUCU6EQCF,NRD90M.G925AUCU6EQCF,Samsung,26
+Galaxy S6 edge,2017-05-03,7.0,2017-04-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G925AUCS6EQE1  G925AUCU6EQCF,False,N/A,G925AUCS6EQE1,NRD90M.G925AUCS6EQE1,Samsung,32
+Galaxy S6 edge,2017-05-25,7.0,2017-05-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G925AUCS6EQF1  G925AUCS6EQE1,False,N/A,G925AUCS6EQF1,NRD90M.G925AUCS6EQF1,Samsung,24
+Galaxy S6 edge,2017-06-23,7.0.1,2017-06-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G925AUCS6EQG1  G925AUCS6EQF1,False,N/A,G925AUCS6EQG1,NRD90M.G925AUCS6EQG1,Samsung,22
+Galaxy S6 edge,2017-07-25,7.0.1,2017-07-01,Android device security updates  3.10.61-10950877  7.0/NRD90M/G925AUCS6EQH1  G925AUCS6EQG1,False,N/A,G925AUCS6EQH1,NRD90M.G925AUCS6EQH1,Samsung,24
+Galaxy S6 edge,2017-08-25,7.0.1,2017-08-01,"Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later) and KRACK Wi-Fi vulnerability fix  3.10.61-10950877  7.0/NRD90M/G925AUCS6EQJ2  G925AUCS6EQH1",False,N/A,G925AUCS6EQJ2,NRD90M.G925AUCS6EQJ2,Samsung,24
+Galaxy S6 edge,2017-11-09,7.0.1,2017-10-01,"Support for new Mobile Hotspot APN  Network performance improvements and Android device security updates, including BlueBorne fix (on SPLs Sept. 1 or later)  3.10.61-12599862  7.0/NRD90M/G925AUCU6EQK3  G925AUCS6EQH1 or G925AUCS6EQJ2",False,N/A,G925AUCU6EQK3,NRD90M.G925AUCU6EQK3,Samsung,39
+Galaxy S6 edge,2017-12-21,7.0.1,2017-12-01,"Android device security updates, including Meltdown and Spectre migration patches (on SPLs Jan. 1 or later)  G925AUCU6EQK3",False,N/A,G925AUCS7ERA2,NRD90M.G925AUCS7ERA2,Samsung,20
+Galaxy S6 edge,2018-01-26,7.0.1,2018-01-01,Fix for Mobile Hotspot and Android device security updates  G925AUCS7ERA2,False,N/A,G925AUCU7ERB1,NRD90M.G925AUCU7ERB1,Samsung,25
+Galaxy S6 edge+,2015-09-15,5.1.1,2015-09-01,Enhanced performance and other device improvements  3.10.61-5554916  30MB,False,N/A,G928AUCU2AO16,LMY47X.G928AUCU2AO16,Samsung,14
+Galaxy S6 edge+,2016-08-25,6.0.1,2016-08-01,Android device security updates  3.10.61-8961126  G928AUCU3CPHA,False,N/A,G928AUCS3CPJ1,MMB29K. G928AUCS3CPJ1,Samsung,24
+Galaxy S6 edge+,2016-09-20,6.0.1,2016-09-01,Android device security updates  3.10.61-8961126  G928AUCS3CPJ1,False,N/A,G928AUCS4CPK1,MMB29K.G928AUCS4CPK1,Samsung,19
+Galaxy S6 edge+,2016-10-26,6.0.1,2016-10-01,Android device security updates  3.10.61-8961126  G928AUCS4CPK1,False,N/A,G928AUCS4CPL1,MMB29K. G928AUCS4CPL1,Samsung,25
+Galaxy S6 edge+,2016-11-29,6.0.1,2016-11-01,Android device security updates  3.10.61-8961126  G928AUCS4CPL1,False,N/A,G928AUCS4CQA1,MMB29K.G928AUCS4CQA1,Samsung,28
+Galaxy S6 edge+,2017-01-16,6.0.1,2016-12-01,Android device security updates  3.10.61-8961126  Previous baseband version ending in QA1,False,N/A,G928AUCS4CQB2,MMB29K.G928AUCS4CQB2,Samsung,46
+Galaxy S6 edge+,2017-02-08,7.0,2017-01-01,"Android 7.0 Nougat, Samsung Cloud, and Samsung Pass  Network performance enhancements and Android device security updates  AT&T Address Book, MobiTV, and AT&T Live  3.10.61-10809541  G928AUCS4CQA1 or G928AUCS4CQB2",False,N/A,G928AUCU4EQC6,NRD90M.G928AUCU4EQC6,Samsung,38
+Galaxy S6 edge+,2017-03-20,7.0,2017-02-01,Android device security updates  3.10.61-10809541  G928AUCU4EQC6,False,N/A,G928AUCS4EQD1,NRD90M.G928AUCS4EQD1,Samsung,47
+Galaxy S6 edge+,2017-04-11,7.0,2017-03-01,Android device security updates  3.10.61-10809541  G928AUCS4EQD1,False,N/A,G928AUCS4EQE1,NRD90M.G928AUCS4EQE1,Samsung,41
+Galaxy S6 edge+,2017-04-27,7.0,2017-04-01,Android device security updates  3.10.61-10809541  G928AUCS4EQE1,False,N/A,G928AUCS4EQF1,NRD90M.G928AUCS4EQF1,Samsung,26
+Galaxy S6 edge+,2017-05-25,7.0,2017-05-01,Android device security updates  3.10.61-10809541  G928AUCS4EQF1,False,N/A,G928AUCS4EQG1,NRD90M.G928AUCS4EQG1,Samsung,24
+Galaxy S6 edge+,2017-06-27,7.0,2017-06-01,Android device security updates  3.10.61-10809541  G928AUCS4EQG1,False,N/A,G928AUCS4EQH1,NRD90M.G928AUCS4EQH1,Samsung,26
+Galaxy S6 edge+,2017-07-31,7.0,2017-07-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.10.61-10809541  G928AUCS4EQH1",False,N/A,G928AUCS4EQJ1,NRD90M.G928AUCS4EQJ1,Samsung,30
+Galaxy S6 edge+,2017-08-25,7.0,2017-08-01,"Support for new Mobile Hotspot APN  Network performance improvements and Android device security updates, including BlueBorne fix (on SPLs September 1 or later) and KRACK Wi-Fi vulnerability fix  3.10.61-12579816  7.0/NRD90M/G928AUCU4EQK6  G928AUCS4EQH1 or G928AUCS4EQJ1",False,N/A,G928AUCU4EQK6,NRD90M.G928AUCU4EQK6,Samsung,24
+Galaxy S6 edge+,2017-11-07,7.0,2017-10-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.10.61-12579816  7.0/NRD90M/G928AUCS4EQL1  G928AUCU4EQK6",False,N/A,G928AUCS4EQL1,NRD90M.G928AUCS4EQL1,Samsung,37
+Galaxy S6 edge+,2017-12-13,7.0,2017-11-01,"Android device security updates, including Meltdown and Spectre mitigation patches (on SPLs January 1 or later)  3.10.61-12579816  7.0/NRD90M/G928AUCS5ERA2  G928AUCS4EQL1",False,N/A,G928AUCS5ERA2,NRD90M.G928AUCS5ERA2,Samsung,42
+Galaxy S6 edge+,2017-12-27,7.0,2017-12-01,Android device security updates  3.10.61-12579816  7.0/NRD90M/G928AUCS5ERB2  G928AUCS5ERA2,False,N/A,G928AUCS5ERB2,NRD90M.G928AUCS5ERB2,Samsung,26
+Galaxy S6 edge+,2018-02-02,7.0,2018-01-01,Mobile Hotspot APN fix and Android device security updates  G928AUCS5ERA2 & G928AUCS5ERB2,False,N/A,G928AUCU5ERB5,NRD90M.G928AUCU5ERB5,Samsung,32
+Galaxy S6 edge+,2018-03-09,7.0,2018-02-01,Android device security updates  G928AUCU5ERB5,False,N/A,G928AUCS5ERD1,NRD90M.G928AUCS5ERD1,Samsung,36
+Galaxy S6 edge+,2018-03-27,7.0,2018-03-01,Android device security updates  G928AUCS5ERD1,False,N/A,G928AUCS5ERE1,NRD90M.G928AUCS5ERE1,Samsung,26
+Galaxy S6 edge+,2018-05-07,7.0,2018-04-01,Android device security updates  G928AUCS5ERE1,False,N/A,G928AUCS5ERF2,NRD90M.G928AUCS5ERF2,Samsung,36
+Galaxy S6 edge+,2018-05-29,7.0,2018-05-01,Android device security updates  G928AUCS5ERF2,False,N/A,G928AUCS5ERG1,NRD90M.G928AUCS5ERG1,Samsung,28
+Galaxy S7,2016-03-18,6.0.1,2016-03-01,N/A,False,N/A,G930AUCS2APC2,N/A,Samsung,17
+Galaxy S7 active,2016-08-09,6.0.1,2016-08-01,N/A,False,N/A,G891AUCS1APH1,N/A,Samsung,8
+Galaxy S7 edge,2016-03-18,6.0.1,2016-03-01,DTV Widget added to HomeScreen +1 Improves home and volume keys responsiveness Improves WIFI performance when using BTLE Other performance and security enhancements  3.18.20-7617530,False,N/A,G935AUCU2APD1,MMB29M.G935AUCU2APD1,Samsung,17
+Galaxy S7 edge,2016-05-12,6.0.1,2016-05-01,Enhanced Security update  3.18.20-7617530,True,N/A,G935AUCS2APF2,MMB29M.G935AUCS2APF2,Samsung,11
+Galaxy S7 edge,2016-06-17,6.0.1,2016-06-01,Setup and Transfer Wi-Fi Calling AT&T Advance Messaging - Internet Protocol Message Enabled (IPME) AT&T Messages Backup & Sync feature (AMBS) Phase 3  3. 3.18.20-8575098,False,N/A,G935AUCU2APG1,MMB29M.G935AUCU2APG1,Samsung,16
+Galaxy S7 edge,2016-08-25,6.0.1,2016-08-01,Android device security enhancements  3.18.20-8575098,False,N/A,G935AUCS4API2,MMB29M.G935AUCS4API2,Samsung,24
+Galaxy S7 edge,2016-09-26,6.0.1,2016-09-01,Full Screen – Mobile Video Service and Android device security enhancements  Improved volume for Enhanced Push To Talk (ePTT) and fix for calls failing to go to Voice Mail when calling non-LTE devices  Milk Music  3.18.20-9439621,False,N/A,G935AUCU4APJ4,MMB29M. G935AUCS4APJ4,Samsung,25
+Galaxy S7 edge,2016-11-08,6.0.1,2016-10-01,Android device security updates  3.18.20-9439621,False,N/A,G935AUCS4APK1,MMB29M. G935AUCS4APK1,Samsung,38
+Galaxy S7 edge,2016-11-18,7.0,2016-11-01,"Android 7.0 Nougat, Samsung Cloud, and Samsung Pass  Network performance enhancements, Android device security updates, and other enhancements  AT&T Address Book  3.18.31-10280464",False,N/A,G935AUCU4BQA6,NRD90M.G935AUCU4BQA6,Samsung,17
+Galaxy S7 edge,2017-02-17,7.0,2017-02-01,Android device security updates  3.18.31-10280464  G935AUCU4BQA6,False,N/A,G935AUCS4BQC2,NRD90M.G935AUCS4BQC2,Samsung,16
+Galaxy S7 edge,2017-03-27,7.0,2017-03-01,"Android device security updates  Advanced Messaging fix, AT&T Messages Backup & Sync fix, Wi-Fi calling fix, Video Calling improvement, and various other fixes and improvements  3.18.31-11198144  G935AUCU4BQA6 or G935AUCS4BQC2",False,N/A,G935AUCU4BQD4,NRD90M.G935AUCU4BQD4,Samsung,26
+Galaxy S7 edge,2017-05-10,7.0,2017-04-01,Android device security updates  3.18.31-11198144  G935AUCU4BQD4,False,N/A,G935AUCS4BQE1,7.0/NRD90M/G935AUCS4BQE1,Samsung,39
+Galaxy S7 edge,2017-05-23,7.0,2017-05-01,"Calendar fixes, Samsung Knox fixes, stability improvements, Messaging fixes, Video calling improvements, and Android device security updates  3.18.31-11614766  7.0/NRD90M/G935AUCU4BQF3  G935AUCU4BQA6, G935AUCU4BQD4, or G935AUCS4BQE1",False,N/A,G935AUCU4BQF3,NRD90M.G935AUCU4BQF3,Samsung,22
+Galaxy S7 edge,2017-07-06,7.0,2017-06-01,"Android device security updates, and email performance and magnetic sensor (compass) enhancements  3.18.31-11614766  7.0/NRD90M/G935AUCU4BQG1  G935AUCS4BQE1 or G935AUCU4BQF3",False,N/A,G935AUCU4BQG1,NRD90M.G935AUCU4BQG1,Samsung,35
+Galaxy S7 edge,2017-08-08,7.0,2017-07-01,Android device security updates  3.18.31-11614766  7.0/NRD90M/G935AUCS4BQH1  G935AUCU4BQG1,False,N/A,G935AUCS4BQH1,NRD90M.G935AUCS4BQH1,Samsung,38
+Galaxy S7 edge,2017-08-28,7.0,2017-08-01,"Android device security updates, including BlueBorne fix (on SPLs September 1 or later)  3.18.31-11614766  7.0/NRD90M/G935AUCS4BQJ2  G935AUCS4BQH1",False,N/A,G935AUCS4BQJ2,NRD90M.G935AUCS4BQJ2,Samsung,27
+Galaxy S7 edge,2017-10-26,7.0,2017-10-01,"Support for new Mobile Hotspot APN  AirWatch fix for Enterprise customers, call performance improvements, network performance improvements, and November Security Patch Level  3.18.31-12564870  7.0/NRD90M/G935AUCU4BQK2  G935AUCS4BQH1 or G935AUCS4BQJ2",False,N/A,G935AUCU4BQK2,NRD90M.G935AUCU4BQK2,Samsung,25
+Galaxy S7 edge,2017-12-08,7.0,2017-11-01,N/A,False,N/A,G935AUCS4BQL1,N/A,Samsung,37
+Galaxy S7 edge,2018-05-29,6.0.1,2018-05-01,Enhanced Security update  3.18.20-7193387,True,N/A,G935AUCS2APC2,MMB29M.G935AUCS2APC2,Samsung,28
+Galaxy S8 Active,2017-08-09,7.0,2017-08-01,N/A,False,N/A,G892AUCU1AQG4,N/A,Samsung,8
+ZTE Axon M,2019-10-01,7.1.2,2019-09-01,Android device security updates,False,N/A,N/A,Z999V1.0.0B35,ZTE,30
+ZTE Axon M,2019-10-02,7.1.2,2019-10-01,"DIRECTV Now accessible via Google Play and Android device security updates, including BlueBorne fix (on Sept. 1 SPLs or later)  3.18.31",False,N/A,Z999H01,Z999V1.0.0B22,ZTE,1
+ZTE Maven,2015-12-10,N/A,2015-12-01,Security enhancements  3.10.49,False,Z812V1.0.0B20,Z812H01,Z812V1.0.0B20,ZTE,9
+ZTE Maven,2016-09-30,5.1,2016-09-01,Android device security updates  3.10.49  Z812V1.0.0B23,False,N/A,Z812H01,Z812V1.0.0B24,ZTE,29
+ZTE Maven,2016-12-12,5.1,2016-11-01,Android device security updates  3.10.49  Z812V1.0.0B24,False,N/A,Z812H01,Z812V1.0.0B25,ZTE,41
+ZTE Maven,2017-03-21,5.1,2017-03-01,Android device security updates  3.10.49  Z812V1.0.0B25,False,N/A,Z812H01,Z812V1.0.0B26,ZTE,20
+ZTE Maven,2017-06-19,5.1,2017-06-01,"Android device security updates, including KRACK Wi-Fi vulnerability fix  3.10.49  Z812V1.0.0B26",False,N/A,Z812H01,Z812V1.0.0B27,ZTE,18
+ZTE Maven,2018-02-21,5.1,2018-02-01,Android 5.1 Lollipop Android device security updates,True,N/A,N/A,Z812V1.0.0B29File,ZTE,20
+ZTE Maven,2018-08-01,N/A,2018-05-01,Software Enhancements Android Patches  3.10.49,False,Z812V1.0.0B19,Z812H01,Z812V1.0.0B19,ZTE,92
+ZTE Maven 2,2016-11-01,6.0.1,2016-10-01,Android device security updates  3.10.49  ud1A  Z831V1.0.0B18,False,N/A,Z831H01,Z831V1.0.0B19,ZTE,31
+ZTE Maven 2,2016-11-01,6.0.1,2016-11-01,Android device security updates  3.10.49  ud1A  Z831V1.0.0B17,False,N/A,Z831H01,Z831V1.0.0B18,ZTE,0
+ZTE Maven 2,2017-03-27,7.1.1,2017-03-01,Android device security updates  3.10.49  Z831V1.0.0B29,False,N/A,Z831H01,Z831V1.0.0B30,ZTE,26
+ZTE Maven 2,2017-08-01,7.1.1,2017-06-01,Android device security updates  3.10.49  Z831V1.0.0B30,False,N/A,Z831H01,Z831V1.0.0B31,ZTE,61
+ZTE Maven 2,2017-09-25,7.1.1,2017-09-01,"Android device security updates, including Meltdown and Spectre migration patches  Z831V1.0.0B31",False,N/A,Z831H01,Z831V1.0.0B32,ZTE,24
+ZTE Maven 2,2017-12-12,7.1.1,2017-11-01,Android device security updates and bug fixes,False,N/A,Z831H01,Z831V1.0.0B34,ZTE,41
+ZTE Maven 2,2018-08-31,7.1.1,2018-04-01,Android 7.1.1 Nougat Android device security updates,True,N/A,N/A,Z831V1.0.0B36File,ZTE,152
+ZTE Maven 2,2019-05-02,6.0.1,2019-03-01,Fullscreen – Mobile Video Service  Android device security updates  3.10.49-g52d2d07  ud1A,False,N/A,Z831H01,Z831V1.0.0B17,ZTE,62
+ZTE Maven 3,2017-10-03,7.1.1,2017-09-01,Android 7.1.1 Nougat Android device security updates,True,N/A,N/A,Z835V2.0.0B14File,ZTE,32
+ZTE Maven 3,2017-12-13,7.1.1,2017-10-02,"Wi-Fi Calling and Advanced Messaging Backup & Sync  Android device security updates, including BlueBorne fix and KRACK Wi-Fi vulnerability fix  3.10.49  Build number ending in B06",False,N/A,Z835H01,Z835V2.0.0B10,ZTE,72
+ZTE Maven 3,2018-02-05,7.1.1,2018-01-01,Android device security updates and bug fixes,False,N/A,Z835H01,Z835V2.0.0B12,ZTE,35
+Galaxy  Note10+,2019-09-19,9.0,2019-09-01,N/A,,,,,,18
+Galaxy  S9+,2018-03-16,8.0,2018-03-01,N/A,,,,,,15
+Galaxy Note10,2019-09-19,9.0,2019-09-01,N/A,,,,,,18
+Galaxy S8,2017-04-21,7.0,2017-04-01,"Update to color balance display settings, Force Close fix for Data Quality Assessment (DQA) error pop-up, 5G Access Point (AP) Wi-Fi compatibility fix, and Bixby button key short press timing change",,,,,,20
+Galaxy S8,2017-06-13,7.0,2017-05-01,Android device security updates,,,,,,43
+Galaxy S8,2017-06-22,7.0,2017-06-01,Android device security updates,,,,,,21
+Galaxy S8,2017-07-20,7.0,2017-07-01,"Network performance enhancements, WPS (Wireless Priority Service), UX updates, navigation bar auto hide and AGIF, Email, Calendar and Knox updates, Bluetooth updates, stability updates, Advanced Messaging update, app select update, Smart help updates, Daydream support, various other updates and improvements, and Android device security updates",,,,,,19
+Galaxy S8,2017-08-21,7.0,2017-08-01,"Network performance improvements and Android For Work enhancement  Android device security updates, including fixes for BlueBorne (on SPLs Sept. 1 or later) and KRACK Wi-Fi vulnerability",,,,,,20
+Galaxy S8,2017-11-08,7.0,2017-10-01,"Support for new Mobile Hotspot APN, HDR API for DirecTV, other various improvements and bug fixes, and Android device security updates, including BlueBorne Fix (on SPLs September or later)  Enhanced network performance and enhanced Bring Your Own Device (BYOD) experience, including device restart to bring the device onto the AT&T network (Factory Data Reset no longer required), AT&T preloaded applications and features will be on the device after the restart, previous carrier’s preloaded applications and features will be disabled after the restart, and customer content will be retained (e.g. Images, documents, files, call logs, ringtones, user accounts, etc.)",,,,,,38
+Galaxy S8,2017-12-08,7.0,2017-11-01,"Android device security updates, including BlueBorne Fix (on SPLs September or later)",,,,,,37
+Galaxy S8,2017-12-27,7.0,2017-12-01,Android device security updates,,,,,,26
+Galaxy S8,2018-03-09,8.0,2018-02-01,Android 8.0 OreoTM,,,,,,36
+Galaxy S8,2018-03-31,8.0.0,2018-03-01,"Stability improvement, Knox fix, and Android device security updates",,,,,,30
+Galaxy S8,2018-05-09,8.0.0,2018-04-01,Android device security updates,,,,,,38
+Galaxy S8,2018-05-23,8.0.0,2018-05-01,Android device security updates  Various fixes and enhancements,,,,,,22
+Galaxy S8,2018-06-19,8.0.0,2018-06-01,Android device security updates,,,,,,18
+Galaxy S8,2018-07-16,8.0.0,2018-07-01,Improved stability and various other enhancements and fixes,,,,,,15
+Galaxy S8,2018-08-30,8.0.0,2018-08-01,Android device security updates,,,,,,29
+Galaxy S8,2018-09-25,8.0,2018-09-01,Super Slow Motion added to camera and AR Emoji  Android device security updates and other fixes and enhancements,,,,,,24
+Galaxy S8,2018-10-26,8.0.0,2018-10-01,Android device security updates,,,,,,25
+Galaxy S8,2018-12-05,8.0.0,2018-11-01,Android device security updates,,,,,,34
+Galaxy S8,2018-12-31,8.0.0,2018-12-01,"January 1, 2019 Security Patch Level",,,,,,30
+Galaxy S8,2019-01-28,8.0.0,2019-01-01,"March 1, 2019 Security Patch Level",,,,,,27
+Galaxy S8,2019-03-05,9.0,2019-02-01,"Android 9.0 P OS, Support for WIFI Calling and Video Calling on FirstNet, and March Security Patch Level",,,,,,32
+Galaxy S8,2019-03-28,9.0,2019-03-01,Fix for BSCP/VPN failure and April Security Patch Level,,,,,,27
+Galaxy S8,2019-05-08,9.0,2019-04-01,N/A,,,,,,37
+Galaxy S8+,2017-04-21,7.0,2017-04-01,"Update to color balance display settings, Force Close fix for Data Quality Assessment (DQA) error pop-up, 5G Access Point (AP) Wi-Fi compatibility fix, and Bixby button key short press timing change",,,,,,20
+Galaxy S8+,2017-06-13,7.0,2017-05-01,Android device security updates,,,,,,43
+Galaxy S8+,2017-06-22,7.0,2017-06-01,Android device security updates,,,,,,21
+Galaxy S8+,2017-07-20,7.0,2017-07-01,"Network performance enhancements, WPS (Wireless Priority Service), UX updates, navigation bar auto hide and AGIF, Email, Calendar and Knox updates, Bluetooth updates, stability updates, Advanced Messaging update, app select update, Smart help updates, Daydream support, various other updates and improvements, and Android device security updates",,,,,,19
+Galaxy S8+,2017-08-21,7.0,2017-08-01,"Network performance improvements and Android For Work enhancement  Android device security updates, including fixes for BlueBorne (on SPLs Sept. 1 or later) and KRACK Wi-Fi vulnerability",,,,,,20
+Galaxy S8+,2017-11-08,7.0,2017-10-01,"Support for new Mobile Hotspot APN, HDR API for DirecTV, other various improvements and bug fixes, and Android device security updates, including BlueBorne Fix (on SPLs September or later)  Enhanced network performance and enhanced Bring Your Own Device (BYOD) experience, including device restart to bring the device onto the AT&T network (Factory Data Reset no longer required), AT&T preloaded applications and features will be on the device after the restart, previous carrier’s preloaded applications and features will be disabled after the restart, and customer content will be retained (e.g. Images, documents, files, call logs, ringtones, user accounts, etc.)",,,,,,38
+Galaxy S8+,2017-12-08,7.0,2017-11-01,"Android device security updates, including BlueBorne Fix (on SPLs September or later)",,,,,,37
+Galaxy S8+,2017-12-27,7.0,2017-12-01,Android device security updates,,,,,,26
+Galaxy S8+,2018-03-09,8.0,2018-02-01,Android 8.0 OreoTM,,,,,,36
+Galaxy S8+,2018-03-31,8.0.0,2018-03-01,"Stability improvement, Knox fix, and Android device security updates",,,,,,30
+Galaxy S8+,2018-05-09,8.0.0,2018-04-01,Android device security updates,,,,,,38
+Galaxy S8+,2018-05-23,8.0.0,2018-05-01,Android device security updates  Various fixes and enhancements,,,,,,22
+Galaxy S8+,2018-06-19,8.0.0,2018-06-01,Android device security updates,,,,,,18
+Galaxy S8+,2018-07-16,8.0.0,2018-07-01,Improved stability and various other enhancements and fixes,,,,,,15
+Galaxy S8+,2018-08-30,8.0.0,2018-08-01,Android device security updates,,,,,,29
+Galaxy S8+,2018-09-25,8.0,2018-09-01,Super Slow Motion added to camera and AR Emoji  Android device security updates and other fixes and enhancements,,,,,,24
+Galaxy S8+,2018-10-26,8.0.0,2018-10-01,Android device security updates,,,,,,25
+Galaxy S8+,2018-12-05,8.0.0,2018-11-01,Android device security updates,,,,,,34
+Galaxy S8+,2018-12-31,8.0.0,2018-12-01,"January 1, 2019 Security Patch Level",,,,,,30
+Galaxy S8+,2019-01-28,8.0.0,2019-01-01,"March 1, 2019 Security Patch Level",,,,,,27
+Galaxy S8+,2019-03-05,9.0,2019-02-01,"Android 9.0 P OS, Support for WIFI Calling and Video Calling on FirstNet, and March Security Patch Level",,,,,,32
+Galaxy S8+,2019-03-28,9.0,2019-03-01,Fix for BSCP/VPN failure and April Security Patch Level,,,,,,27
+Galaxy S8+,2019-05-08,9.0,2019-04-01,N/A,,,,,,37
+Galaxy S9,2018-03-16,8.0,2018-03-01,N/A,,,,,,15
+LG  H871S),2017-04-27,7.0 (H871),2017-04-01,N/A,,,,,,26
+LG  H871S),2017-11-22,9.0,2017-11-01,Android 9.0 Pie (H871) Andriod 8.0 Oreo (H871S) Android 9.0 Pie OS update (H871) Security patch level (H871/H871S),,,,,,21
+LG  H871S),2018-03-26,7.0 (H871),2018-03-01,N/A,,,,,,25
+LG  H871S),2018-07-03,7.0 (H871),2018-06-01,N/A,,,,,,32
+LG G6 (H871,2017-04-27,7.0 (H871),2017-04-01,N/A,,,,,,26
+LG G6 (H871,2017-11-22,9.0,2017-11-01,Android 9.0 Pie (H871) Andriod 8.0 Oreo (H871S) Android 9.0 Pie OS update (H871) Security patch level (H871/H871S),,,,,,21
+LG G6 (H871,2018-03-26,7.0 (H871),2018-03-01,N/A,,,,,,25
+LG G6 (H871,2018-07-03,7.0 (H871),2018-06-01,N/A,,,,,,32

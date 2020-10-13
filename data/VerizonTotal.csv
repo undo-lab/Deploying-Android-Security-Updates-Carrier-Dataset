@@ -1,0 +1,613 @@
+Manufacture,Model,Bulletin_Level,Release_Date,Details,Android_Level_Guessed,Version,difference
+ASUS,ZenFone AR,2017-09-01,2017-10-23,,False,,52
+ASUS,ZenFone AR,2018-03-01,2018-04-16,,False,,46
+ASUS,ZenFone AR,2018-04-01,2018-04-16,,nan, v3.8.1 v3.8.1,15
+ASUS,ZenFone AR,2018-06-01,2018-09-14,,False,,105
+ASUS,ZenFone AR,2018-09-01,2018-09-14,,nan, v3.8.3 v3.8.3,13
+ASUS,ZenFone V,2018-04-01,2018-05-14,,False,,43
+ASUS,ZenFone V,2018-05-01,2018-05-14,,nan, V3.4.2 V3.4.2,13
+ASUS,ZenFone V,2019-03-01,2019-08-09," Verizon Wireless is pleased to announce a software upgrade to Android 8.0 for your Zenfone V. Picture-in-Picture mode Android 8.0 allows activities to launch in picture-in-picture (PIP) mode. PIP is a special type of multi-window mode mostly used for video playback. PIP mode was originally available for Android TV only; Android 8.0 makes the feature available on other Android devices. Notifications In Android 8.0, we've redesigned notifications to provide an easier and more consistent way to manage notification behavior and settings. Text Field Form Autofill Account creation, login, and credit card transactions take time and are prone to errors. Users can easily get frustrated with apps that require these types of repetitive tasks. Android 8.0 makes filling out forms, such as login and credit card forms, easier with the introduction of the Autofill Framework. Existing and new apps work with Autofill Framework after the user opts in to autofill. Multi-display support Beginning with Android 8.0, the platform offers enhanced support for multiple displays. If an activity supports multi-window mode and is running on a device with multiple displays, users can move the activity from one display to another. When an app launches an activity, the app can specify which display the activity should run on. App categories Android 8.0 allows each app to show a category that it fits into when relevant. These categories are used to cluster together apps of similar purpose or function when presenting them to users, such as in Data Usage, Battery Usage, or Storage Usage. Latest Android security patches updated. ",False,,161
+ASUS,ZenFone V Live,2018-02-01,2018-04-17,,False,,75
+ASUS,ZenFone V Live,2018-08-01,2018-10-02,,False,,62
+ASUS,ZenFone V Live,2018-10-01,2018-10-02,,nan, V15.0405.1808.30 V15.0405.1808.30,1
+ASUS,ZenFone V Live,2018-12-01,2019-01-24,,False,,54
+ASUS,ZenPad Z10,2017-08-01,2018-02-02,,False,,185
+ASUS,ZenPad Z10,2018-01-01,2018-06-01,,False,,151
+ASUS,ZenPad Z8,2018-01-01,2018-02-15,,False,,45
+ASUS,ZenPad Z8,2018-02-01,2018-02-15,,nan, V5.4.5 V5.4.5,14
+ASUS,ZenPad Z8s,2017-09-01,2017-10-27,,False,,56
+ASUS,ZenPad Z8s,2017-10-01,2017-10-27,,nan, V3.7.3 V3.7.3,26
+ASUS,ZenPad Z8s,2018-01-01,2018-02-08,,False,,38
+ASUS,ZenPad Z8s,2018-02-01,2018-02-08,,nan, V3.7.4 V3.7.4,7
+Alcatel,Avalon,2019-08-01,2019-09-17," Includes the following system enhancements and updates: Current Android security patches System enhancements to: Menu, settings, calls, and calling accounts Bluetooth® Charging notification on user interface Performance improvements for: Cellular data Visual voicemail App performance ",False,,47
+Alcatel,Avalon V,2019-08-01,2019-08-16,,nan, 3D82UE21 3D82UE21,15
+BlackBerry,Classic,2018-06-01,2018-06-01,"The current software update gives you the most up to date security patches on your device, including Krack and Spectre ",True,,0
+BlackBerry,PRIV,2017-09-05,2017-11-15,,False,,71
+BlackBerry,PRIV,2017-10-05,2018-05-22,,False,,229
+BlackBerry,PRIV,2017-11-01,2017-11-15,,nan, AAQ281 AAQ281,14
+BlackBerry,PRIV,2018-05-01,2018-05-22,,nan, AAV985 AAV985,21
+BlackBerry,Z10,2018-06-01,2018-06-01,"The current software update gives you the most up to date security patches on your device, including Krack and Spectre ",True,,0
+BlackBerry,Z30,2018-06-01,2018-06-01,"The current software update gives you the most up to date security patches on your device, including Krack and Spectre ",True,,0
+DuraForce,PRO 2,2019-08-01,2019-08-26, The update includes: The latest Android security patches This update addresses: An issue where the device doesn't connect to a Wi-Fi Access point with 5GHz channel 149-165. Enhanced audio volume on speaker mode in non-HD Voice call ,False,,25
+DuraForce,PRO 2,2019-09-01,2019-10-28," The latest software update includes: The latest Android security patches of September 1, 2019 A phone app enhancement which allows switching between two connected Bluetooth® devices during a call This update addresses: An issue where Contact app crashes when making or receiving a call if ZEDGE app is installed without permission and set for ringtone and receiving a call An issue where SMS is not received if the message includes a ""|"" (separator) or "":"" (colon) An issue where the latest version of Google Drive app can not be launched An issue where flashlight turns off in 10 seconds after being turned on from OutdoorGrid ",False,,57
+DuraForce,PRO 2,2019-11-01,2019-11-25, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,24
+DuraForce,PRO with Sapphire Shield,2018-05-01,2018-06-14,"Android Security Patch Level: 2018-05-01 This DuraForce PRO by Kyocera software update provides fixes for several issues. The update includes: Calling (also known as Call Sync or Call Pull) is now supported and lets you make and receive calls on your smartphone, compatible tablets and smartwatches Improved Setup Wizard allows you to: Import data from an existing device Set up as a new device if this is your first smartphone The latest Android security patches This update fixes the following issues in which: Visual Voicemail stopped working when playing, deleting or receiving a voice message, and/or reading a transcripted message Messaging app stopped working when starting the app; the user saw an error popup ""Application does not respond"" The device didn't scan in manual mode when powering up (turning on) Network mode could not switch correctly from ""LTE/GSM/UMTS"" to ""Global"" mode When operating in the Global mode, the device will now select CDMA networks, LTE networks, GSM/GPRS/EDGE or UMTS/HSDPA/HSPA+ networks for wireless communications   ",False,,44
+DuraForce,PRO with Sapphire Shield,2018-08-01,2018-08-15,Android security patch level: 2018-08-01 The current software update gives you the most up to date Android security patches on your device. ,True,,14
+DuraForce,PRO with Sapphire Shield,2018-11-01,2018-12-04,"Android™ Security Patch Level: November 1, 2018 The update includes: The latest Android security patches This update addresses: An issue whereby ""Do Not Disturb"" doesn’t stop at the automatic rule end time.   ",False,,33
+Google,Nexus 6,2017-10-01,2017-10-02,,False,,1
+Google,Pixel,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel,2019-05-01,2019-05-06,,False,,5
+Google,Pixel,2019-09-01,2019-09-03," Verizon Wireless is pleased to announce a new software update for your Google Pixel, Android 10. Android 10 improves your mobile experience with several new features and enhancements. This update also includes the latest Android security updates and performance enhancements. Dark Theme Dark mode is a system wide dark theme. Once activated it works for all of Android and any 3rd party apps that are compatible. Most Google apps will be Dark Theme compatible. It may reduce power usage by a significant amount, but improves visibility for users with low vision and those who are sensitive to bright light. It also makes it easier for anyone to use a device in a low-light environment. To Activate: in Settings > Display > Dark Theme or via enabling Battery Saver model ",False,,2
+Google,Pixel,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 2,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel 2,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel 2,2019-05-01,2019-05-06,,False,,5
+Google,Pixel 2,2019-08-01,2019-08-05,,nan, PQ3A.190801.002 PQ3A.190801.002,4
+Google,Pixel 2,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 2,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 2,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 2 XL,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel 2 XL,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel 2 XL,2019-05-01,2019-05-06,,False,,5
+Google,Pixel 2 XL,2019-08-01,2019-08-05,,nan, PQ3A.190801.002 PQ3A.190801.002,4
+Google,Pixel 2 XL,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 2 XL,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 2 XL,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 2 XL,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 3,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel 3,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel 3,2019-05-01,2019-05-06,,False,,5
+Google,Pixel 3,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 3,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 3,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 3,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 3 XL,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel 3 XL,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel 3 XL,2019-05-01,2019-05-06,,False,,5
+Google,Pixel 3 XL,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 3 XL,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 3 XL,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 3 XL,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 3a,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 3a,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 3a,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 3a,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 3a XL,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel 3a XL,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel 3a XL,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 3a XL,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel 4,2019-10-01,2019-10-21, The current software update improves the performance of your device. ,False,,20
+Google,Pixel 4,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 4,2019-12-01,2019-12-09, The current software update improves the performance of your device. ,False,,8
+Google,Pixel 4 XL,2019-10-01,2019-10-21, The current software update improves the performance of your device. ,False,,20
+Google,Pixel 4 XL,2019-11-01,2019-11-04, The current software update gives you the most up to date Android security patches on your device. ,False,,3
+Google,Pixel 4 XL,2019-12-01,2019-12-09, The current software update improves the performance of your device. ,False,,8
+Google,Pixel Phone by Google,2019-08-01,2019-08-05,,nan, PQ3A.190801.002 PQ3A.190801.002,4
+Google,Pixel Phone by Google,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel Phone by Google,2019-10-01,2019-10-07,,nan, QP1A.191005.007.A1 QP1A.191005.007.A1,6
+Google,Pixel XL,2019-03-05,2019-03-04,,False,,-1
+Google,Pixel XL,2019-04-05,2019-04-01,,False,,-4
+Google,Pixel XL,2019-05-01,2019-05-06,,False,,5
+Google,Pixel XL,2019-09-01,2019-09-03," Verizon Wireless is pleased to announce a new software update for your Google Pixel XL, Android 10. Android 10 improves your mobile experience with several new features and enhancements. This update also includes the latest Android security updates and performance enhancements. Dark Theme Dark mode is a system wide dark theme. Once activated it works for all of Android and any 3rd party apps that are compatible. Most Google apps will be Dark Theme compatible. It may reduce power usage by a significant amount, but improves visibility for users with low vision and those who are sensitive to bright light. It also makes it easier for anyone to use a device in a low-light environment. To Activate: in Settings > Display > Dark Theme or via enabling Battery Saver model ",False,,2
+Google,Pixel XL,2019-10-01,2019-10-07, The current software update gives you the most up to date Android security patches on your device. ,False,,6
+Google,Pixel XL,2019-12-01,2019-12-02, The current software update gives you the most up to date Android security patches on your device. ,False,,1
+Google,Pixel XL Phone by Google,2019-08-01,2019-08-05,,nan, PQ3A.190801.002 PQ3A.190801.002,4
+Google,Pixel XL Phone by Google,2019-09-01,2019-09-03,,nan, QP1A.190711.020 QP1A.190711.020,2
+Google,Pixel XL Phone by Google,2019-10-01,2019-10-07,,nan, QP1A.191005.007.A1 QP1A.191005.007.A1,6
+HTC,10,2017-11-01,2017-12-15,,False,,44
+HTC,10,2017-12-01,2017-12-15,,nan, 2.41.605.36 2.41.605.36,14
+HTC,10,2018-01-01,2018-04-12,,False,,101
+HTC,Desire 526,2017-07-01,2017-09-06,,False,,67
+HTC,Desire 526,2017-09-01,2017-09-06,,nan, 0.10.C113251011@50613 0.10.C113251011@50613,5
+HTC,Desire 530,2017-08-01,2017-09-29,,False,,59
+HTC,Desire 626,2017-05-01,2017-05-15,,False,,14
+HTC,One,2015-12-01,2015-12-15,,True,,14
+HTC,One (M8),2016-03-07,2016-03-07,,True,,0
+HTC,One M9,2017-08-01,2018-01-19,,False,,171
+HTC,One M9,2017-11-01,2018-01-19,,False,,79
+KYOCERA,DuraForce PRO 2,2019-04-01,2019-06-18,,nan, 3.516VZ 3.516VZ,78
+KYOCERA,DuraForce PRO 2,2019-06-01,2019-07-22,,nan, 3.605VZ 3.605VZ,51
+KYOCERA,DuraForce PRO 2,2019-08-01,2019-08-26,,nan, 3.708VZ 3.708VZ,25
+Kazuna,eTalk,2019-09-01,2019-10-18, Enhancements You can now record a video and send it through messaging Improved UI experience with quick menu selection response Performance improvements Mobile hotspot cannot be turned unless enabled by Verizon LTE data can not be used when Wi-Fi is connected but no ISP The New Voicemail indicator clears when all new voicemails are retrieved Additional feature updates or enhancements ,False,,47
+Kyocera,Cadence,2018-03-01,2018-03-02,,nan, 1.420VZ 1.420VZ,1
+Kyocera,DuraForce PRO with Sapphire Shield,2018-08-01,2018-08-15,,nan, 5.561VZ 5.561VZ,14
+Kyocera,DuraForce PRO with Sapphire Shield,2018-12-01,2018-12-04,,nan, 5.572VZ 5.572VZ,3
+Kyocera,LTE,2017-09-05,2018-03-02,"Android Security Patch Level: 2017-09-05, including Krack Security Patch The current software update gives you the most up to date Android security patches on your device. ",False,,178
+Kyocera,LTE,2019-12-01,2019-12-09," This update: Addresses an issue with short battery life for users who have Talk & Text (No data) plan. Preloads the latest apps: MVS, My Verizon, Cloud, Message+. Now allows modifiable pre-programmed contact. Addresses an XT9Word input issue. ",False,,8
+Kyocera ,Brigadier,2015-08-13,2016-08-19,,True,,372
+Kyocera ,Cadence,2017-09-05,2018-03-02,,False,,178
+Kyocera ,DuraForce PRO 2,2019-01-01,2019-02-01,,False,,31
+Kyocera ,DuraForce PRO 2,2019-02-01,2019-03-18,,False,,45
+Kyocera ,DuraForce PRO 2,2019-04-01,2019-04-29,,False,,28
+Kyocera ,DuraForce PRO with Sapphire Shield,2018-05-01,2018-06-14,,False,,44
+Kyocera ,DuraForce PRO with Sapphire Shield,2018-08-01,2018-08-15,,False,,14
+Kyocera ,DuraForce PRO with Sapphire Shield,2018-11-01,2018-12-04,,False,,33
+LG,Exalt LTE,2018-12-01,2018-12-17," This software update for your LG Exalt LTE includes RTT / TTS modes, updated applications, and the latest Android security patches. Option menu - Manage contacts Manage contacts menu option has been added in Contacts. Import contacts via Bluetooth®. Once you enter the vCard file, you cannot ""Select All"" to transfer the contacts. ",True,,16
+LG,Exalt LTE,2018-12-03,2018-12-17,,True,,14
+LG,Exalt LTE,2019-04-01,2019-04-05,,True,,4
+LG,G Pad 10.1,2017-05-01,2017-05-30,The current software update gives you the most up to date Android™ security patches on your device. ,True,,29
+LG,G Pad 10.1 LTE,2017-05-01,2017-05-30,,False,,29
+LG,G Pad 7.0,2017-05-01,2017-05-03,The current software update gives you the most up to date Android™ security patches on your device. ,True,,2
+LG,G Pad 7.0 LTE,2017-05-01,2017-05-03,,False,,2
+LG,G Pad 8.3,2017-03-01,2017-03-30,The current software update gives you the most up to date Android™ security patches on your device. ,True,,29
+LG,G Pad 8.3 LTE,2017-03-07,2017-03-30,,False,,23
+LG,G Pad X8.3,2017-03-01,2017-03-08,The current software update gives you the most up to date Android™ security patches on your device. ,True,,7
+LG,G Pad X8.3,2017-03-05,2017-03-08,,False,,3
+LG,G Vista,2017-05-01,2017-05-02,,False,,1
+LG,G2,2015-11-01,2015-11-02,,True,,1
+LG,G3,2017-02-01,2017-02-28,The current software update gives you the most up to date Android security patch on your device. ,True,,27
+LG,G3,2017-02-05,2017-02-28,,True,,23
+LG,G3,2017-04-01,2017-04-11,,True,,10
+LG,G3,2017-04-03,2017-04-11,,False,,8
+LG,G4,2017-06-01,2017-06-06,The current software update gives you the most up to date Android™ security patches on your device. ,True,,5
+LG,G4,2017-06-05,2017-06-06,,True,,1
+LG,G5,2018-03-01,2018-03-20,,False,,19
+LG,G5,2018-08-01,2018-09-21,,False,,51
+LG,G5,2018-10-01,2018-10-25,,nan, VS98730b VS98730b,24
+LG,G6,2018-11-01,2018-11-30,,False,,29
+LG,G6,2018-12-01,2019-01-15,,False,,45
+LG,G6,2019-02-01,2019-02-18,,False,,17
+LG,G6,2019-05-01,2019-07-24, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,84
+LG,G6,2019-08-01,2019-09-24," This software update includes Pie OS upgrade and the latest Android security patches. Android Pie Home touch buttons with gesture: Just swipe up to switch to Overview or App drawer. Swipe right to move to the most recently used app. Use the Volume keys for media: Changes what the Volume keys adjust by default from ringtone volume to media volume. Show lockdown option: In the lockdown mode, biometrics cannot be used, all lock screen notifications are hidden, and Smart Lock turns off. Press and hold the Power key and select Lockdown. Screenshot thumbnail: When a screenshot is taken, its preview is displayed in the bottom right side of the screen in a thumbnail. ",False,,54
+LG,G7 ThinQ,2018-12-01,2019-01-24,,False,,54
+LG,G7 ThinQ,2019-02-01,2019-03-04,,False,,31
+LG,G7 ThinQ,2019-03-01,2019-04-12,,False,,42
+LG,G7 ThinQ,2019-04-01,2019-06-04,,nan, G710VM20a G710VM20a,64
+LG,G7 ThinQ,2019-05-01,2019-06-21, The current software update provides the most up to date Android security patches on your device. ,False,,51
+LG,G7 ThinQ,2019-08-01,2019-09-06, The current update includes: The latest Android security patches Google and Verizon pre-loaded app updates ,False,,36
+LG,G7 ThinQ,2019-10-01,2019-11-01, The current software update provides the most up to date Android security patches on your device. ,False,,31
+LG,G8 ThinQ,2019-04-01,2019-04-24,,False,,23
+LG,G8 ThinQ,2019-06-01,2019-07-26, The latest software update includes: The latest Android security patches Camera improvements ,False,,55
+LG,G8 ThinQ,2019-09-01,2019-10-04, The latest software update includes: The latest Android security patches Pre-loaded app enhancements ,False,,33
+LG,G8 ThinQ,2019-10-01,2019-11-22, The current software update gives you the most up to date Android security patches on your device. ,False,,52
+LG,K20 V,2018-12-01,2018-12-20,,False,,19
+LG,K20 V,2019-01-01,2019-02-14,,False,,44
+LG,K20 V,2019-03-01,2019-03-20,,False,,19
+LG,K4,2018-02-01,2018-02-19,,False,,18
+LG,K4,2018-04-01,2018-04-23,,False,,22
+LG,K8 V,2018-03-01,2018-03-21,Android Security Patch Level: 2018-03-01 The current software update gives you the most up to date Android security patches on your device. ,False,,20
+LG,K8 V,2018-04-01,2018-05-07,,False,,36
+LG,K8 V,2018-05-01,2018-05-07,,nan, VS50020i VS50020i,6
+LG,Optimus Zone 3,2017-09-01,2017-10-10,,False,,39
+LG,Optimus Zone 3,2017-10-01,2017-10-10,,nan, VS425PP9 VS425PP9,9
+LG,Stylo 2 V,2018-07-01,2018-07-20,,False,,19
+LG,Stylo 2 V,2018-09-01,2018-09-20,,False,,19
+LG,Stylo 2 V,2019-10-01,2019-11-20, The current software update gives you the most up to date Android security patches on your device. ,False,,50
+LG,Stylo 5,2019-09-01,2019-10-03, The current software update gives you the most up to date Android security patches on your device. ,False,,32
+LG,Stylo 5,2019-10-01,2019-12-02," This software update for your LG Stylo 5 includes fundamental application updates and the latest Android security patches. Live Stickers Add stickers to your photos in Camera and Gallery. The selection of stickers change based on the time, location and event. ",False,,62
+LG,V10,2017-08-01,2017-08-30,,False,,29
+LG,V10,2017-12-01,2018-01-16,,False,,46
+LG,V20,2018-08-01,2018-09-17,,False,,47
+LG,V20,2018-10-01,2018-10-18,,False,,17
+LG,V20,2018-11-01,2018-11-14,,nan, VS99520c VS99520c,13
+LG,V30,2019-01-01,2019-01-18,,False,,17
+LG,V30,2019-02-01,2019-02-18,,False,,17
+LG,V30,2019-03-01,2019-03-21,,False,,20
+LG,V30,2019-05-01,2019-05-31, This software update includes camera application updates and the latest Android security patches. ,False,,30
+LG,V30,2019-06-01,2019-07-05, The current software update provides your device with: The most up to date Android security patches System enhancements Updates to LG apps ,False,,34
+LG,V30,2019-08-01,2019-09-13," This software update for your LG V30 includes the Pie Operating System upgrade and latest Android security patches. Android Pie Home touch buttons with gesture: Just swipe up to switch to Overview or App drawer. Swipe right to move to the most recently used app. Use the Volume keys for media: Changes what the Volume keys adjust by default from ringtone volume to media volume. Show lockdown option: In the lockdown mode, biometrics cannot be used, all lock screen notifications are hidden, and Smart Lock turns off. To enter this mode, Press and hold the Power key and select Lockdown. Screenshot thumbnail: When a screenshot is taken, its preview is displayed in the bottom right side of the screen as a thumbnail. ",False,,43
+LG,V40 ThinQ,2018-10-01,2018-11-14,,False,,44
+LG,V40 ThinQ,2018-12-01,2019-01-30,,False,,60
+LG,V40 ThinQ,2019-02-01,2019-03-04,,False,,31
+LG,V40 ThinQ,2019-04-01,2019-05-24,,nan, V405UA20a V405UA20a,53
+LG,V40 ThinQ,2019-05-01,2019-06-21, The current software update provides the most up to date Android security patches on your device. ,False,,51
+LG,V40 ThinQ,2019-08-01,2019-09-24," This software update includes fundamental enhancements and the latest Android security patches. Screen recording: Record the phone's screen to show what you do on it. Secure power-off: When the phone is locked, unlocking is required to power off. This helps to prevent someone from powering off the phone when it is lost or stolen. ",False,,54
+LG,V40 ThinQ,2019-10-01,2019-11-01, The current software update provides the most up to date Android security patches on your device. ,False,,31
+LG,V50 ThinQ 5G,2019-07-01,2019-07-16,,nan, V450VM10e V450VM10e,15
+LG,V50 ThinQ 5G,2019-08-01,2019-08-29, The current software update provides the most up to date Android security patches and performance improvements on your device. ,False,,28
+LG,V50 ThinQ 5G,2019-10-01,2019-10-24, The current software update provides the most up to date Android security patches on your device. ,False,,23
+LG,Watch Urbane 2nd Edition,2016-12-01,2016-12-19,The current software update gives you the most up to date Android™ security patches on your device. ,True,,18
+LG,ZONE 4,2018-11-01,2018-12-17,,False,,46
+LG,ZONE 4,2019-01-01,2019-01-23,,False,,22
+LG,ZONE 4,2019-03-01,2019-03-28,,False,,27
+LG,ZONE 4,2019-05-01,2019-05-28,,nan, X210VPP13a X210VPP13a,27
+LG,ZONE 4,2019-07-01,2019-07-17, The current software update gives you the most up to date Android security patches on your device. ,False,,16
+LG,ZONE 4,2019-09-01,2019-09-18, The current software update gives you the most up to date Android security patches on your device. ,False,,17
+LG,ZONE 4,2019-11-01,2019-12-11, The current software update provides the most up to date Android security patches on your device. ,False,,40
+Motorola,DROID MAXX 2,2017-12-01,2018-02-08,,False,,69
+Motorola,DROID MINI,2016-05-01,2016-05-05,,True,,4
+Motorola,DROID TURBO 2,2017-08-01,2017-11-16,,False,,107
+Motorola,Droid Mini,2016-05-01,2016-05-05,The current software update gives you the most up to date Android™ security patch on your device. ,True,,4
+Motorola,Droid TURBO,2017-03-01,2017-03-01, The current software update gives you the most up to date Android™ security patch on your device. ,True,,0
+Motorola,Droid Turbo,2017-02-06,2017-03-01,,True,,23
+Motorola,Droid Turbo 2,2017-10-01,2017-11-16,"Android™ Security Patch Level: 2017-10-01, including Blueborne The current software update gives you the most up to date Android security patches on your device. ",False,,46
+Motorola,Moto G Play,2018-03-01,2018-03-23,,False,,22
+Motorola,Moto G Play,2018-04-01,2018-05-29,,False,,58
+Motorola,Moto G Play,2018-05-01,2018-05-29,,nan, NPI26.48-43 NPI26.48-43,28
+Motorola,Moto G Play,2018-06-01,2018-06-28,,False,,27
+Motorola,Moto X,2016-05-01,2016-05-16,,True,,15
+Motorola,Moto X (2nd Gen.),2016-11-01,2016-11-18,The current software update gives you the most up to date Android™ security patch on your device. ,True,,17
+Motorola,Moto X (2nd Gen.),2016-11-06,2016-11-18,,True,,12
+Motorola,Moto Z Droid Edition,2018-05-01,2018-06-18,,False,,48
+Motorola,Moto Z Droid Edition,2018-07-01,2018-07-25,,False,,24
+Motorola,Moto Z Droid Edition,2018-09-01,2018-11-09,,False,,69
+Motorola,Moto Z Force Droid Edition,2018-05-01,2018-06-18,,False,,48
+Motorola,Moto Z Force Droid Edition,2018-07-01,2018-07-25,,False,,24
+Motorola,Moto Z Force Droid Edition,2018-09-01,2018-11-09,,False,,69
+Motorola,Moto Z Play Droid Edition,2018-06-01,2018-07-03,,False,,32
+Motorola,Moto Z Play Droid Edition,2018-08-01,2018-09-06,,False,,36
+Motorola,Moto Z Play Droid Edition,2018-09-01,2018-09-06,,nan, ODN27.76-12-30-8 ODN27.76-12-30-8,5
+Motorola,Moto Z Play Droid Edition,2018-10-01,2018-10-09,,nan, ODN27.76-12-30-8-1 ODN27.76-12-30-8-1,8
+Motorola,Moto e4,2018-03-01,2018-04-03,,False,,33
+Motorola,Moto e4,2018-04-01,2018-04-03,,nan, NDQS26.69-64-2 NDQS26.69-64-2,2
+Motorola,Moto e4,2018-05-01,2018-05-31,,False,,30
+Motorola,Moto e4,2018-07-01,2018-07-25,,False,,24
+Motorola,Moto e4 gold,2018-11-01,2018-11-28,,False,,27
+Motorola,Moto e4 gold,2019-01-01,2019-02-18,,False,,48
+Motorola,Moto e4 gold,2019-02-01,2019-05-03,,,,91
+Motorola,Moto e4 plus,2018-11-01,2018-12-04,,False,,33
+Motorola,Moto e4 plus,2019-01-01,2019-02-04,,False,,34
+Motorola,Moto e4 plus,2019-02-01,2019-04-30,,False,,88
+Motorola,Moto e5 go,2019-01-01,2019-01-25,,False,,24
+Motorola,Moto e5 go,2019-02-01,2019-05-10,,False,,98
+Motorola,Moto e5 play,2018-12-01,2019-01-16,,False,,46
+Motorola,Moto e5 play,2019-02-01,2019-03-01,,False,,28
+Motorola,Moto g6,2018-11-01,2018-12-07,,False,,36
+Motorola,Moto g6,2019-01-01,2019-01-31,,False,,30
+Motorola,Moto g6,2019-03-01,2019-03-29,,False,,28
+Motorola,Moto g6 play,2018-11-01,2018-11-28,,False,,27
+Motorola,Moto g6 play,2019-01-01,2019-01-29,,False,,28
+Motorola,Moto g6 play,2019-02-01,2019-04-17,,False,,75
+Motorola,Moto g7 power,2019-05-08,2019-05-08,,False,,0
+Motorola,Moto z2 force,2018-11-01,2018-11-30,,False,,29
+Motorola,Moto z2 force,2019-01-01,2019-01-23,,False,,22
+Motorola,Moto z2 force,2019-02-01,2019-04-30,,False,,88
+Motorola,Moto z2 play,2018-12-01,2018-12-27,,False,,26
+Motorola,Moto z2 play,2019-02-01,2019-02-22,,False,,21
+Motorola,Moto z3,2018-12-01,2018-12-27,,False,,26
+Motorola,Moto z3,2019-03-01,2019-04-02,,False,,32
+Motorola,e 4  gold,2019-02-01,2019-05-03,,nan, NDQS26.69-64-11-7 NDQS26.69-64-11-7,91
+Motorola,e 4  gold,2019-07-01,2019-08-14,,nan, NDQS26.69-64-11-13 NDQS26.69-64-11-13,44
+Motorola,e 4  gold,2019-09-01,2019-10-03,,nan, NDQS26.69-64-11-5 NDQS26.69-64-11-5,32
+Motorola,e 4  plus,2019-01-01,2019-02-04,,nan, NDRS26.58-33-9-10 NDRS26.58-33-9-10,34
+Motorola,e 4  plus,2019-02-01,2019-04-30,,nan, NDRS26.58-33-9-12 NDRS26.58-33-9-12,88
+Motorola,e 4  plus,2019-06-01,2019-07-26,,nan, NDRS26.58-33-9-16 NDRS26.58-33-9-16,55
+Motorola,e 4  prepaid,2019-02-01,2019-05-03,,nan, NDQS26.69-64-11-7 NDQS26.69-64-11-7,91
+Motorola,e 4  prepaid,2019-07-01,2019-08-14,,nan, NDQS26.69-64-11-13 NDQS26.69-64-11-13,44
+Motorola,e 4  prepaid,2019-09-01,2019-10-03,,nan, NDQS26.69-64-11-16 NDQS26.69-64-11-16,32
+Motorola,e 5  go,2019-05-01,2019-06-13,,nan, OPP28.151-22-5 OPP28.151-22-5,43
+Motorola,e 5  go,2019-07-01,2019-08-05,,nan, OPPS28.151-22-5-4 OPPS28.151-22-5-4,35
+Motorola,e 5  go,2019-09-01,2019-09-24,,nan, OPPS28.151-22-5-6 OPPS28.151-22-5-6,23
+Motorola,e 5  play,2019-06-01,2019-07-29,,nan, ODP27.91-167-9 ODP27.91-167-9,58
+Motorola,e 5  play,2019-08-01,2019-08-29,,nan, ODPS27.91-167-9-2 ODPS27.91-167-9-2,28
+Motorola,e 5  play,2019-10-01,2019-10-10,,nan, ODPS27.91-167-9-3 ODPS27.91-167-9-3,9
+Motorola,e 6,2019-08-01,2019-09-24,,nan, PCB29.73-81 PCB29.73-81,54
+Motorola,e4,2018-03-01,2018-04-03,Android Security Patch Level: 2018-03-01 The current software update gives you the most up to date Android security patches on your device. ,False,,33
+Motorola,e4,2018-05-01,2018-05-31,Android Security Patch Level: 2018-05-01 The current software update gives you the most up to date Android security patches on your device. ,False,,30
+Motorola,e4,2018-07-01,2018-07-25,Android™ Security Patch Level: 2018-07-01 The current software update gives you the most up to date Android security patches on your device. ,False,,24
+Motorola,e4 gold,2019-02-01,2019-05-03, The current software update gives you the most up to date Android security patches on your device. ,False,,91
+Motorola,e4 gold,2019-07-01,2019-08-14, The current software update gives you the most up to date Android security patches on your device. ,False,,44
+Motorola,e4 gold,2019-09-01,2019-10-03, The current software update gives you the most up to date Android security patches on your device. ,False,,32
+Motorola,e4 plus,2019-01-01,2019-02-04, The current software update gives you the most up to date Android security patches on your device. ,False,,34
+Motorola,e4 plus,2019-02-01,2019-04-30, The current software update gives you the most up to date Android security patches on your device. ,False,,88
+Motorola,e4 plus,2019-06-01,2019-07-26, The current software update gives you the most up to date Android security patches on your device. ,False,,55
+Motorola,e4 prepaid,2019-02-01,2019-05-03, The current software update gives you the most up to date Android security patches on your device. ,False,,91
+Motorola,e4 prepaid,2019-07-01,2019-08-14, The current software update gives you the most up to date Android security patches on your device. ,False,,44
+Motorola,e4 prepaid,2019-09-01,2019-10-03, The current software update gives you the most up to date Android security patches on your device. ,False,,32
+Motorola,e5 go,2019-07-01,2019-08-05, The current software update gives you the most up to date Android security patches on your device. ,False,,35
+Motorola,e5 go,2019-09-01,2019-09-24, The current software update gives you the most up to date Android security patches on your device. ,False,,23
+Motorola,e5 go,2019-11-01,2019-11-21, The current software update gives you the most up to date Android security patches on your device. ,False,,20
+Motorola,e5 play,2019-08-01,2019-08-29, The current software update gives you the most up to date Android security patches on your device. ,False,,28
+Motorola,e5 play,2019-10-01,2019-10-10, The current software update gives you the most up to date Android security patches on your device. ,False,,9
+Motorola,e5 play,2019-11-01,2019-11-22, The current software update gives you the most up to date Android security patches on your device. ,False,,21
+Motorola,e6,2019-08-01,2019-09-24," ""Out of box"" user experience Note that these updates apply only to devices that have not already completed the setup wizard (e.g., a new device or one that has been Factory Reset). Ensure setup wizard can proceed even if there is no SIM card inserted. (Postpaid devices only) Phone no longer displays an error message when a new SIM is inserted after the device is on the “Phone Activation” screen during a setup wizard flow. (Prepaid devices only) Fixed a rare issue during the setup wizard which caused the device to briefly lose its cellular network connection. Global Roaming Fixed an issue when dialing an international number where the device did not dial out when using specific key combinations. User Interface Incorrect Android version no longer displays in the Software update status menu under Settings > System updates. Device no longer shows “No service” in the status menu when Airplane mode is turned on and Wi-Fi Calling is available. Security Latest Android security patches (August 1, 2019) ",False,,54
+Motorola,e6,2019-10-01,2019-10-24, The current software update gives you the most up to date Android security patches on your device. ,False,,23
+Motorola,g 6,2019-03-01,2019-03-29,,nan, ODSS27.104-95-6 ODSS27.104-95-6,28
+Motorola,g 6,2019-06-01,2019-07-10,,nan, PDS29.118-15-2 PDS29.118-15-2,39
+Motorola,g 6,2019-08-01,2019-08-22,,nan, PDS29.118-15-11 PDS29.118-15-11,21
+Motorola,g 6  play,2019-02-01,2019-04-17,,nan, ODPS27.91-106-4-8 ODPS27.91-106-4-8,75
+Motorola,g 6  play,2019-06-01,2019-07-16,,nan, PDP29.118-38 PDP29.118-38,45
+Motorola,g 6  play,2019-08-01,2019-08-29,,nan, PDPS29.118-38-2 PDPS29.118-38-2,28
+Motorola,g 7  power,2019-06-01,2019-08-12,,nan, PDO29.114-134 PDO29.114-134,72
+Motorola,g 7  power,2019-08-01,2019-09-03,,nan, PDOS29.114-134-2 PDOS29.114-134-2,33
+Motorola,g6,2019-06-01,2019-07-10," Android 9.0 Pie improves your mobile experience, from the new Intuitive Navigation and Recent App, an improved Do Not Disturb mode, and a colorful settings menu, to an anticipated longer battery life and revamped split-screen. Android Pie also brings a redesigned Quick Settings, simplified volume controls, an easier way to manage notifications and more. After installing the software update you may notice changes that include: Usability Adaptive Battery: Get more from a single charge. Adaptive Battery prioritizes power on the apps you use the most and applies restrictions on the ones you use the least. Battery saver can now be activated from 70% or below. Adaptive Brightness: Fewer manual adjustments for better performance. Machine learning takes note of your habits and automatically adjusts to your activities. Quick settings improvements: No shortcuts (toggles are no longer expandable, but pressing and holding a toggle goes to setting detail). The icons have been redesigned with a rounded concept and circular background. Rotation key: Android Pie presents a temporary rotation even with the auto-rotate disabled. A rotation button is displayed whenever it detects your phone has changed orientation. Redesigned Settings app: Colorful icons for each selection with a circular background. It also warns if the phone is muted or in Do Not Disturb mode. Order, name and placement of the settings options haven't changed. Better Screenshots: Another handy Android 9.0 feature is the addition of the virtual screenshot button/shortcut to the power menu (the old ""Power + Volume Down"" method still works). You can also edit your screenshots immediately after taking them and a delete option is also available. Improved audio controls: The volume slider is now vertical and close to the volume buttons. You can switch between Ring, Mute, and Vibrate Only mode. Plus, media controls now default to volume adjusted and Do Not Disturb cannot be turned on/off via the volume keys anymore. Bluetooth® device volumes are also accessed whenever connected. As usual, ""Volume Up + Power"" changes the ring mode to Vibrate. Zoom in text: You can finally manage the annoying mistakes of selecting incorrect text. Now, when you long press a phrase or text, it will automatically magnify at the pointer. It also helps you read small text and select words precisely. New and updated emojis: 157 new emojis, as well as a gender-neutral concept. Settings icon while on PIP mode: Tapping the new settings icon brings you to the app's PiP settings, where you can enable or disable the feature. Other UI changes: Time is now on the left side and the search bar is now rounded. There is a new task manager/recent list that now shows a horizontal list instead of vertical, and includes split screen capabilities accessed by pressing the app icon above the thumbnail. Dragging the split screen border will select the app you want in Full screen. Notifications Notification UI changes: Notifications now have rounded corners. It also supports inline images/stickers and distinguishes between single/group conversations. Dismissing Notifications: Android Pie will now suggest to you a couple of actions for the types of notifications you usually dismiss. It will offer to turn off frequently dismissed notifications by asking you if you would like to stop seeing these notifications or allow it to keep showing them. Notification bar: A maximum of 4 notifications are visible in the status bar before the list is truncated with a dot to indicate more unseen icons. Manage Notifications: A shortcut at the bottom of the cards in the notification shade allows you to see a user-facing list of recent notification activity. If it's something annoying you can flip the toggle right there to disable unwanted notifications in future. Performance Performance improvements: Applications will launch faster and use less memory, gaining performance and efficiency improvements. Power efficiency: Refinements to Doze, App Standby, and Background Limits to improve battery life. Background App privacy: This system restricts access to your phone's microphone, camera, and other sensors (other than GPS). A persistent notification is shown if an app needs access while in the background. Bluetooth enhancements: Simultaneous connection of up to 5 Bluetooth audio devices. However, there is no option for simultaneous playback; you need to choose the device to be used. Also, Android 9.0 remembers the last volume level for paired devices. Wi-Fi optimization: Wi-Fi hotspot turns OFF when there is no connection. It disables automatically, preventing others nearby from connecting to your network. Security Security enhancements: An alert tone will sound when a call is being Recorded to all parties. Also the Pattern unlock, instead of simply leaving the trail visible, hides the swipe trail until the phone has fully unlocked. This is better for security. Data encryption: Android Pie will now perform client-side data encryption and/or decryption on your phone. Authentication is required (password, PIN, pattern), plus Google backs up all information to the cloud, and hacker attacks become much more difficult. DNS over TLS support: This creates a secure connection to the DNS server before DNS queries and responses happen. For example, someone monitoring the connection will have a harder time seeing what you're doing. HTTPs by default: All applications built for Android Pie onwards will send and receive data via HTTPS by default, ensuring that your data is better protected as you communicate with the app's servers, especially public Wi-Fi. ",False,,39
+Motorola,g6,2019-08-01,2019-08-22," The current update includes: Changes to give you a more dynamic experience when interacting with the phone, minimizing lags while scrolling and typing. The most up to date Android security patches on your device. ",False,,21
+Motorola,g6,2019-10-01,2019-12-05, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,65
+Motorola,g6 play,2019-06-01,2019-07-16, This software update provides: Latest Android security patches Improvements for GPS accuracy when using applications like Maps ,False,,45
+Motorola,g6 play,2019-08-01,2019-08-29, The current software update gives you the most up to date Android security patches on your device. ,False,,28
+Motorola,g6 play,2019-10-01,2019-11-14," Optimized Battery Consumption Includes changes to improve efficiency for Android Launcher battery consumption.* *Launcher is the name given to the part of the Android user interface that lets you customize your home screen (e.g. the phone's desktop), launch mobile apps, make phone calls, and perform other tasks on Android devices (devices that use the Android mobile operating system). Launcher is built into Android, and these changes will help to improve battery life. The current software update gives you the most up to date Android security patches on your device. ",False,,44
+Motorola,g7 power,2019-06-01,2019-08-12, Performance Stability improvements: Includes changes that enhance performance and improve the stability of your phone. Security Security Patch Level June 2019 Usability Improved audio quality: Audio Quality Improvements for BT and with 3rd party App. Message+ cannot get audio files: Audio files are now displayed to end user. ,False,,72
+Motorola,g7 power,2019-08-01,2019-09-03, The current software update gives you the most up to date Android security patches on your device. ,False,,33
+Motorola,g7 power,2019-10-01,2019-10-31, Addressed an issue to improve battery temperature sensor accuracy. ,False,,30
+Motorola,z 2  force edition,2019-01-01,2019-01-23,,nan, ODXS27.109-34-17-3-3 ODXS27.109-34-17-3-3,22
+Motorola,z 2  force edition,2019-02-01,2019-04-30,,nan, ODXS27.109-34-17-3-5 ODXS27.109-34-17-3-5,88
+Motorola,z 2  force edition,2019-06-01,2019-07-29,,nan, PCX29.159-21 PCX29.159-21,58
+Motorola,z 2  play,2019-02-01,2019-02-22,,nan, ODSS27.76-12-42-6 ODSS27.76-12-42-6,21
+Motorola,z 2  play,2019-06-01,2019-08-21,,nan, ODS27.76-12-42-14 ODS27.76-12-42-14,81
+Motorola,z 3,2019-05-01,2019-05-23,,nan, PDXS29.84-30-3 PDXS29.84-30-3,22
+Motorola,z 3,2019-06-01,2019-06-25,,nan, PDX29.84-42 PDX29.84-42,24
+Motorola,z 3,2019-08-01,2019-09-10,,nan, PDXS29.84-42-3 PDXS29.84-42-3,40
+Motorola,z 4,2019-05-01,2019-06-13,,nan, PDF29.105-25-11 PDF29.105-25-11,43
+Motorola,z 4,2019-08-01,2019-08-22,,nan, PDF29.105-25-20 PDF29.105-25-20,21
+Motorola,z2 force edition,2019-01-01,2019-01-23, The current software update gives you the most up to date Android security patches on your device. ,False,,22
+Motorola,z2 force edition,2019-02-01,2019-04-30, The current software update gives you the most up to date Android security patches on your device. ,False,,88
+Motorola,z2 force edition,2019-06-01,2019-07-29," Support 5G through 5G moto mod Verizon's 5G network uses millimeter wave technology designed for faster peak downloads. Think more devices, more data, and more people—connecting faster than ever. Faster speeds: With 5G speed, you can download an entire 4K movie in just seconds (projected). Dramatically lower latency: Interactive content like augmented and virtual reality is more responsive. Built for connection: Connect all your smart devices and sensors without compromising speed. More mobility: Consistent, reliable coverage helps you get more done, wherever you are. Simply snap on the 5G moto mod to enable your Moto Z2 Force to work with Verizon's 5G Ultra Wide Band (UWB) network. Learn more about 5G moto mod. Android 9.0 Pie Update From the new Intuitive Navigation and Recent App, an improved Do Not Disturb mode, and a colorful settings menu to anticipated longer battery life and revamped split-screen, Android 9.0 Pie improves your mobile experience. Android Pie also brings a redesigned Quick Settings, simplified volume controls, an easier way to manage notifications and more. After installing the software update you may notice changes that include: Usability Adaptive Battery: Get more from a single charge. Adaptive Battery prioritizes battery power on the apps you use the most and applies restrictions on the ones you use the least. Battery saver can now be activated from 70% or below. Adaptive Brightness: Fewer manual adjustments are necessary for better performance. Machine learning takes notes of your habits and automatically adjusts to your activities. Quick settings improvements: No shortcuts anymore (Toggles are no longer expandable, but pressing and holding a toggle goes to setting detail). The icons have been redesigned with a rounded concept and circular background. Rotation key: Android Pie presents a temporary rotation even with the auto-rotate disabled. A rotation button is displayed whenever it detects your phone has changed orientation. Redesigned Settings app: Colorful icons for each selection with a circular background. It also warns if the phone is muted or in Do not Disturb mode. Order, name, and placement of the settings options have not changed. Better Screenshots: Another handy Android 9.0 feature is the addition of the virtual screenshot button/shortcut to the power menu (the old power and volume down method still works). You can also edit your screenshots immediately after taking them and a delete option is also available. Improved audio controls: The volume slider is now vertical and close to volume buttons. You can switch between Ring, Mute, and Vibrate only mode. Plus, media controls are now the default volume adjusted and Do not disturb cannot be turned on/off via volume keys anymore. Bluetooth device volumes are also accessed whenever connected. As usual, ""Volume Up + Power"" changes the ring mode to Vibrate. Zoom in text: You can finally manage the annoying mistakes of selecting incorrect text. Now, when you long press a phrase or text, it will automatically magnify at the pointer. It also helps you read small text and selecting words precisely. New and updated emoji: 157 new emojis, as well as a gender-neutral concept. Settings icon while on PIP mode: Tapping the new settings icon brings you to the app's PiP settings, where you can enable or disable the feature. Other UI changes: Time is now on the left side and the search bar is now rounded. There is a new task manager / recents list that now shows a horizontal list instead of vertical and includes the split screen capabilities by pressing the app icon above the thumbnail. Dragging the split screen border will select the app you want in Full screen. Notifications Notification UI changes: Notifications now have rounded corners. It also supports inline images/stickers and distinguishes between single/group conversations. Dismissing Notifications: Android Pie will now suggest a couple of actions for the type of notifications you usually dismiss. It will offer to turn off frequently dismissed notifications by asking if you would like to stop seeing these notifications or keep showing them. Notification bar: Maximum of 4 visible notifications in the status bar before the list is truncated with a dot to indicate more unseen icons. Manage Notifications: A shortcut at the bottom of the cards in the notification shade that allows you to see a user-facing list of recent notification activity. If it's something annoying you can flip the toggle right there to disable unwanted notifications in future. Performance Performance improvements: Applications will launch faster and use less memory, improving performance and efficiency. Power efficiency: Refinements to Doze, App Standby, and Background Limits to improve battery life. Background App privacy: System restricts access to phone's microphone, camera, and other sensors (other than GPS). A persistent notification is shown if an app needs access while in background. Bluetooth enhancements: Simultaneous connection of up to 5 Bluetooth audio devices. However, there is no option to simultaneous playback. You need to choose the device to be used. Also, Android 9.0 remembers the last volume level for paired devices. Wi-Fi optimization: Wi-Fi hotspot goes OFF if there is no connection. It disables automatically, preventing others nearby from connecting to your network. Stability improvements: Includes system enhancements and improves the stability of your phone. Security Security enhancements: An alert tone will be heard when a call is being Recorded to all parties. Also the Pattern unlock hides your swipe trail instead of simply leaving the trail visible until the phone has fully unlocked. This is better for security. Data encryption: Android Pie will now perform client-side data encryption and/or decryption on your phone; authentication is required (password, PIN, pattern), plus Google backs up all information to the cloud, making hacking attacks much more difficult. DNS over TLS support: It creates a secure connection to the DNS server before DNS queries and responses happen. For example, someone monitoring the connection will have a harder time seeing what you're doing. HTTPs by default: All applications built for Android Pie onwards will send and receive data via HTTPS by default, ensuring your data is better protected as you communicate with the app's servers, especially public WiFi. ",False,,58
+Motorola,z2 play,2019-02-01,2019-02-22, The current software update gives you the most up to date Android security patches on your device. ,False,,21
+Motorola,z2 play,2019-06-01,2019-08-21, The current software update gives you the most up to date Android security patches on your device. ,False,,81
+Motorola,z3,2019-05-01,2019-05-23, The current software update gives you the most up to date Android security patches on your device. ,False,,22
+Motorola,z3,2019-06-01,2019-06-25, The current software update provides: The most up to date Android security patches on your device. Improved data speeds when the moto z3 is attached to the 5G Moto Mod. Improved stability and performance of your phone. ,False,,24
+Motorola,z3,2019-08-01,2019-09-10, The current software update gives you the most up to date Android security patches on your device. ,False,,40
+Motorola,z4,2019-05-01,2019-06-13, Stability: Improved stability when the moto 5G mod is connected Security: Enhanced device security ,False,,43
+Motorola,z4,2019-08-01,2019-08-22, The current software update addresses: A Wi-Fi access point connectivity issue with certain Technicolor devices. Enhanced fingerprint sensor performance. The latest Android security patches. ,False,,21
+Motorola,z4,2019-10-01,2019-11-14," Security Applies the most up to date security patches (October 2019) Usability Improves the audio performance of your device and addresses the following issues: During an outgoing voice call sometimes the audio was muted During an incoming or outgoing voice call, sometimes the audio would be garbled, a robotic voice, or fax-like noises ",False,,44
+Nexus,6,2017-10-01,2017-10-02,The current software update gives you the most up to date Android™ security patches on your device. ,True,,1
+Nokia,2 V,2019-08-01,2019-09-09,,nan, 00WW_1_13C 00WW_1_13C,39
+Nokia,2 V,2019-09-01,2019-09-17, The current software update provides the most up to date Android security patches on your device. ,False,,16
+Nokia,2 V,2019-10-01,2019-10-08, The current software update provides the most up to date Android security patches on your device. ,False,,7
+Nokia,2 V,2019-11-01,2019-11-11, The current software update provides the most up to date Android security patches on your device. ,False,,10
+Nokia,3 V,2019-07-01,2019-08-22, The current software update improves the performance of your device. ,False,,52
+Nokia,3 V,2019-09-01,2019-10-24, The current software update improves the performance of your device and provides the latest Android security patches. ,False,,53
+Nokia,Nokia 2 V,2019-01-01,2019-01-25,,False,,24
+Nokia,Nokia 2 V,2019-03-01,2019-03-04,,False,,3
+Nokia,Nokia 2 V,2019-05-01,2019-05-08,,False,,7
+Orbic,Orbic Wonder,2018-08-01,2018-10-12,,False,,72
+Orbic,Orbic Wonder,2018-11-01,2018-11-06,,False,,5
+Orbic,Orbic Wonder,2019-01-01,2019-03-04,,False,,62
+Orbic,Wonder,2019-01-01,2019-03-04, The current software update gives you the most up to date Android security patches on your device. ,False,,62
+Orbic,Wonder,2019-06-01,2019-06-21, The current software update gives you the most up to date Android security patches on your device. ,False,,20
+Orbic,Wonder,2019-10-01,2019-09-27, The current software update provides the most up to date Android security patches on your device. ,False,,-4
+Palm,Palm Palm,2018-11-05,2018-11-21,,True,,16
+Palm,Palm Palm,2019-03-01,2019-03-18,,False,,17
+Palm,Phone,2019-10-01,2019-12-09, This update provides: The latest Android Security Patch update An improved camera experience An improved Life Mode experience An improved Over the Air update client Other minor enhancements and improvements This update resolves issues with: Volume control Airplane mode Audible Wi-Fi notification Reboots due to low memory/storage ,False,,69
+RED,HYDROGEN ONE,2018-10-01,2018-11-02,,False,,32
+RED,HYDROGEN ONE,2018-11-01,2018-12-11,,False,,40
+RED,HYDROGEN ONE,2018-12-01,2019-01-28,,False,,58
+Samgung,Galaxy S8+,2019-07-01,2019-07-23,,nan, PPR1.180610.011.G955USQU5DSG7 PPR1.180610.011.G955USQU5DSG7,22
+Samgung,Galaxy S8+,2019-08-01,2019-08-22, The current software update gives you the most up to date Android security patches on your device. ,False,,21
+Samgung,Galaxy S8+,2019-09-01,2019-09-26, The current software update gives you the most up to date Android security patches on your device. ,False,,25
+Samgung,Galaxy S8+,2019-10-01,2019-10-23, The current software update provides the most up to date Android security patches on your device. ,False,,22
+Samsung,Galaxy A10e,2019-09-01,2019-10-01, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,30
+Samsung,Galaxy A20,2019-09-01,2019-10-01, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,30
+Samsung,Galaxy A50,2019-05-01,2019-06-13,,nan, PPR1.180610.011.A505USQU1ASEL PPR1.180610.011.A505USQU1ASEL,43
+Samsung,Galaxy A50,2019-08-01,2019-08-30, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,29
+Samsung,Galaxy A50,2019-10-01,2019-10-16, The current software update provides the most up to date Android security patches on your device. ,False,,15
+Samsung,Galaxy A50,2019-11-01,2019-12-03," This software update improves the fingerprint recognition performance and gives you the most up to date Android security patch on your device. Fingerprint Recognition Update For better and more secure recognition, fingerprint recognition has been improved in the latest software update. We recommend that you remove all of your fingerprints and register them again. Once you remove all registered fingerprints, the new update for fingerprint recognition will be installed. We highly recommend installing the update as it contains important improvements to your fingerprint scanner. Contact Samsung Customer Support if you have any questions or concerns. ",False,,32
+Samsung,Galaxy Core Prime,2018-01-01,2018-02-07,,False,,37
+Samsung,Galaxy Core Prime,2018-02-01,2018-02-07,,nan, LMY48B.G360VVRU3CRA2 LMY48B.G360VVRU3CRA2,6
+Samsung,Galaxy J1,2017-08-01,2018-02-01,,False,,184
+Samsung,Galaxy J3 (2016),2018-01-01,2018-02-01,,False,,31
+Samsung,Galaxy J3 (3rd Gen.),2018-09-01,2018-10-26,,False,,55
+Samsung,Galaxy J3 (3rd Gen.),2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy J3 (3rd Gen.),2019-03-01,2019-03-27,,False,,26
+Samsung,Galaxy J3 (3rd Gen.),2019-05-01,2019-06-06, The current software update gives you the most up to date Android security patches on your device. ,False,,36
+Samsung,Galaxy J3 (3rd Gen.),2019-06-01,2019-07-19," This update brings the latest Android 9 Pie Operating System, a new design and a new user interface to your device. Android 9 harnesses the power of artificial intelligence to give you more from your phone. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your phone, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness - your phone learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you're about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Slices Slices bring relevant parts of your favorite apps to the surface. Next time you search for Lyft, you can see prices and driver ETAs right within your results. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,48
+Samsung,Galaxy J3 (3rd Gen.),2019-09-01,2019-09-30, The current software update provides the most up to date Android security patches on your device. ,False,,29
+Samsung,Galaxy J3 Eclipse,2018-11-01,2018-11-19,,False,,18
+Samsung,Galaxy J3 Eclipse,2019-01-01,2019-02-18,,False,,48
+Samsung,Galaxy J3 Eclipse,2019-04-01,2019-04-23,,False,,22
+Samsung,Galaxy J3 Eclipse,2019-08-01,2019-10-16, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,76
+Samsung,Galaxy J3 Mission,2018-11-01,2018-11-19,,False,,18
+Samsung,Galaxy J3 Mission,2019-01-01,2019-02-18,,False,,48
+Samsung,Galaxy J3 Mission,2019-04-01,2019-04-23,,False,,22
+Samsung,Galaxy J3 Mission,2019-08-01,2019-10-16, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,76
+Samsung,Galaxy J3 V (3rd Gen.),2018-09-01,2018-10-26,,False,,55
+Samsung,Galaxy J3 V (3rd Gen.),2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy J3 V (3rd Gen.),2019-03-01,2019-03-27,,False,,26
+Samsung,Galaxy J3 V (3rd Gen.),2019-05-01,2019-06-06, The current software update gives you the most up to date Android security patches on your device. ,False,,36
+Samsung,Galaxy J3 V (3rd Gen.),2019-06-01,2019-07-19," This update brings the latest Android 9 Pie Operating System, a new design and a new user interface to your device. Android 9 harnesses the power of artificial intelligence to give you more from your phone. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your phone, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness - your phone learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you're about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Slices Slices bring relevant parts of your favorite apps to the surface. Next time you search for Lyft, you can see prices and driver ETAs right within your results. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,48
+Samsung,Galaxy J3 V (3rd Gen.),2019-09-01,2019-09-30, The current software update provides the most up to date Android security patches on your device. ,False,,29
+Samsung,Galaxy J7 (2nd Gen.),2018-09-01,2018-10-26,,False,,55
+Samsung,Galaxy J7 (2nd Gen.),2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy J7 (2nd Gen.),2019-03-01,2019-03-27,,False,,26
+Samsung,Galaxy J7 (2nd Gen.),2019-05-01,2019-06-04, The current software update gives you the most up to date Android security patches on your device. ,False,,34
+Samsung,Galaxy J7 (2nd Gen.),2019-06-01,2019-07-05," This update brings the latest Android 9 Pie Operating System, a new design and a new user interface to the Galaxy J7 V. Android 9 harnesses the power of artificial intelligence to give you more from your phone. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your phone, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness - your phone learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you're about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Slices Slices bring relevant parts of your favorite apps to the surface. Next time you search for Lyft, you can see prices and driver ETAs right within your results. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,34
+Samsung,Galaxy J7 (2nd Gen.),2019-09-01,2019-09-30, The current software update provides the most up to date Android security patches on your device. ,False,,29
+Samsung,Galaxy J7 V,2018-11-01,2018-11-19,,False,,18
+Samsung,Galaxy J7 V,2019-01-01,2019-02-25,,False,,55
+Samsung,Galaxy J7 V,2019-04-01,2019-04-23,,False,,22
+Samsung,Galaxy J7 V,2019-07-01,2019-09-03, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,64
+Samsung,Galaxy J7 V (2nd Gen.),2018-09-01,2018-10-26,,False,,55
+Samsung,Galaxy J7 V (2nd Gen.),2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy J7 V (2nd Gen.),2019-03-01,2019-03-27,,False,,26
+Samsung,Galaxy J7 V (2nd Gen.),2019-05-01,2019-06-04, The current software update gives you the most up to date Android security patches on your device. ,False,,34
+Samsung,Galaxy J7 V (2nd Gen.),2019-06-01,2019-07-05," This update brings the latest Android 9 Pie Operating System, a new design and a new user interface to the Galaxy J7 V. Android 9 harnesses the power of artificial intelligence to give you more from your phone. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your phone, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness - your phone learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you're about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Slices Slices bring relevant parts of your favorite apps to the surface. Next time you search for Lyft, you can see prices and driver ETAs right within your results. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,34
+Samsung,Galaxy J7 V (2nd Gen.),2019-09-01,2019-09-30, The current software update provides the most up to date Android security patches on your device. ,False,,29
+Samsung,Galaxy Note,2017-01-01,2017-01-13,The current software update gives you the most up to date Android™ security patches on your device. ,True,,12
+Samsung,Galaxy Note,2017-01-05,2017-01-13,,True,,8
+Samsung,Galaxy Note,2017-08-01,2018-01-17,,False,,169
+Samsung,Galaxy Note,2018-01-01,2018-01-17,,nan, MMB29M.N910VVRU2CQL1 MMB29M.N910VVRU2CQL1,16
+Samsung,Galaxy Note Edge,2017-08-01,2018-01-17,,False,,169
+Samsung,Galaxy Note Edge,2018-01-01,2018-01-17,,nan, MMB29M.N915VVRU2CQL2 MMB29M.N915VVRU2CQL2,16
+Samsung,Galaxy Note Pro,2017-01-01,2017-01-17,The current software update gives you the most up to date Android™ security patch on your device. ,True,,16
+Samsung,Galaxy Note Pro,2017-01-05,2017-01-17,,True,,12
+Samsung,Galaxy Note10,2019-08-01,2019-08-19, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,18
+Samsung,Galaxy Note10,2019-09-01,2019-09-20, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,19
+Samsung,Galaxy Note10,2019-10-01,2019-10-25, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,24
+Samsung,Galaxy Note10+,2019-08-01,2019-08-19, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,18
+Samsung,Galaxy Note10+,2019-09-01,2019-09-20, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,19
+Samsung,Galaxy Note10+,2019-10-01,2019-10-25, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,24
+Samsung,Galaxy Note10+ 5G,2019-08-01,2019-08-19, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,18
+Samsung,Galaxy Note10+ 5G,2019-09-01,2019-09-20, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,19
+Samsung,Galaxy Note10+ 5G,2019-10-01,2019-10-25, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,24
+Samsung,Galaxy Note5,2018-06-01,2018-07-05,,False,,34
+Samsung,Galaxy Note5,2018-07-01,2018-07-05,,nan, NRD90M.N920VVRS3CRF1 NRD90M.N920VVRS3CRF1,4
+Samsung,Galaxy Note5,2018-08-01,2018-08-23,,False,,22
+Samsung,Galaxy Note8,2019-02-01,2019-03-04,,False,,31
+Samsung,Galaxy Note8,2019-03-01,2019-04-04,,False,,34
+Samsung,Galaxy Note8,2019-05-01,2019-05-23,,False,,22
+Samsung,Galaxy Note8,2019-07-01,2019-07-19,,nan, PPR1.180610.011.N950USQS6DSG4 PPR1.180610.011.N950USQS6DSG4,18
+Samsung,Galaxy Note8,2019-08-01,2019-08-28,,nan, PPR1.180610.011.N950USQU6DSH3 PPR1.180610.011.N950USQU6DSH3,27
+Samsung,Galaxy Note8,2019-09-01,2019-09-26, The current software update provides the most up to date Android security patches on your device. ,False,,25
+Samsung,Galaxy Note8,2019-11-01,2019-10-17, The current software update provides the most up to date Android security patches on your device. ,False,,-15
+Samsung,Galaxy Note9,2019-02-01,2019-03-12,,False,,39
+Samsung,Galaxy Note9,2019-03-01,2019-03-28,,False,,27
+Samsung,Galaxy Note9,2019-04-01,2019-04-15,,False,,14
+Samsung,Galaxy Note9,2019-07-01,2019-08-02,,nan, PPR1.180610.011.N960USQU2CSGA PPR1.180610.011.N960USQU2CSGA,32
+Samsung,Galaxy Note9,2019-08-01,2019-08-22,,nan, PPR1.180610.011.N960USQS2CSGB PPR1.180610.011.N960USQS2CSGB,21
+Samsung,Galaxy Note9,2019-09-01,2019-09-26,,nan, PPR1.180610.011.N960USQU2CSI1 PPR1.180610.011.N960USQU2CSI1,25
+Samsung,Galaxy Note9,2019-10-01,2019-10-16, The current software update provides the most up to date Android security patches on your device. ,False,,15
+Samsung,Galaxy Note9,2019-11-01,2019-11-08, The current software update gives you the most up to date Android security patches on your device. ,False,,7
+Samsung,Galaxy Note9,2019-12-01,2019-12-11, The current software update provides the most up to date Android security patches on your device. ,False,,10
+Samsung,Galaxy S 4,2017-01-01,2017-01-13,Software Version: LRX22C.I545PPVRSAPL1 (prepaid) The current software update gives you the most up to date Android™ security patches on your device. ,True,,12
+Samsung,Galaxy S 4 mini,2017-01-01,2017-01-20, The current software update gives you the most up to date Android™ security patches on your device. ,True,,19
+Samsung,Galaxy S 5,2017-08-01,2018-01-17,"Android™ Security Patch Level: 2017–08-01, including Blueborne and Krack security patches The current software update gives you the most up to date Android security patches on your device. ",False,,169
+Samsung,Galaxy S 5,2018-01-01,2018-01-17,,nan, MMB29M.G900VVRU2DQL1 MMB29M.G900VVRU2DQL1,16
+Samsung,Galaxy S10,2019-03-01,2019-04-08,,False,,38
+Samsung,Galaxy S10,2019-04-01,2019-05-07,,False,,36
+Samsung,Galaxy S10,2019-05-01,2019-05-20,,False,,19
+Samsung,Galaxy S10,2019-07-01,2019-07-31,,nan, PPR1.180610.011.G973USQS2ASGB PPR1.180610.011.G973USQS2ASGB,30
+Samsung,Galaxy S10,2019-08-01,2019-08-29,The current software update provides: The most up to date Android security patches System enhancements Performance improvements ,False,,28
+Samsung,Galaxy S10,2019-09-01,2019-09-17, The current software update provides the most up to date Android security patches on your device. ,False,,16
+Samsung,Galaxy S10,2019-10-01,2019-10-25," This software update brings new features for your Galaxy S10 device and the latest security patches. AR Doodle Record fun videos with virtual handwriting and drawings on faces or anywhere else. When the camera recognizes a face or space, the doodles on the face will follow the face as it moves, and the doodles in the space will be fixed in the same place even if the camera moves. ",False,,24
+Samsung,Galaxy S10 5G,2019-05-01,2019-05-15,,False,,14
+Samsung,Galaxy S10 5G,2019-07-01,2019-07-29,,nan, PPR1.180610.011.G977UVRU2ASGC PPR1.180610.011.G977UVRU2ASGC,28
+Samsung,Galaxy S10 5G,2019-08-01,2019-08-23, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,22
+Samsung,Galaxy S10 5G,2019-09-01,2019-09-25, The current software update gives you the most up to date Android security patches on your device. ,False,,24
+Samsung,Galaxy S10 5G,2019-10-01,2019-11-04," This software update improves fingerprint recognition performance, brings new features for your Galaxy S10 device, and includes the latest security patches. Fingerprint Recognition Update If you've used a screen cover, such as a silicone cover with a textured surface on the inside, your device may contain incorrect fingerprint information that may cause recognition issues. All users should install this fingerprint update. If you've registered or scanned your fingerprint with a screen cover on your phone, remove all of your fingerprints and register them again without using a screen cover. Scan your fingerprint in its entirety, including all corners. If you have used a Samsung approved or a factory applied screen protector you will not need to re-register your fingerprints. Contact Samsung Customer Support if you have any questions or concerns. AR Doodle Record fun videos with virtual handwriting and drawings on faces or anywhere else. When the camera recognizes a face or space, the doodles on the face will follow the face as it moves, and the doodles in the space will be fixed in the same place even if the camera moves. ",False,,34
+Samsung,Galaxy S10+,2019-03-01,2019-04-08,,False,,38
+Samsung,Galaxy S10+,2019-04-01,2019-05-07,,False,,36
+Samsung,Galaxy S10+,2019-05-01,2019-05-20,,False,,19
+Samsung,Galaxy S10+,2019-07-01,2019-07-31,,nan, PPR1.180610.011.G975USQU2ASGB PPR1.180610.011.G975USQU2ASGB,30
+Samsung,Galaxy S10+,2019-08-01,2019-08-29,The current software update provides: The most up to date Android security patches System enhancements Performance improvements ,False,,28
+Samsung,Galaxy S10+,2019-09-01,2019-09-17, The current software update provides the most up to date Android security patches on your device. ,False,,16
+Samsung,Galaxy S10+,2019-10-01,2019-10-25," This software update brings new features for your Galaxy S10 device and the latest security patches. AR Doodle Record fun videos with virtual handwriting and drawings on faces or anywhere else. When the camera recognizes a face or space, the doodles on the face will follow the face as it moves, and the doodles in the space will be fixed in the same place even if the camera moves. ",False,,24
+Samsung,Galaxy S10e,2019-03-01,2019-04-08,,False,,38
+Samsung,Galaxy S10e,2019-04-01,2019-05-07,,False,,36
+Samsung,Galaxy S10e,2019-05-01,2019-05-20,,False,,19
+Samsung,Galaxy S10e,2019-07-01,2019-07-31,,nan, PPR1.180610.011.G970USQU2ASGB PPR1.180610.011.G970USQU2ASGB,30
+Samsung,Galaxy S10e,2019-08-01,2019-08-29,The current software update provides: The most up to date Android security patches System enhancements Performance improvements ,False,,28
+Samsung,Galaxy S10e,2019-09-01,2019-09-17, The current software update provides the most up to date Android security patches on your device. ,False,,16
+Samsung,Galaxy S10e,2019-10-01,2019-10-25," This software update brings new features for your Galaxy S10 device and the latest security patches. AR Doodle Record fun videos with virtual handwriting and drawings on faces or anywhere else. When the camera recognizes a face or space, the doodles on the face will follow the face as it moves, and the doodles in the space will be fixed in the same place even if the camera moves. ",False,,24
+Samsung,Galaxy S4,2017-01-05,2017-01-13,,True,,8
+Samsung,Galaxy S4 mini,2017-01-05,2017-01-20,,True,,15
+Samsung,Galaxy S5,2017-08-01,2018-01-17,,False,,169
+Samsung,Galaxy S6,2018-02-01,2018-02-27,,False,,26
+Samsung,Galaxy S6,2018-03-01,2018-05-02,,False,,62
+Samsung,Galaxy S6,2018-05-01,2018-05-02,,nan, NRD90M.G920VVRU4DRD2 NRD90M.G920VVRU4DRD2,1
+Samsung,Galaxy S6,2018-06-01,2018-06-04,,nan, NRD90M.G920VVRU4DRE1 NRD90M.G920VVRU4DRE1,3
+Samsung,Galaxy S6 edge,2018-02-01,2018-02-27,,False,,26
+Samsung,Galaxy S6 edge,2018-03-01,2018-05-02,,False,,62
+Samsung,Galaxy S6 edge,2018-05-01,2018-05-02,,nan, NRD90M.G925VVRU4DRD2 NRD90M.G925VVRU4DRD2,1
+Samsung,Galaxy S6 edge,2018-06-01,2018-06-04,,nan, NRD90M.G925VVRU4DRE1 NRD90M.G925VVRU4DRE1,3
+Samsung,Galaxy S6 edge +,2018-06-01,2018-07-05,,False,,34
+Samsung,Galaxy S6 edge +,2018-07-01,2018-07-05,,nan, NRD90M.G928VVRS3CRF1 NRD90M.G928VVRS3CRF1,4
+Samsung,Galaxy S6 edge +,2018-08-01,2018-08-23,,False,,22
+Samsung,Galaxy S7,2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy S7,2019-02-01,2019-02-22,,False,,21
+Samsung,Galaxy S7,2019-03-01,2019-04-01,,False,,31
+Samsung,Galaxy S7,2019-06-01,2019-07-16, This update includes: Latest Android security patches Caller ID enhancement Performance improvements ,False,,45
+Samsung,Galaxy S7,2019-09-01,2019-10-15, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,44
+Samsung,Galaxy S7 edge,2018-12-01,2018-12-18,,False,,17
+Samsung,Galaxy S7 edge,2019-02-01,2019-02-22,,False,,21
+Samsung,Galaxy S7 edge,2019-03-01,2019-04-01,,False,,31
+Samsung,Galaxy S7 edge,2019-06-01,2019-07-16, This update includes: Latest Android security patches Caller ID enhancement Performance improvements ,False,,45
+Samsung,Galaxy S7 edge,2019-09-01,2019-10-15, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,44
+Samsung,Galaxy S8,2019-01-01,2019-01-17,,False,,16
+Samsung,Galaxy S8,2019-02-01,2019-03-04,,False,,31
+Samsung,Galaxy S8,2019-03-01,2019-04-04,,False,,34
+Samsung,Galaxy S8,2019-07-01,2019-07-23,,nan, PPR1.180610.011.G950USQU5DSG7 PPR1.180610.011.G950USQU5DSG7,22
+Samsung,Galaxy S8,2019-08-01,2019-08-22, The current software update gives you the most up to date Android security patches on your device. ,False,,21
+Samsung,Galaxy S8,2019-09-01,2019-09-26, The current software update gives you the most up to date Android security patches on your device. ,False,,25
+Samsung,Galaxy S8,2019-10-01,2019-10-23, The current software update provides the most up to date Android security patches on your device. ,False,,22
+Samsung,Galaxy S8+,2019-01-01,2019-01-17,,False,,16
+Samsung,Galaxy S8+,2019-02-01,2019-03-04,,False,,31
+Samsung,Galaxy S8+,2019-03-01,2019-04-04,,False,,34
+Samsung,Galaxy S9,2018-05-01,2018-06-05,,False,,35
+Samsung,Galaxy S9,2018-06-01,2018-06-15,,False,,14
+Samsung,Galaxy S9,2018-07-01,2018-08-10,,False,,40
+Samsung,Galaxy S9,2018-08-01,2018-08-20,,False,,19
+Samsung,Galaxy S9,2018-09-01,2018-09-21,,False,,20
+Samsung,Galaxy S9,2018-10-01,2018-10-16,,False,,15
+Samsung,Galaxy S9,2018-11-01,2018-11-14,,False,,13
+Samsung,Galaxy S9,2018-12-01,2018-12-14,,False,,13
+Samsung,Galaxy S9,2019-01-01,2019-01-30,,False,,29
+Samsung,Galaxy S9,2019-02-01,2019-02-25,,False,,24
+Samsung,Galaxy S9,2019-03-01,2019-04-01,,False,,31
+Samsung,Galaxy S9,2019-07-01,2019-08-02,,nan, PPR1.180610.011.G960USQU6CSGF PPR1.180610.011.G960USQU6CSGF,32
+Samsung,Galaxy S9,2019-08-01,2019-08-22,,nan, PPR1.180610.011.G960USQS6CSH3 PPR1.180610.011.G960USQS6CSH3,21
+Samsung,Galaxy S9,2019-09-01,2019-10-01, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,30
+Samsung,Galaxy S9,2019-11-01,2019-11-19, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,18
+Samsung,Galaxy S9,2019-12-01,2019-12-11, The current software update gives you the most up to date Android security patches on your device. ,False,,10
+Samsung,Galaxy S9+,2019-01-01,2019-01-30,,False,,29
+Samsung,Galaxy S9+,2019-02-01,2019-02-25,,False,,24
+Samsung,Galaxy S9+,2019-03-01,2019-04-01,,False,,31
+Samsung,Galaxy S9+,2019-07-01,2019-08-02,,nan, PPR1.180610.011.G965USQU6CSGF PPR1.180610.011.G965USQU6CSGF,32
+Samsung,Galaxy S9+,2019-08-01,2019-08-22,,nan, PPR1.180610.011.G965USQS6CSH3 PPR1.180610.011.G965USQS6CSH3,21
+Samsung,Galaxy S9+,2019-09-01,2019-10-01, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,30
+Samsung,Galaxy S9+,2019-11-01,2019-11-19, The current software update provides system enhancements and the most up to date Android security patches on your device. ,False,,18
+Samsung,Galaxy S9+,2019-12-01,2019-12-11, The current software update gives you the most up to date Android security patches on your device. ,False,,10
+Samsung,Galaxy Tab 4 (10.1),2017-01-01,2017-01-12,The current software update gives you the most up to date Android™ security patches on your device. ,True,,11
+Samsung,Galaxy Tab 4 (10.1),2017-01-05,2017-01-12,,True,,7
+Samsung,Galaxy Tab 4 (8.0),2017-01-01,2017-01-12,The current software update gives you the most up to date Android™ security patches on your device. ,True,,11
+Samsung,Galaxy Tab 4 (8.0),2017-01-05,2017-01-12,,True,,7
+Samsung,Galaxy Tab A (10.5),2019-02-01,2019-02-26,,False,,25
+Samsung,Galaxy Tab A (10.5),2019-04-01,2019-05-29,,nan, M1AJQ.T597VVRS1ASE1 M1AJQ.T597VVRS1ASE1,58
+Samsung,Galaxy Tab A (10.5),2019-07-01,2019-08-15, The current software update gives you the most up to date Android security patches on your device. ,False,,45
+Samsung,Galaxy Tab A (10.5),2019-08-01,2019-09-18," This software update brings the latest Android Pie OS (9.0), the redesigned Samsung One UI, improved Camera UX, and new features including Adaptive Battery, Digital Wellbeing, and Night Mode. The latest Android security patch is also included. Android Pie OS (9.0) Update Android Pie OS (9.0) harnesses the power of artificial intelligence to give you more from your tablet. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your tablet, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness - your tablet learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you’re about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,48
+Samsung,Galaxy Tab A (10.5),2019-11-01,2019-11-21, The current software update gives you the most up to date Android security patches on your device. ,False,,20
+Samsung,Galaxy Tab A (8.0),2018-10-01,2018-11-12,,False,,42
+Samsung,Galaxy Tab A (8.0),2019-01-01,2019-02-08,,False,,38
+Samsung,Galaxy Tab A (8.0),2019-04-01,2019-05-02,,False,,31
+Samsung,Galaxy Tab A (8.0),2019-06-01,2019-07-02,,nan,nannan,31
+Samsung,Galaxy Tab A (8.0),2019-07-01,2019-08-23," This software update brings the latest Android Pie OS (9.0), the redesigned Samsung One UI, improved camera user experience and new features including Adaptive Battery, Digital Wellbeing, and Night Mode. Android Pie OS (9.0) Update Android Pie harnesses the power of artificial intelligence to give you more from your tablet. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your tablet, so the apps and services you don't use as much aren't a battery drain. App Actions App Actions predicts what you're about to do so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,53
+Samsung,Galaxy Tab A (8.0),2019-09-01,2019-09-19, Fixed an issue where the Mobile Hotspot stopped working after the OS Pie upgrade. ,False,,18
+Samsung,Galaxy Tab A (8.0),2019-11-01,2019-11-22, The current software update provides the most up to date Android security patches on your device. ,False,,21
+Samsung,Galaxy Tab E (8.0 - Refresh),2018-11-01,2018-11-29,,False,,28
+Samsung,Galaxy Tab E (8.0 - Refresh),2019-01-01,2019-01-30,,False,,29
+Samsung,Galaxy Tab E (8.0 - Refresh),2019-04-01,2019-04-26,,False,,25
+Samsung,Galaxy Tab E (8.0 - Refresh),2019-07-01,2019-08-06, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,36
+Samsung,Galaxy Tab E (8.0),2017-01-01,2018-02-07,,False,,402
+Samsung,Galaxy Tab E (8.0),2018-02-01,2018-02-07,,nan, NMF26X.T377VVRU1CRA1 NMF26X.T377VVRU1CRA1,6
+Samsung,Galaxy Tab E (8.0),2018-05-01,2018-07-19,,False,,79
+Samsung,Galaxy Tab E (9.6),2017-08-01,2018-02-01,,False,,184
+Samsung,Galaxy Tab E (9.6),2018-02-01,2018-02-01,,nan, NMF26X.T567VVRU1CRA1 NMF26X.T567VVRU1CRA1,0
+Samsung,Galaxy Tab S,2017-01-01,2017-01-19,The current software update gives you the most up to date Android™ security patches on your device. ,True,,18
+Samsung,Galaxy Tab S,2017-01-05,2017-01-19,,True,,14
+Samsung,Galaxy Tab S2,2018-04-01,2018-05-15,,False,,44
+Samsung,Galaxy Tab S2,2018-07-01,2018-07-26,,False,,25
+Samsung,Galaxy Tab S2,2019-02-01,2019-02-28,,False,,27
+Samsung,Galaxy Tab S2,2019-08-01,2019-09-26, The current software update provides the most up to date Android security patches on your device. ,False,,56
+Samsung,Galaxy Tab S3,2018-10-01,2018-10-24,,False,,23
+Samsung,Galaxy Tab S3,2019-01-01,2019-01-30,,False,,29
+Samsung,Galaxy Tab S3,2019-09-01,2019-09-19," This software update brings the latest Android Pie OS (9.0), the redesigned Samsung One UI, improved Camera UX, and new features including Adaptive Battery, Digital Wellbeing and Night Mode. Flipboard briefing has been removed. The latest Android™ security patch is also included. Android Pie OS (9.0) Update Android Pie OS (9.0) harnesses the power of artificial intelligence to give you more from your tablet. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your tablet, so the apps and services you don't use as much aren't a battery drain. Adaptive Brightness Don't worry about changing your brightness — your tablet learns how you like to set it and automatically adjusts. Easy as pie. App Actions App Actions predicts what you're about to do, so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Digital Well-being Great technology should help, not distract. Introducing a set of tools to help you learn how you use your tablet and make any adjustments you'd like along the way. ",False,,18
+Samsung,Galaxy Tab S4,2018-12-01,2018-12-19,,False,,18
+Samsung,Galaxy Tab S4,2019-02-01,2019-02-27,,False,,26
+Samsung,Galaxy Tab S4,2019-04-01,2019-04-24,,False,,23
+Samsung,Galaxy Tab S4,2019-06-01,2019-06-24, The current software update gives you the most up to date Android security patches on your device. ,False,,23
+Samsung,Galaxy Tab S4,2019-07-01,2019-09-05, The current software update gives you the most up to date Android security patches on your device. ,False,,66
+Samsung,Galaxy Tab S4,2019-10-01,2019-10-23, The current software update gives you the most up to date Android security patches on your device. ,False,,22
+Samsung,Galaxy Tab S5e,2019-08-01,2019-08-29, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,28
+Samsung,Galaxy Tab S5e,2019-11-01,2019-11-22, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,21
+Samsung,Galaxy Tab S6,2019-08-01,2019-09-26, The current software update improves the Verizon Messages + app on your device. ,False,,56
+Samsung,Galaxy Tab S6,2019-10-01,2019-11-08, The current software update provides performance improvements and the most up to date Android security patches on your device. ,False,,38
+Samsung,Galaxy Tab S6,2019-11-01,2019-12-02," This software update improves the fingerprint recognition performance and gives you the most up to date Android security patch on your device. Fingerprint Recognition Update For better and more secure recognition, fingerprint recognition has been improved in the latest software update. We recommend that you remove all of your fingerprints and register them again. Once you remove all registered fingerprints, the new update for fingerprint recognition will be installed. We highly recommend installing the update as it contains important improvements to your fingerprint scanner. Note: For security enhancement, please use your device without a screen protector. After the update, you may not be able to register your fingerprints if you use a third party screen protector (i.e., protective cover with a bumped or dotted pattern including dome glass, toughened glass cover, silicone cover, or protective film). Contact Samsung Customer Support if you have any questions or concerns. ",False,,31
+Samsung,Gear S2 classic,2017-12-01,2017-12-05,"Software Version: R730VVRU3CQK1 (Gear S2 sport) The current software update gives you the most up to date Android™ security patches on your device, including the Blueborne security patch. ",True,,4
+Sonim,XP5s,2019-06-01,2019-09-10," Verizon Wireless is pleased to announce a software update for your device. This software update has been tested to optimize device performance, resolve known issues and update the latest preloaded applications. This update will address: Device performance fixes Updates the Push-To-Talk+ application to version 9.0.3.9 ",False,,101
+Sonim,XP8,2019-04-01,2019-06-28, This software update provides the following: Addressed an issue in which the display occasionally appeared blank for a few seconds when moving from Portrait to Landscape mode. Performance enhancements for your device. The latest Android Security patches. ,False,,88
+Sony,Xperia Z2 Tablet,2016-02-01,2016-02-24,,True,,23
+Sony,Xperia Z3v,2016-03-07,2016-03-14,,True,,7
+Verizon,Ellipsis 10,2017-07-01,2017-07-14,Bug fixes and additional benefits: Improved Wi-Fi handover stability (in areas where LTE coverage is marginal) Fixed issue with accessing files or media downloaded to external SD card Latest Android™ security patches ,True,,13
+Verizon,Ellipsis 10,2017-07-05,2017-07-14,,True,,9
+Verizon,Ellipsis 10 HD,2018-04-01,2018-05-23,,False,,52
+Verizon,Ellipsis 10 HD,2018-05-01,2018-05-23,,nan, XIA1_31F34 XIA1_31F34,22
+Verizon,Ellipsis 10 HD,2018-07-01,2018-08-24,,False,,54
+Verizon,Ellipsis 10 HD,2018-08-01,2018-08-24,,nan, XIA1_31F38 XIA1_31F38,23
+Verizon,Ellipsis 10 HD,2018-11-01,2018-12-06,,False,,35
+Verizon,Ellipsis 10 HD,2018-12-01,2018-12-06,,nan, XIA1_31F41 XIA1_31F41,5
+Verizon,Ellipsis 8,2016-05-01,2016-05-18,,True,,17
+Verizon,Ellipsis 8 HD,2017-11-01,2018-01-08,,False,,68
+Verizon,Ellipsis 8 HD,2018-01-01,2018-01-08,,nan, SUN1_20A12 SUN1_20A12,7
+Verizon,Ellipsis 8 HD,2018-03-01,2018-04-24,,False,,54
+Verizon,Ellipsis 8 HD,2018-04-01,2018-04-24,,nan, SUN1_20A14 SUN1_20A14,23
+Verizon,Ellipsis 8 HD,2018-06-01,2018-08-24,,False,,84
+Verizon,Ellipsis 8 HD,2018-08-01,2018-08-24,,nan, SUN1_20A17 SUN1_20A17,23
+Verizon,Ellipsis Kids,2016-06-01,2016-06-07,Zoodles bug fixes and additional benefits Child Lock Code is now a 4-digit number Refreshes the app list when coming back from other screens Kid Mode improvements: Fixed Wi -Fi connection issues 3rd party apps can be opened while in Kid Mode Removed dead links in the recommended games and video area Software Improvements Latest Android™ security patches ,True,,6
+Verizon,GizmoTab,2017-11-01,2018-01-23,,False,,83
+Verizon,GizmoTab,2018-01-01,2018-01-23,,nan, SUN2_11A25 SUN2_11A25,22
+Verizon,GizmoTab,2018-03-01,2018-04-30,,False,,60
+Verizon,GizmoTab,2018-04-01,2018-04-30,,nan, SUN2_11A27 SUN2_11A27,29
+Verizon,GizmoTab,2018-06-01,2018-08-27,,False,,87
+Verizon,GizmoTab,2018-08-01,2018-08-27,,nan, SUN2_11A28 SUN2_11A28,26
+Verizon,GizmoTablet,2019-03-01,2019-04-03,,False,,33
+Verizon,GizmoTablet,2019-06-01,2019-07-09, The current software update gives you the most up to date Android security patches on your device. ,False,,38
+Verizon,GizmoTablet,2019-08-01,2019-10-24," This software update brings the latest Android Pie OS (9.0) operating system, the redesigned Samsung One user interface, improved camera user experience and new features including Adaptive Battery, Digital Wellbeing, and Night Mode. Android Pie OS (9.0) Update Android Pie OS (9.0) harnesses the power of artificial intelligence to give you more from your tablet. Now it's smarter, faster and adapts as you use it. Adaptive Battery Get more from a single charge. Adaptive Battery learns how you like to use your tablet, so the apps and services you don't use as much aren't a battery drain. App Actions App Actions predicts what you're about to do so you get to your next task more quickly. For example, if you connect your headphones, the playlist you were listening to earlier is front and center. Intuitive Navigation Switch between apps and get to what you need more naturally by using gestures instead of buttons. ",False,,84
+ZTE,Blade Vantage,2018-11-01,2018-11-26,,False,,25
+ZTE,Blade Vantage,2019-01-01,2019-01-25,,False,,24
+ZTE,Blade Vantage,2019-02-01,2019-03-06,,False,,33
+ZTE,Blade Vantage,2019-04-01,2019-05-30,,nan, Z839V1.0.0B24 Z839V1.0.0B24,59
+ZTE,Blade Vantage,2019-07-01,2019-07-15,,nan, Z839V1.0.0B25 Z839V1.0.0B25,14
+lg,Lucid3,2015-10-01,2015-10-08,,True,,7
+palm,Palm,2019-03-01,2019-03-18, The current software update gives you the most up to date Android security patches on your device. ,False,,17
+palm,Palm,2019-08-01,2019-10-08, Latest Security Patch update Improved camera and photo app performance Improved Life Mode experience Improved native Contact and Dialer app experience Double tapping the power button launches Google Assistant instead of Voice Search Added an optional Palm registration screen in the setup wizard Improved Over-the-Air update client Improved Wi-Fi calling Other minor performance enhancements and improvements ,False,,68

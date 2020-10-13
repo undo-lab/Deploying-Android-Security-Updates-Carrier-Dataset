@@ -1,0 +1,370 @@
+Manufacture,Model,Software_Version,Release_Date,Method,Description,filename,Android_Level_Guessed,Bulletin_Level,difference
+- Samsung,Galaxy J3 Emerge,J327PVPU1AQF4,2017-07-10,Available OTA + OEM Tool,"- android security patches.;@;- device stability improvements, bug fixes.;@;- new and / or enhanced features.;@;- further improvements to performance.;@; seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".;@;",,True,2017-07-01,9
+- Samsung,Galaxy S8,G950USQU1AQFJ,2017-07-08,Available OTA + OEM Tool,"android 7.0;@;june 2017 security patches;@;find my mobile;@;lte roaming fix;@;sms fix for ""(/5)ok"";@; seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".;@;",,False,2017-06-01,37
+Blackberry,KEYone,BBB100-3V016,2019-01-11,Available OTA,android security patch level january 2019,output358.txt,False,2019-01-01,10
+Blackberry,KEYone,BBB100-3V017,2019-02-06,Available OTA,android security patch level february 2019,output393.txt,False,2019-02-01,5
+Blackberry,KEYone,BBB100-3V019,2019-04-22,Available OTA,android security patch level april 2019,output432.txt,False,2019-04-01,21
+CAT,S48C,S0206121.0_S48c_0.026.00,2019-03-11,Available OTA,android security patch level december 2018 - february 2019 and bug fixes.,output435.txt,False,2019-02-01,38
+CAT,S48C,S0206121.0_S48c_0.030.00,2019-05-28,Available OTA + OEM Tool,april security patch,output458.txt,True,2019-04-01,57
+Coolpad,Illumina,3310A.SPRINT.181103.0S,2018-12-21,Available OTA,android security patch level november 2018 and bug fixes.,output357.txt,False,2018-11-01,50
+Coolpad,Illumina,3310A.SPRINT.190108.0S,2019-02-05,Available OTA,"this software version must be downloaded over wi-fi includes android security patch level january 2019, performance enhancements, and bug fixes.",output366.txt,False,2019-01-01,35
+Coolpad,Legacy Go,3310A.SPRINT.190213.0S,2019-02-22,Available OTA,"android security patch level february 2019 implements product name change from ""illumina"" to ""legacy go""",output394.txt,False,2019-02-01,21
+Essential,Essential Phone,PPR1.181005.116,2019-01-07,Available OTA + OEM Tool,january 2019 android security update only,output341.txt,False,2019-01-01,6
+Essential,Essential Phone,PQ1A.190105.014,2019-02-08,Available OTA + OEM Tool,updated software includes the following: google security patches 02-2019 improved performance and bug fixes modem security patches,output365.txt,True,2019-02-01,7
+Essential,Essential Phone,PQ1A.190105.045,2019-04-01,Available OTA + OEM Tool,google security patches april 2019 adjustments to minimum brightness and volume settings,output400.txt,False,2019-04-01,0
+Essential,Essential Phone,PQ1A.190105.058,2019-05-06,Available OTA + OEM Tool,maintenance release includes the following: google security patches 5/2019 bluetooth fix for audio routing stability fix to improve shutdown responsiveness,output429.txt,True,2019-05-01,5
+Essential,Essential Phone,PQ1A.190105.077,2019-06-03,Available OTA + OEM Tool,google security patches june 2019,output449.txt,False,2019-06-01,2
+Essential,Essential Phone,QP1A.190711.148,2019-10-21,Available OTA,android q/android 10 os upgrade android security update october 2019,output485.txt,False,2019-10-01,20
+Essential,Essential Phone,QP1A.191005.014,2019-11-04,Available OTA,google security patches november 2019,output492.txt,False,2019-11-01,3
+Essential,Essential Phone,QQ1A.191205.017,2019-12-16,Available OTA,maintenance release includes december 2019 android security updates,output503.txt,False,2019-12-01,15
+Google,Pixel 3,PQ3A.190505.002,2019-05-08,Available OTA,android security patch level may 2019 and bug fixes,output433.txt,False,2019-05-01,7
+Google,Pixel 3 XL,PQ3A.190505.002,2019-05-08,Available OTA,android security patch level may 2019 and bug fixes,output434.txt,False,2019-05-01,7
+HTC,5G Hub,1.13.651.1,2019-10-18,Available OTA,android security patch update and bug fixes.,output482.txt,True,2019-10-01,17
+HTC,HTC 10,1.80.651.6,2016-08-31,nan,android security patch ,output122.txt,True,2016-08-01,30
+HTC,One A9,1.60.651.4,2016-06-15,nan,bug fixes / app updates / security patches,output89.txt,True,2016-06-01,14
+HTC,One E8,3.10.651.6,2016-08-17,nan,"mu upgrade to android m, will include all current security patch updates ",output118.txt,True,2016-08-01,16
+HTC,One M9,3.41.651.13,2016-08-31,nan,android security patch ,output123.txt,True,2016-08-01,30
+HTC,U 11,1.28.651.3,2017-08-30,Available Over the Air,"google security patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output199.txt,True,2017-08-01,29
+Huawei,Nexus 6p,MMB29M,2015-12-07,nan,bug fixesgoogle bulletin 16 november security update,output16.txt,True,2015-11-01,36
+Huawei,Nexus 6p,MMB29P,2016-01-04,nan,january google security patch #17,output29.txt,True,2016-01-01,3
+Huawei,Nexus 6p,MMB29Q,2016-02-01,nan,february 2016 android security patch,output37.txt,False,2016-02-01,0
+Huawei,Nexus 6p,MHC19Q,2016-04-04,nan,revision of march android security update to include new fixes,output53.txt,True,2016-03-01,34
+Huawei,Nexus 6p,MCT19T,2016-05-02,nan,android security patch - april 2016,output67.txt,False,2016-04-01,31
+Huawei,Nexus 6p,MCT19V,2016-06-06,nan,security patch update for june (#5),output84.txt,True,2016-06-01,5
+Huawei,Nexus 6p,MTC20F,2016-08-01,nan,splitting out security patch from the n os update,output112.txt,True,2016-08-01,0
+Huawei,Nexus 6p,N4F26O,2017-02-06,Available OTA + OEM Tool,february security update,output137.txt,True,2017-02-01,5
+Huawei,Nexus 6p,N4F26T,2017-03-06,Available OTA + OEM Tool,march security update,output150.txt,True,2017-03-01,5
+Kyocera,Hydro Vibe,2.050SP,2016-01-12,nan,google android security updatefix for google play service not downloading applications correctly,output30.txt,True,2016-01-01,11
+LG,Flex 2,LS996ZVB,2016-05-31,nan,google security fixes in aprilbulletin for may releaseupdate roaming menu uipreloads,output81.txt,True,2016-05-01,30
+LG,G Pad F 7.0,LK430ZV7,2017-04-03,Available Over the Air,google security update,output153.txt,True,2017-04-01,2
+LG,G Pad F2 8.0,LK46010k,2018-06-29,Available Over the Air,google security patch and gps time mtk patch,output272.txt,True,2018-06-01,28
+LG,G Stylo,LS775ZV4,2016-05-23,nan,add native vowifi supportgoogle security patches,output76.txt,True,2016-05-01,22
+LG,G Stylo,LS770ZV9,2016-07-19,nan,android security bulletin only (may/june)mms patch,output104.txt,True,2016-07-01,18
+LG,G Stylo,LS770ZVB,2017-02-07,Available Over the Air,android security patch,output149.txt,True,2017-02-01,6
+LG,G7 ThinQ,G710P10b,2018-07-24,Available Over the Air,"improves camera features and android assistant (google lens) optimizes performance includes android security updates (patch level 2018-07-01)  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output283.txt,True,2018-07-01,23
+LG,G7 ThinQ,G710P13a,2018-11-27,Available Over the Air,november 2018 android security patch level,output317.txt,False,2018-11-01,26
+LG,G7 ThinQ,G710PM14b,2019-02-26,Available Over the Air,android security patch level february 2019,output385.txt,False,2019-02-01,25
+LG,G7 ThinQ,G710PM15b,2019-05-07,Available Over the Air,"includes band 41 upload carrier aggregation (ulca) high block error ratio (bler) issue qualcomm fixes, t-mobile roaming fix, and android patch march level",output440.txt,True,2019-03-01,67
+LG,G7 ThinQ,G710P17a,2019-08-27,Available Over the Air,android security patch level august 2019,output473.txt,False,2019-08-01,26
+LG,G7 ThinQ,G710P18a,2019-10-29,Available Over the Air,android security patch level october 2019,output489.txt,False,2019-10-01,28
+LG,G8 ThinQ,G820U10i,2019-04-15,Available Over the Air,android security patch level april 2019 and bug fixes,output421.txt,False,2019-04-01,14
+LG,K30,X410PM10h,2018-09-14,Available Over the Air,"august 1, 2018 android security patch bug fixes and quality improvements",output293.txt,True,2018-08-01,44
+LG,K30,X410PM10m,2018-11-27,Available Over the Air,minor bug fixes and november 2018 android security patch,output328.txt,False,2018-11-01,26
+LG,K30,X410PM10s,2019-02-12,Available Over the Air,january 2019 android security patch level and bug fixes,output392.txt,False,2019-01-01,42
+LG,K30,X410PM10t,2019-04-09,Available Over the Air,march android security patch.,output426.txt,True,2019-03-01,39
+LG,LG G Pad 7,LK430ZV6,2017-01-30,Available Over the Air,google security patch,output138.txt,True,2017-01-01,29
+LG,LG G3,LS990ZVF,2016-10-03,nan,"google security patch - september, 2016 ",output132.txt,True,2016-10-01,2
+LG,LG G3,LS990ZVI,2017-11-28,Available Over the Air,"november security patch level and also addresses krack vulnerability  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output224.txt,True,2017-11-01,27
+LG,LG G4,LS991ZVG,2017-06-13,Available Over the Air,may 2017 security patch,,False,2017-05-01,43
+LG,LG G4,LS991ZVI,2017-09-29,Available Over the Air,"google security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output203.txt,True,2017-09-01,28
+LG,LG G5,LS992ZV4,2016-08-02,nan,google security patch level 07/01/16vowifi bug fixesqualcomm patchupdate preloads,output115.txt,True,2016-08-01,1
+LG,LG G5,LS992ZVD,2017-11-28,Available Over the Air,"november security patch level and also addresses krack vulnerability  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output223.txt,True,2017-11-01,27
+LG,LG G6,LS993ZV6,2017-06-27,Available Over the Air,"google security updates and improvements for wi-fi calling  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output181.txt,True,2017-06-01,26
+LG,LG G6,LS993ZV8,2017-10-03,Available Over the Air,"adds calling plus and support for wholesale vowifi includes the latest android security patches  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output206.txt,True,2017-10-01,2
+LG,LG G6,LS993ZV9,2017-11-21,Available Over the Air,"november security update rssi improvements krack vulnerability patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output222.txt,True,2017-11-01,20
+LG,LG G6,LS993ZVA,2018-01-23,Available Over the Air,"android security patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output234.txt,True,2018-01-01,22
+LG,LG G6,LS993ZVB,2018-05-29,Available Over the Air,upgrade to android 8.0 oreo includes performance optimization and updates to the android security patch level may 2018.,output262.txt,False,2018-05-01,28
+LG,LG G6,LS993ZVC,2018-09-14,Available Over the Air,"google security patch level august 1, 2018 value enhanced camera features and android assistant (lg lens) removed lte plus from bootup animation",output294.txt,True,2018-08-01,44
+LG,LG G6,LS993ZVD,2018-10-30,Available Over the Air,android security patch level 10/1/2018,output308.txt,True,2018-10-01,29
+LG,LG G6,Q710P11d,2018-11-06,Available Over the Air,minor bug fixes and google security patches,output314.txt,True,2018-11-01,5
+LG,LG G6,LS993ZVE,2019-01-02,Available Over the Air,december 2018 android security patch and general bug fixes.,output342.txt,False,2018-12-01,32
+LG,Nexus 5,MMB29K,2015-12-07,nan,google bulletin 16 november security update,output15.txt,True,2015-11-01,36
+LG,Nexus 5,MMB29S,2016-01-04,nan,january google security patch #17,output26.txt,True,2016-01-01,3
+LG,Nexus 5,MMB29Q,2016-02-01,nan,february 2016 android security patch,output34.txt,False,2016-02-01,0
+LG,Nexus 5,MOB30D,2016-04-01,nan,revision of march android security update to include new fixes,output51.txt,True,2016-03-01,31
+LG,Nexus 5,MOB30H,2016-05-02,nan,android security patch - april 2016,output64.txt,False,2016-04-01,31
+LG,Nexus 5,MOB30M,2016-06-06,nan,scope limited to android partner bulletin published 05/02/16 for june 6 release.,output86.txt,True,2016-06-01,5
+LG,Nexus 5,MOB30P,2016-07-06,nan,security only for lge self-certificationscope limited to android partner bulletin published 06/06/16 for july 05 release.,output100.txt,True,2016-07-01,5
+LG,Nexus 5,M4B30X,2016-10-03,nan,"google security patch - october, 2016 ",output131.txt,True,2016-10-01,2
+LG,Nexus 5x,MMB29K,2015-12-07,nan,software fixes for camera and modemsecurity update bulletin #16,output14.txt,True,2015-12-01,6
+LG,Nexus 5x,MMB29P,2016-01-04,nan,january google security patch #17,output27.txt,True,2016-01-01,3
+LG,Nexus 5x,MMB29Q,2016-02-01,nan,february 2016 android security patch,output35.txt,False,2016-02-01,0
+LG,Nexus 5x,MHC19Q,2016-04-01,nan,revision of march android security update to include new fixes,output52.txt,True,2016-03-01,31
+LG,Nexus 5x,MTC19T,2016-05-02,nan,android security patch - april 2016,output65.txt,False,2016-04-01,31
+LG,Nexus 5x,MTC19V,2016-06-06,nan,scope limited to android partner bulletin published 05/02/16 for june 6 release.,output85.txt,True,2016-06-01,5
+LG,Nexus 5x,MTC19Z,2016-07-06,nan,security only for lge self-certificationscope limited to android partner bulletin published 06/06/16 for july 05 release.,output99.txt,True,2016-07-01,5
+LG,Nexus 5x,NRD90M,2016-08-22,nan,os upgrade to android n with august security patch ,output119.txt,True,2016-08-01,21
+LG,Nexus 5x,NBD90W,2016-10-03,nan,"google security patch - october, 2016bug fixes ",output133.txt,True,2016-10-01,2
+LG,Stylo 2,LS775ZV9,2017-02-14,Available Over the Air,"software update for the latest android 7.0 os includes android security updates, wi-fi hotspot bug fix, and mexico roaming improvements. consider using a wi-fi connection as this is a large update. please ensure your battery is fully charged before continuing. this update will require that your phone be rebooted and it will not be available for emergency calls while installing the software.",output140.txt,True,2017-02-01,13
+LG,Stylo 3,LS777ZV6,2017-07-12,Available Over the Air,"minor bug fix and google security update;@; seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".;@;",,True,2017-07-01,11
+LG,Stylo 3,LS777ZV7,2017-09-29,Available Over the Air,"google security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output204.txt,True,2017-09-01,28
+LG,Stylo 3,LS777ZV9,2017-12-18,Available Over the Air,"google security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output226.txt,True,2017-12-01,17
+LG,Stylo 3,LS777ZVA,2018-02-05,Available Over the Air,"google security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output237.txt,True,2018-02-01,4
+LG,Stylo 3,LS777ZVC,2018-04-03,Available Over the Air,google security update,output249.txt,True,2018-04-01,2
+LG,Stylo 3,LS777ZVF,2018-09-20,Available Over the Air,google security update,output295.txt,True,2018-09-01,19
+LG,Stylo 3,LS777ZVG,2018-11-27,Available Over the Air,november 2018 android security patch level,output329.txt,False,2018-11-01,26
+LG,Stylo 3,LS777ZVH,2019-01-24,Available Over the Air,android security patch level january 2019,output359.txt,False,2019-01-01,23
+LG,Stylo 4,Q710P11f,2019-01-29,Available Over the Air,android security patch level january 2019,output364.txt,False,2019-01-01,28
+LG,Stylo 4,Q710P11g,2019-03-27,Available Over the Air,march android security patch.,output436.txt,True,2019-03-01,26
+LG,Stylo 4,Q710P11h,2019-05-19,Available Over the Air,android security patch level may 2019,output459.txt,False,2019-05-01,18
+LG,Stylo 4,Q710P11I,2019-12-23,Available Over the Air,"google security patch update december 1, 2019",output501.txt,True,2019-12-01,22
+LG,Stylo 4+,Q710P11b,2018-09-25,Available Over the Air,google security update and minor bug fixes,output302.txt,True,2018-09-01,24
+LG,Stylo 4+,Q710P11f,2019-01-28,Available Over the Air,android security patch level january 2019,output360.txt,False,2019-01-01,27
+LG,Stylo 4+,Q710P11g,2019-03-27,Available Over the Air,march android security patch.,output437.txt,True,2019-03-01,26
+LG,Stylo 4+,Q710P11I,2019-12-23,Available Over the Air,"google security patch update december 1, 2019",output500.txt,True,2019-12-01,22
+LG,Tribute Dynasty,SP20011C,2018-05-29,Available Over the Air,android security patch level may 2018,output263.txt,False,2018-05-01,28
+LG,Tribute Dynasty,SP20015a,2018-10-30,Available Over the Air,android security patch level 10/1/2018,output313.txt,True,2018-10-01,29
+LG,Tribute Dynasty,SP20016d,2019-01-02,Available Over the Air,december 2018 android security patch and general bug fixes.,output344.txt,False,2018-12-01,32
+LG,Tribute Dynasty,SP20017A,2019-03-26,Available Over the Air,android security patch level march 2019,output438.txt,False,2019-03-01,25
+LG,Tribute Empire,X220PM11g,2019-01-28,Available Over the Air, android security patch level january 2019,output368.txt,False,2019-01-01,27
+LG,Tribute Empire,X220PM12a,2019-04-01,Available Over the Air,march android security update.,output445.txt,True,2019-03-01,31
+LG,Tribute Empire,X220PM13,2019-05-19,Available Over the Air, android security patch level may 2019,output462.txt,False,2019-05-01,18
+LG,Tribute HD,LS676ZVA,2018-04-17,Available Over the Air,google security update,output250.txt,True,2018-04-01,16
+LG,Tribute HD,LS676ZVB,2018-07-10,Available Over the Air,google security update,output278.txt,True,2018-07-01,9
+LG,V20,LS997ZV6,2017-04-05,Available Over the Air,bug fixes including a fix to re-acquire the sprint network upon entering the us from mexico. includes android security updates,,True,2017-04-01,4
+LG,V20,LS997ZV7,2017-06-06,Available Over the Air,"android may security updates;@;fixes and issue that could cause the phone to freeze, not power on, or display device is corrupt",,True,2017-05-01,36
+LG,V20,LS997ZVB,2017-12-05,Available Over the Air,"november security update krack vulnerability patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output218.txt,True,2017-11-01,34
+LG,V20,LS997ZVC,2018-01-30,Available Over the Air,"android security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output235.txt,True,2018-01-01,29
+LG,V30+,LS99811a,2017-11-07,Available Over the Air,"android security patch and other optimizations  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output208.txt,True,2017-11-01,6
+LG,V30+,LS99821a,2018-06-01,Available Over the Air,latest google security patch,output264.txt,True,2018-06-01,0
+LG,V30+,LS99822a,2018-08-16,Available Over the Air,august 2018 android security patch level.,output286.txt,False,2018-08-01,15
+LG,V30+,LS99828a,2019-04-01,Available Over the Air,android security patch level march 2019,output446.txt,False,2019-03-01,31
+LG,V40 ThinQ,V405U12a,2018-12-17,Available Over the Air,android security patch update,output340.txt,True,2018-12-01,16
+LG,V40 ThinQ,V405U13a,2019-01-31,Available Over the Air,includes android security patch level january 2019 and bug fixes.,output371.txt,False,2019-01-01,30
+LG,V40 ThinQ,V405U14a,2019-03-19,Available Over the Air,android security patch level march 2019,output447.txt,False,2019-03-01,18
+LG,V50 ThinQ 5G,V45010m,2019-06-17,Available Over the Air,"this software enhancement fixes several key issues to improve 5g experience and ads june 1, 2019 google security updates.",output463.txt,True,2019-06-01,16
+LG,X charge,SP32010f,2018-06-05,Available OTA,minor bug fixes and google security update,output267.txt,True,2018-06-01,4
+LG,X charge,SP32010G,2018-07-19,Available OTA,google security update,output280.txt,True,2018-07-01,18
+LG,X charge,SP32010h,2018-09-18,Available Over the Air,google security update,output296.txt,True,2018-09-01,17
+LG,X charge,SP32010i,2018-11-27,Available Over the Air, november 2018 android security patches,output331.txt,False,2018-11-01,26
+LG,X charge,SP32010j,2019-02-05,Available Over the Air, android security patch level january 2019,output372.txt,False,2019-01-01,35
+LG,X power,LS755ZV9,2017-08-01,Available Over the Air,"bug fixes and google security patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output194.txt,True,2017-08-01,0
+LG,X power,LS755ZVG,2019-02-05,Available Over the Air,includes android security patch level august 2018 and bug fixes.,output373.txt,False,2018-08-01,188
+Motorola,E4 Plus,NCRS26.58-44-18,2019-03-20,Available OTA,android security patch level december 2018 - january 2019,output399.txt,False,2019-01-01,78
+Motorola,E4 Plus,NCRS26.58-44-25,2019-09-25,Available OTA,september 2019 android security patch level.,output477.txt,False,2019-09-01,24
+Motorola,E5 Play,OCPS27.91-140-6,2019-02-25,Available Over the Air,android security patch level feb 2019,output382.txt,False,2019-02-01,24
+Motorola,E5 Play,OCP27.91-140-8,2019-05-13,Available OTA,google security patch,output439.txt,True,2019-05-01,12
+Motorola,E5 Play,OCPS27.91-140-14,2019-10-14,Available OTA,october 2019 google security patch,output484.txt,False,2019-10-01,13
+Motorola,E5 Plus,OCPS27.91-32-7,2018-12-27,Available Over the Air,android security patch level nov/dec 2018,output452.txt,False,2018-12-01,26
+Motorola,E5 Plus,OCPS27.91-32-15-4,2019-08-28,Available Over the Air,android security patch level july/august 2019,output472.txt,False,2019-08-01,27
+Motorola,E5 Plus,OCPS27.91-32-15-6,2019-10-02,Available OTA,august/september android security patch.,output478.txt,True,2019-09-01,31
+Motorola,G6 Play,OCP27.91-150-4,2019-02-01,Available OTA,android security patch,output401.txt,True,2019-02-01,0
+Motorola,G6 Play,PCPS29.118-41-1,2019-09-25,Available OTA,android security patch level august/september 2019,output486.txt,False,2019-09-01,24
+Motorola,G6 Play,PCPS29.118-41-2,2019-10-24,Available OTA,android security patch level october 2019,output487.txt,False,2019-10-01,23
+Motorola,G6 Play,PCPS29.118-67-3,2019-12-26,Available OTA,security patch update,output504.txt,True,2019-12-01,25
+Motorola,G7 Play,PCY29.105-59,2019-04-22,Available OTA,android security patch level march 2019 and bug fixes,output420.txt,False,2019-03-01,52
+Motorola,G7 Play,PCYS29.105-134-3,2019-10-10,Available OTA,google security patch october 2019,output488.txt,False,2019-10-01,9
+Motorola,Moto E4,NCQS26.69-64-13,2019-03-21,Available OTA,android security patch level january 2019,output398.txt,False,2019-01-01,79
+Motorola,Moto E4,NCQS26.69-64-21,2019-08-28,Available OTA,android security patch level july/august 2019,output471.txt,False,2019-08-01,27
+Motorola,Moto G4,MPJ24.139-64,2016-08-31,nan,android security patchbug fixes ,output124.txt,True,2016-08-01,30
+Motorola,Moto X,LPA23.12-39.10,2015-11-05,nan,os upgrade to android 5.1 (lollipop)google security patch: stagefright,output4.txt,True,2015-11-01,4
+Motorola,Moto X,LPA23.12-39.10-2,2016-09-13,nan,"mr + security, june 2016 ",output126.txt,False,2016-06-01,104
+Motorola,Moto X Pure Edition,MPH24.49-18,2015-12-01,nan,google security patch: stagefrightos upgrade to android 6.0 (marshmallow),output13.txt,True,2015-12-01,0
+Motorola,Moto X Pure Edition,MPHS24.49-18-3,2016-03-14,nan,march 2016 android security update,output42.txt,False,2016-03-01,13
+Motorola,Moto X Pure Edition,MPHS24.49-18-4,2016-06-22,nan,"april security memo, may release",output93.txt,True,2016-05-01,52
+Motorola,Nexus 6,MMB29K,2015-12-07,nan,"google december security patch #16remove ""dialing"" after an outgoing call is connectedremove on-going call notice after a new incoming call is accepted",output22.txt,True,2015-12-01,6
+Motorola,Nexus 6,MMB29S,2016-01-11,nan,january google security patch #17,output28.txt,True,2016-01-01,10
+Motorola,Nexus 6,MMB29Q,2016-02-01,nan,february 2016 android security patch,output36.txt,False,2016-02-01,0
+Motorola,Nexus 6,MMB29V,2016-03-14,nan,march 2016 android security update,output43.txt,False,2016-03-01,13
+Motorola,Nexus 6,MOB30D,2016-04-11,nan,"party security bulletin - march, 2016",output55.txt,True,2016-04-01,10
+Motorola,Z2 Force,OCXS27.109-48-15,2019-02-15,Available Over the Air,android security patch level january 2019,output395.txt,False,2019-01-01,45
+Motorola,Z2 Force,OCXS27.109-48-17,2019-04-21,Available Over the Air,android security patch level march 2019,output466.txt,False,2019-03-01,51
+Motorola,Z3 Play,OCWS28.70-61-4,2019-01-22,Available OTA,android security patch level january 2019,output347.txt,False,2019-01-01,21
+Motorola,Z3 Play,OCWS28.70-61-7,2019-05-19,Available Over the Air,android security patch level march 2019,output467.txt,False,2019-03-01,79
+OnePlus,7 Pro 5G,9.5.14.GM25CC,2019-10-25,Available OTA,android september and october security update,output483.txt,True,2019-10-01,24
+Pointing out that this OS update is specific to the S7 Special Edition only. Samsung,GS7 Special Edition,G930UUES4AQC1,2017-03-26,Available Over the Air,march 2017 android security patches. nothing additional noted on this except the march security patch.,output152.txt,True,2017-03-01,25
+Pointing out that this OS update is specific to the Special Edition S7 Edge. Samsung,GS7 Edge Special Edition,G935UUES4AQC1,2017-03-26,Available Over the Air,march 2017 security patches. i am not seeing anything mentioned about bug fixes so at this point it might or might not contain more than just the march security update.,output151.txt,True,2017-03-01,25
+Samsung,Galaxy A10e,A102USQU1ASI1,2019-09-23,Available Over the Air,general bug fixes july - august security patch update.,output491.txt,True,2019-08-01,53
+Samsung,Galaxy A50,A505USQU2ASI6,2019-10-21,Available Over the Air,maintenance release includes android security update and performance improvements.,output490.txt,True,2019-10-01,20
+Samsung,Galaxy A6,A600PVPU1ARI1,2018-10-17,Available OTA + OEM Tool,september and october security patch,output307.txt,True,2018-10-01,16
+Samsung,Galaxy A6,A600PVPU2ARL5,2019-01-28,Available OTA,android security patch level november/december 2018 and general bug fixes.,output349.txt,False,2018-12-01,58
+Samsung,Galaxy A6,A600PVPU2BSC8,2019-04-15,Available OTA,update to android pie android security patch level through april 2019 bug fixes,output422.txt,False,2019-04-01,14
+Samsung,Galaxy Grand Prime,G530PVPUIAPC4,2016-03-21,nan,"quarterly android security patch release: november, december, january",output44.txt,True,2016-03-01,20
+Samsung,Galaxy Grand Prime,G530PVPS1APF1,2016-07-13,nan,google security patchstability improvements,output103.txt,True,2016-07-01,12
+Samsung,Galaxy J3,J320PVPU1APE1,2016-06-09,nan,samsung j3 mr1 for bug fixes and security patch updates.,output88.txt,True,2016-06-01,8
+Samsung,Galaxy J3,J320PVPS1AQG3,2017-08-02,Available OTA + OEM Tool,"android security patches may - july 2017  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output193.txt,False,2017-07-01,32
+Samsung,Galaxy J3,J320PVPS1ARA1,2018-01-26,Available OTA + OEM Tool,"quarterly security mr - august to january 1st patch level. including spectre & meltdown patches.  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output236.txt,True,2018-01-01,25
+Samsung,Galaxy J3 Achieve,J337PVPU2ARJ2,2018-10-26,Available Over the Air + OEM Tool,google security patches,output315.txt,True,2018-10-01,25
+Samsung,Galaxy J3 Achieve,J337PVPS2ASA1,2019-01-18,Available Over the Air + OEM Tool,november - january security patch update.,output346.txt,True,2019-01-01,17
+Samsung,Galaxy J3 Achieve,J337PVPS3ASC2,2019-04-12,Available OTA + OEM Tool,february - april security patch updates,output402.txt,True,2019-04-01,11
+Samsung,Galaxy J3 Emerge,J327PVPU2AQI2,2017-10-02,Available OTA + OEM Tool,"android security patches (july-sept) & bug fixes  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output205.txt,True,2017-10-01,1
+Samsung,Galaxy J3 Emerge,J727PVPU3ARC2,2018-03-28,Available OTA + OEM Tool,"feb 1st, spectre/meltdown patches  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output244.txt,True,2018-02-01,55
+Samsung,Galaxy J3 Emerge,J327PVPS3ARC1,2018-04-11,Available OTA + OEM Tool,january - march google security patch update.,output247.txt,True,2018-03-01,41
+Samsung,Galaxy J3 Emerge,J327PVPS4ARF2,2018-06-27,Available Over the Air + OEM Tool,"april to june 1, 2018, security patches and other bug fixes the security of your device has been improved. a software update can include, but is not limited to: device stability improvements, bug fixes new and/or enhanced features further improvements to performance to get the best from your device, please keep your device up to date and regularly check for software updates.",output273.txt,True,2018-06-01,26
+Samsung,Galaxy J3 Emerge,J327PVPU4ARG2,2018-07-30,Available Over the Air + OEM Tool,"july 1, 2018 security patches and other bug fixes. the security of your device has been improved. a software update can include, but is not limited to: device stability and improvements, bug fixes. new and/or enhanced features. further improvements to performance. to get the best from your device, please keep your phone up to date and regularly check for software updates.",output285.txt,True,2018-07-01,29
+Samsung,Galaxy J3 Emerge,J327PVPU4ARJ2,2018-11-07,Available Over the Air + OEM Tool,"august - october 1, 2018 security and other bug fixes.",output316.txt,True,2018-10-01,37
+Samsung,Galaxy J7 Perx,G925PVPS4DQE2,2017-05-24,Available Over the Air. ,fixes: android security patch april & may 2017*,,False,2017-05-01,23
+Samsung,Galaxy J7 Perx,J727PVPU1AQF5,2017-07-10,Available OTA + OEM Tool,"- wi-fi calling is now calling plus with new & improved features.;@;- android security patches.;@;- device stability improvements, bug fixes.;@;- new and / or enhanced features.;@;- further improvements to performance.;@; seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".;@;",,True,2017-07-01,9
+Samsung,Galaxy J7 Perx,J727PVPU2AQI3,2017-10-02,Available OTA + OEM Tool,"android security patches (july-sept) & bug fixes  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output202.txt,True,2017-10-01,1
+Samsung,Galaxy J7 Perx,QJ3,2017-11-20,Available OTA + OEM Tool,"krack (not included october & november patches) rssi change sms fixes uicc permanent fix  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output217.txt,True,2017-11-01,19
+Samsung,Galaxy J7 Perx,J727PVPU4ARG2,2018-07-18,Available Over the Air + OEM Tool,"april to june 2018 security patches, uicc unlock, 3 way calling and other bug fixes",output279.txt,False,2018-06-01,47
+Samsung,Galaxy J7 Perx,J727PVPU4BRH5,2018-09-12,Available Over the Air,"os update to oreo august 1, 2018 security patches power-up animation updated samsung experience 9.0 other bug fixes",output290.txt,True,2018-08-01,42
+Samsung,Galaxy J7 Perx,J727PVPU4BRK4,2018-12-10,Available Over the Air + OEM Tool,quarterly september - november 1 security patch and other bug fixes.,output332.txt,True,2018-11-01,39
+Samsung,Galaxy J7 Perx,J727PVPS5BSA3,2019-02-27,Available OTA,android security patch level to february 2019,output386.txt,False,2019-02-01,26
+Samsung,Galaxy J7 Refine,J737PVPS2ASA1,2019-01-18,Available OTA,android security patch level december 2018 - january 2019,output350.txt,False,2019-01-01,17
+Samsung,Galaxy J7 Refine,J737PVPS3ASC2,2019-04-12,Available OTA,android security patch level through april 2019,output423.txt,False,2019-04-01,11
+Samsung,Galaxy Note 3,N900PVPUEOK2,2015-11-30,nan,google security patch: stagefright,output12.txt,True,2015-11-01,29
+Samsung,Galaxy Note 3,N900PVPUEPH1,2016-08-24,nan,security patches from nov/2015 to aug/2016fix gms app crash ,output121.txt,True,2016-08-01,23
+Samsung,Galaxy Note 4,N910PVPU4COJ6,2015-11-05,nan,sprint global roaminggoogle security patch: stagefright,output3.txt,True,2015-11-01,4
+Samsung,Galaxy Note 4,N910PVPS4COK1,2015-12-07,nan,google and samsung security updates,output18.txt,True,2015-12-01,6
+Samsung,Galaxy Note 4,PC1,2016-03-24,nan,android 6.0 marshmallow updategoogle and samsung security updatesbug fixes,output46.txt,True,2016-03-01,23
+Samsung,Galaxy Note 4,N910PVPU4DPE1,2016-05-23,nan,may android/samsung security patches,output78.txt,True,2016-05-01,22
+Samsung,Galaxy Note 4,N910PVPS4DPE2,2016-06-16,nan,june android/samsung security update,output91.txt,True,2016-06-01,15
+Samsung,Galaxy Note 4,N910PVPU4DPG1,2016-08-04,nan,android/samsung july security updateresolution to lock screen production issueupdated vowifi client ,output117.txt,True,2016-07-01,34
+Samsung,Galaxy Note 4,N910PVPS4DQB3,2017-02-27,Available OTA + OEM Tool,monthly security update,output147.txt,True,2017-02-01,26
+Samsung,Galaxy Note 5,N920PVPU2AOJ6,2015-10-31,nan,additional brand supportgoogle security patchesandroid for workgear vr support,output0.txt,True,2015-10-01,30
+Samsung,Galaxy Note 5,G920PVPS2AOK3,2015-12-07,nan,google and samsung security updates,output20.txt,True,2015-12-01,6
+Samsung,Galaxy Note 5,PC3,2016-03-24,nan,android 6.0 marshmallow updategoogle and samsung security updatesbug fixes,output45.txt,True,2016-03-01,23
+Samsung,Galaxy Note 5,N920PVPS2BPD1,2016-04-19,nan,samsung and google monthly security update,output56.txt,True,2016-04-01,18
+Samsung,Galaxy Note 5,N920PVPU2BPD2,2016-05-19,nan,google and samsung security patches,output75.txt,True,2016-05-01,18
+Samsung,Galaxy Note 5,N920PVPU2BPH9,2016-09-14,nan,august and september android/samsung security patchesupdated wifi calling client ,output128.txt,True,2016-09-01,13
+Samsung,Galaxy Note 8,N950USQS5CRI4,2018-09-20,Available OTA,september android security patch,output301.txt,True,2018-09-01,19
+Samsung,Galaxy Note 8,N950USQS5CRK1,2018-12-17,Available OTA,december 2018 android security patch level,output334.txt,False,2018-12-01,16
+Samsung,Galaxy Note 8,N950USQS5CRL1,2019-01-28,Available OTA,android security patch level january 2019,output352.txt,False,2019-01-01,27
+Samsung,Galaxy Note 8,N950USQS5CSA1,2019-03-04,Available OTA,february 2019 android security patch level,output403.txt,False,2019-02-01,31
+Samsung,Galaxy Note 8,N950USQU5DSC1,2019-03-22,Available OTA,"update to android pie, bug fixes, and march 2019 android security patch level",output404.txt,False,2019-03-01,21
+Samsung,Galaxy Note 8,N950USQU5DSD4,2019-04-19,Available OTA,android security patch level april 2019 bug fixes which include a patch for lte data loss after updating to android p (software version dsc1),output417.txt,False,2019-04-01,18
+Samsung,Galaxy Note 8,N950USQS5DSE9,2019-05-31,Available OTA,"may 1, 2019 android security patch.",output450.txt,True,2019-05-01,30
+Samsung,Galaxy Note 9,N960USQS1ARH6,2018-09-19,Available OTA + OEM Tool,september android security patch,output298.txt,True,2018-09-01,18
+Samsung,Galaxy Note 9,N960USQS1ARJ5,2018-10-29,Available OTA + OEM Tool,october 1st security patches and other bug fixes.,output309.txt,True,2018-10-01,28
+Samsung,Galaxy Note 9,N960USQS1ARJ9,2018-11-15,Available OTA + OEM Tool,november android security patch,output318.txt,True,2018-11-01,14
+Samsung,Galaxy Note 9,N960USQU1ARL1,2019-01-09,Available OTA,android security patch level december 2018 bug fixes and performance enhancements,output353.txt,False,2018-12-01,39
+Samsung,Galaxy Note 9,N960USQU1CSAA,2019-02-04,Available OTA,upgrade to android pie os includes android security patch level january 2019 and bug fixes. i got pie on my samsung and it's totally different!!,output361.txt,False,2019-01-01,34
+Samsung,Galaxy Note 9,N960USQU1CSB3,2019-03-04,Available OTA,android security patch level february 2019 and bug fixes.,output387.txt,False,2019-02-01,31
+Samsung,Galaxy Note 9,N960USQS1CSD1,2019-04-17,Available OTA,april 1 security patches only,output416.txt,True,2019-04-01,16
+Samsung,Galaxy Note 9,N960USQU1CSE3,2019-06-17,Available OTA + OEM Tool,may 2019 security patches and other bug fixes.,output456.txt,False,2019-05-01,47
+Samsung,Galaxy Note 9,N960USQS1CSF2,2019-06-27,Available OTA + OEM Tool,"june 1, 2019 security patches",output460.txt,True,2019-06-01,26
+Samsung,Galaxy Note Edge,N915PVPS4COK2,2015-12-07,nan,google and samsung security updates,output17.txt,True,2015-12-01,6
+Samsung,Galaxy Note Edge,N915PVPU4DPD,2016-04-21,nan,android 6.0 marshmallow updategoogle and samsung security updatesbug fixes,output60.txt,True,2016-04-01,20
+Samsung,Galaxy Note Edge,N915PVPE4DPE2,2016-05-31,nan,may android/samsung security patches,output82.txt,True,2016-05-01,30
+Samsung,Galaxy Note Edge,N915PVPU4DPF3,2016-07-06,nan,june android/samsung security patches,output101.txt,True,2016-06-01,35
+Samsung,Galaxy Note Edge,N915PVPS4DPG1,2016-07-28,nan,android/samsung july security update,output110.txt,True,2016-07-01,27
+Samsung,Galaxy Note Edge,N915PVPS4DPH3,2016-09-21,nan,android/samsung september security update ,output130.txt,True,2016-09-01,20
+Samsung,Galaxy Note Edge,6.0.1,2017-01-27,Available OTA + OEM Tool,january android/samsung security update,output136.txt,True,2017-01-01,26
+Samsung,Galaxy Note Edge,N915PVPS4DQB3,2017-02-27,Available OTA + OEM Tool,monthly security update,output148.txt,True,2017-02-01,26
+Samsung,Galaxy Note5,G928PVPS3BQA1,2017-02-06,Available OTA Version: ,monthly android security update,,True,2017-02-01,5
+Samsung,Galaxy Note5,N920PVPU3DQC5,2017-04-05,Available OTA + OEM Too,n os (android 7.0) upgrade;@;monthly security update;@;,,True,2017-04-01,4
+Samsung,Galaxy Note5,G925PVPS4DQE2,2017-05-24,Available Over the Air. ,fixes: android security patch april & may 2017*,,False,2017-05-01,23
+Samsung,Galaxy Note5,N920PVPS3DQF1,2017-06-23,Available Over the Air,**fixes: june 2017 security patches only***,,False,2017-06-01,22
+Samsung,Galaxy Note5,N920PVPS3DRB1,2018-02-27,Available Over the Air,"android security patch only february 01, 2018  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output242.txt,True,2018-02-01,26
+Samsung,Galaxy Note5,N920PVPS3DRG1,2018-07-23,Available Over the Air,july 2018 android security patch,output287.txt,False,2018-07-01,22
+Samsung,Galaxy Note8,N950USQU2BQJB,2017-11-15,Available Over the Air,"includes the latest google security patches, adds calling plus, and includes rssi updates  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output215.txt,True,2017-11-01,14
+Samsung,Galaxy Note8,N950USQU3BRA6,2018-01-29,Available Over the Air,"january 2018 security patches and bug fixes, including meltdown.  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output238.txt,False,2018-01-01,28
+Samsung,Galaxy Note8,N920PVPS3DRB1,2018-02-27,Available Over the Air,"android security patch only february 01, 2018  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output242.txt,True,2018-02-01,26
+Samsung,Galaxy Note8,N950USQU3CRC2,2018-03-30,Available Over the Air,"oreo upgrade, march 1 2018, android security patches. this maintenance release allows for bring your own device capabilities as well. thanks  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output245.txt,True,2018-03-01,29
+Samsung,Galaxy Note8,N950USQU4CRD7,2018-05-14,Available Over the Air,"bug fixes and april 1, 2018, android security patches",output258.txt,True,2018-04-01,43
+Samsung,Galaxy Note8,N950USQS4CRE1,2018-05-24,Available Over the Air,"may 1, 2018 android security patch only solved! go to solution.",output259.txt,True,2018-05-01,23
+Samsung,Galaxy S10,G973USQU1ASC8,2019-03-27,Available OTA,android security patch level march 2019 performance improvements for data connections,output406.txt,False,2019-03-01,26
+Samsung,Galaxy S10,G973USQU1ASD5,2019-04-16,Available OTA,april android security patches device stability improvements data connectivity improvements,output413.txt,True,2019-04-01,15
+Samsung,Galaxy S10,G973USQS1ASDA,2019-05-17,Available OTA,may android security patches,output442.txt,True,2019-05-01,16
+Samsung,Galaxy S10+,G975USQU1ASC8,2019-03-27,Available OTA,android security patch level march 2019 performance improvements for data connections,output407.txt,False,2019-03-01,26
+Samsung,Galaxy S10+,G975USQU1ASD5,2019-04-16,Available OTA,april android security patches device stability improvements data connectivity improvements,output412.txt,True,2019-04-01,15
+Samsung,Galaxy S10+,G975USQS1ASDA,2019-05-17,Available OTA,may android security patches,output443.txt,True,2019-05-01,16
+Samsung,Galaxy S10e,G970USQU1ASC8,2019-03-27,Available OTA,android security patch level march 2019 performance improvements for data connections,output408.txt,False,2019-03-01,26
+Samsung,Galaxy S10e,G970USQU1ASD5,2019-04-16,Available OTA,april android security patches device stability improvements data connectivity improvements,output414.txt,True,2019-04-01,15
+Samsung,Galaxy S10e,G970USQS1ASDA,2019-05-17,Available OTA,may android security patches,output444.txt,True,2019-05-01,16
+Samsung,Galaxy S5,G900PVPU3CPCA,2016-04-07,nan,android 6.0 marshmallow updategoogle and samsung security updatesbug fixes,output54.txt,True,2016-04-01,6
+Samsung,Galaxy S5,G900PSPT3CPE2,2016-06-16,nan,android security patches 06/01/2016,output90.txt,True,2016-06-01,15
+Samsung,Galaxy S5,G900PVPU3CPG1,2016-07-29,nan,july security patchesshort code messaging fix updated kineto clientfix for sos message feature,output111.txt,True,2016-07-01,28
+Samsung,Galaxy S5,G900PVPS3CQA2,2017-01-27,Available Over the Air,january security patches,output139.txt,True,2017-01-01,26
+Samsung,Galaxy S5 Sport,G860PVPU2BOK1,2015-11-30,nan,"google security patch: stagefright - october, 2015",output11.txt,True,2015-11-01,29
+Samsung,Galaxy S6,G920PVPU3BOJ7,2015-11-04,nan,sprint global roaminggoogle security patch: stagefrightbug fixes,output2.txt,True,2015-11-01,3
+Samsung,Galaxy S6,G920PVPS3CPD2,2016-04-19,nan,samsung and google monthly security update,output59.txt,True,2016-04-01,18
+Samsung,Galaxy S6,G920PVPSUCPD3,2016-05-19,nan,google security patchuicc handling improvementscamera improvementsled indicator improvement,output72.txt,True,2016-05-01,18
+Samsung,Galaxy S6,G920PVPU3CPF4,2016-06-27,nan,bug fixesandroid security patchwi-fi calling enhancements ,output97.txt,True,2016-06-01,26
+Samsung,Galaxy S6,G920PVPS3CPG1,2016-07-28,nan,security update (july),output109.txt,True,2016-07-01,27
+Samsung,Galaxy S6,G925PVPS4DQJ1,2017-11-13,Available OTA + OEM Tool,"'krack', september & october security patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output213.txt,True,2017-10-01,43
+Samsung,Galaxy S6,G925PVPS4DQL2,2017-12-27,Available OTA + OEM Tool,"december 1st security updates  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output229.txt,True,2017-12-01,26
+Samsung,Galaxy S6,G920PVPS4DRA2,2018-01-26,Available OTA + OEM Tool,"january 1, 2018 security patches (including spectre & meltdown patch)  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output239.txt,True,2018-01-01,25
+Samsung,Galaxy S6,G920PVPS4DRC2,2018-04-09,Available Over the Air,february and march android security patches,output251.txt,True,2018-03-01,39
+Samsung,Galaxy S6 Edge,G925PVPU3BOJ7,2015-11-04,nan,sprint global roaminggoogle security patch: stagefrightbug fixes,output1.txt,True,2015-11-01,3
+Samsung,Galaxy S6 Edge,G925PVPS3CPD2,2016-04-19,nan,samsung and google monthly security update,output58.txt,True,2016-04-01,18
+Samsung,Galaxy S6 Edge,G925PVPU3CPD3,2016-05-19,nan,google and samsung security patches,output73.txt,True,2016-05-01,18
+Samsung,Galaxy S6 Edge,G925PVPU3CPF4,2016-06-27,nan,bug fixesandroid security patchwi-fi calling enhancements ,output96.txt,True,2016-06-01,26
+Samsung,Galaxy S6 Edge,G925PVPS3CPG1,2016-07-28,nan,security update (july),output108.txt,True,2016-07-01,27
+Samsung,Galaxy S6 Edge,G925PVPS4DQF1,2017-06-26,Available OTA + OEM Tool,"monthly june security patch update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output186.txt,True,2017-06-01,25
+Samsung,Galaxy S6 Edge,G925PVPS4DQJ1,2017-11-13,Available OTA + OEM Tool,"'krack', september & october security patch  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output213.txt,True,2017-10-01,43
+Samsung,Galaxy S6 Edge,G925PVPS4DQL2,2017-12-27,Available OTA + OEM Tool,"december 1st security updates  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output229.txt,True,2017-12-01,26
+Samsung,Galaxy S6 Edge,G920PVPS4DRC2,2018-04-09,Available Over the Air,february and march android security patches,output252.txt,True,2018-03-01,39
+Samsung,Galaxy S6 Edge+,G928PVPS2AOK3,2015-12-07,nan,google and samsung security updates,output19.txt,True,2015-12-01,6
+Samsung,Galaxy S6 Edge+,PC3,2016-03-24,nan,android 6.0 marshmallow updategoogle and samsung security updatesbug fixes,output47.txt,True,2016-03-01,23
+Samsung,Galaxy S6 Edge+,G928PVPS2BPD1,2016-04-19,nan,samsung and google monthly security update,output57.txt,True,2016-04-01,18
+Samsung,Galaxy S6 Edge+,G928PVPU2BPD2,2016-05-19,nan,google and samsung security patches,output74.txt,True,2016-05-01,18
+Samsung,Galaxy S6 Edge+,G928PVPE2BPG1,2016-07-27,nan,june and july security patches and bug fixesupdated voice over wifi client,output107.txt,True,2016-07-01,26
+Samsung,Galaxy S6 Edge+,G928PVPU2BPH9,2016-09-14,nan,august and september android/samsung security patchesupdated wifi calling client ,output129.txt,True,2016-09-01,13
+Samsung,Galaxy S6 Edge+,G928PVPS3DQF1,2017-06-28,Available OTA + OEM Tool,june 2017 android security patches only,,False,2017-06-01,27
+Samsung,Galaxy S6 Edge+,G928PSPT3DQK1,2017-12-04,Available Over the Air,"november 1, 2017 smr (w/ krack patch)  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output220.txt,True,2017-11-01,33
+Samsung,Galaxy S6 Edge+,G928PVPS3DRG1,2018-07-23,Available Over the Air,july 2018 android security patch,,False,2018-07-01,22
+Samsung,Galaxy S7,G930PVPU2APF2,2016-06-27,nan,bug fixesandroid security patchnetwork improvements,output94.txt,True,2016-06-01,26
+Samsung,Galaxy S7,G930PVPS2APG1,2016-07-21,nan,security patch,output105.txt,True,2016-07-01,20
+Samsung,Galaxy S7,G930PVPU2APH7,2016-09-14,nan,"august, 2016 #7 android security patchessms over wifiadditional sos message fixesvowifi fixesrssi fixbattery drain issue in china ",output127.txt,True,2016-09-01,13
+Samsung,Galaxy S7,G930PVPU4BQF3,2017-07-05,Available Over the Air,"june 2017 android security patches · the security of your device has been improved. · a software update can include, but is not limited to: - device stability improvements, bug fixes. - new and / or enhanced features. - further improvements to performance. to get the best from your device, please keep your phone up to date and regularly check for software updates.  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output188.txt,False,2017-06-01,34
+Samsung,Galaxy S7,G930PVPS4BQG1,2017-07-26,Available Over the Air,"july 2017 security patches  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output192.txt,False,2017-07-01,25
+Samsung,Galaxy S7,G930PVPU6BRD2,2018-05-07,Available Over the Air,"february and march android security patch updates, features enhancements and bug fixes",output257.txt,True,2018-03-01,67
+Samsung,Galaxy S7,G930PVPU6CRE7,2018-06-18,Available Over the Air + OEM Tool,android 8.0 and security patch updates,output271.txt,True,2018-06-01,17
+Samsung,Galaxy S7,G930PVPS7CRH2,2018-09-07,Available Over the Air,"august 1, 2018 security patches including spectre and meltdown.",,True,2018-08-01,37
+Samsung,Galaxy S7,G930PVPS8CRJ2,2018-10-29,Available OTA,september and october google security updates.,output319.txt,True,2018-10-01,28
+Samsung,Galaxy S7,G930PVPS8CRK1,2018-11-26,Available OTA,november google security updates,output320.txt,True,2018-11-01,25
+Samsung,Galaxy S7,G930PSPT8CRK2,2018-12-20,Available OTA,december 2018 android security patch level,output335.txt,False,2018-12-01,19
+Samsung,Galaxy S7,G930PSPT8CSA1,2019-01-24,Available OTA,android security patch level january 2019,output354.txt,False,2019-01-01,23
+Samsung,Galaxy S7,G930PVPS9CSB1,2019-02-25,Available OTA,android security patch level february 2019,output375.txt,False,2019-02-01,24
+Samsung,Galaxy S7,G930PVPS9CSD1,2019-04-26,Available OTA,march android security patch updates,output428.txt,True,2019-03-01,56
+Samsung,Galaxy S7,G930PVPUACSJ3,2019-11-18,Available Over the Air,bug fixes and october android security patches,output497.txt,True,2019-10-01,48
+Samsung,Galaxy S7 Edge,G935PVPU2APF2,2016-06-27,nan,bug fixesandroid security patchnetwork improvements,output95.txt,True,2016-06-01,26
+Samsung,Galaxy S7 Edge,G935PVPS2APG1,2016-07-21,nan,security patch,output106.txt,True,2016-07-01,20
+Samsung,Galaxy S7 Edge,G930PVPU4BQD2,2017-05-03,Available Over the Air. ,"fixes long sms duplicate issue, as well as android 2017 security patches",,True,2017-05-01,2
+Samsung,Galaxy S7 Edge,G935PVPU5BQJ3,2017-11-13,Available Over the Air," · the security of your device has been improved. · a software update can include, but is not limited to: - device stability improvements, bug fixes. - new and / or enhanced features. - further improvements to performance. to get the best from your device, please keep your phone up to date and regularly check for software updates october 2017 android security patches  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output211.txt,False,2017-10-01,43
+Samsung,Galaxy S7 Edge,G935PVPS5BQK1,2017-12-04,Available Over the Air,"android november 2017 security patches  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output221.txt,False,2017-11-01,33
+Samsung,Galaxy S7 Edge,G935PVPS5RD2,2018-05-07,Available Over the Air,"february and march android security patch updates, features enhancements and bug fixes",output256.txt,True,2018-03-01,67
+Samsung,Galaxy S7 Edge,G935PVPU6CRE7,2018-06-18,Available Over the Air + OEM Tool,android 8.0 and security patch updates,output269.txt,True,2018-06-01,17
+Samsung,Galaxy S7 Edge,G935PVPS7CRH2,2018-09-07,Available Over the Air,"august 1, 2018 security patches including spectre and meltdown.",,True,2018-08-01,37
+Samsung,Galaxy S7 Edge,G935PVPS8CRJ2,2018-10-29,Available OTA,september & october google security updates,output321.txt,True,2018-10-01,28
+Samsung,Galaxy S7 Edge,G935PVPS8CRK1,2018-11-26,Available OTA,november google security updates,output322.txt,True,2018-11-01,25
+Samsung,Galaxy S7 Edge,G935PSPT8CRK2,2018-12-20,Available OTA,december 2018 android security patch level,output336.txt,False,2018-12-01,19
+Samsung,Galaxy S7 Edge,G935PSPT8CSA1,2019-01-24,Available OTA,android security patch level january 2019,output355.txt,False,2019-01-01,23
+Samsung,Galaxy S7 Edge,G935PVPS9CSB1,2019-02-25,Available OTA,android security patch level february 2019,output376.txt,False,2019-02-01,24
+Samsung,Galaxy S7 Edge,G935PVPS9CSD1,2019-04-26,Available OTA,march android security patch updates,output430.txt,True,2019-03-01,56
+Samsung,Galaxy S7 Edge,G935PVPUACSJ3,2019-11-18,Available Over the Air,bug fix and october android security patches,output496.txt,True,2019-10-01,48
+Samsung,Galaxy S8,G950USQU1QEF,2017-06-05,Available OTA + OEM Tool,lte band performance improvements (hpue);@;qualcomm patch 2034170;@;google security patch - may,,True,2017-06-01,4
+Samsung,Galaxy S8,G955USQU1AQJH,2017-11-20,Available OTA + OEM Tool,"september, october 2017, & krack security patches. improvements for messaging delivery, enhanced messaging user interface and 3rd party application power saving  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output216.txt,False,2017-10-01,50
+Samsung,Galaxy S8,G950USQS3CRE2,2018-05-24,Available Over the Air + OEM Tool,google may security update,output260.txt,True,2018-05-01,23
+Samsung,Galaxy S8,G955USQU5CRG3,2018-08-06,Available OTA + OEM Tool,"june/july google security update  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output282.txt,True,2018-07-01,36
+Samsung,Galaxy S8,G950USQU5CRK1,2018-12-03,Available OTA + OEM Tool,november security patch samsung pay fix,output323.txt,True,2018-11-01,32
+Samsung,Galaxy S8,G950USQU4CSA4,2019-01-28,Available OTA,includes android security patch level january 2019 and bug fixes.,output362.txt,False,2019-01-01,27
+Samsung,Galaxy S8,G950USQU5DSD3,2019-04-19,Available OTA,android security patch level april 2019 bug fixes which include a patch for lte data loss after updating to android p (software version dsc1),output418.txt,False,2019-04-01,18
+Samsung,Galaxy S8,G950USQS5DSE5,2019-05-31,Available OTA,may android security patch updates,output451.txt,True,2019-05-01,30
+Samsung,Galaxy S8 Active,G892USQS1AQL1,2017-12-28,Available Over the Air,"december 2017 android security patches.  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output231.txt,False,2017-12-01,27
+Samsung,Galaxy S8 Active,G892USQS1ARA2,2018-01-24,Available OTA + OEM Tool,"google security patch, january  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output240.txt,True,2018-01-01,23
+Samsung,Galaxy S8 Active,G892USQS1BRD2,2018-04-25,Available OTA + OEM Tool,april google security patch,output254.txt,True,2018-04-01,24
+Samsung,Galaxy S8 Active,G892USQU3BRI1,2018-09-20,Available OTA,september android security patch,output297.txt,True,2018-09-01,19
+Samsung,Galaxy S8 Active,G892USQS3BSA1,2019-01-25,Available OTA + OEM Tool,december and january security patch update.,,True,2019-01-01,24
+Samsung,Galaxy S8 Active,G892USQS4BSB3,2019-02-22,Available OTA + OEM Tool,february security patch,output377.txt,True,2019-02-01,21
+Samsung,Galaxy S8 Active,G892USQS4BSC1,2019-03-28,Available OTA + OEM Tool,google march security patch update.,output411.txt,True,2019-03-01,27
+Samsung,Galaxy S8 Active,G892USQS5BSE4,2019-05-31,Available OTA + OEM Tool,google security patch for april and may,output453.txt,True,2019-04-01,60
+Samsung,Galaxy S8+,G955USQU1AQFJ,2017-07-08,Available OTA + OEM Tool,"android 7.0;@;june 2017 security patches;@;find my mobile;@;lte roaming fix;@;sms fix for ""(/5)ok"";@; seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".;@;",,False,2017-06-01,37
+Samsung,Galaxy S8+,G955USQS3CRE2,2018-05-24,Available Over the Air + OEM Tool,google may security update,output261.txt,True,2018-05-01,23
+Samsung,Galaxy S8+,G950USQU5CRK1,2018-12-03,Available OTA + OEM Tool,november security patch samsung pay fix,output324.txt,True,2018-11-01,32
+Samsung,Galaxy S8+,G955USQU5DSD3,2019-04-19,Available OTA,android security patch level april 2019 bug fixes which include a patch for lte data loss after updating to android p (software version dsc1),output419.txt,False,2019-04-01,18
+Samsung,Galaxy S8+,G955USQS5DSE5,2019-05-31,Available OTA,may android security patch updates,output454.txt,True,2019-05-01,30
+Samsung,Galaxy S9,G960USQU2ARC6,2018-04-18,Available Over the Air + OEM Tool,"bip wi-fi, g711 removal, and march 2018 patches",output253.txt,False,2018-03-01,48
+Samsung,Galaxy S9,G960USQU2ARE6,2018-06-05,Available Over the Air + OEM Tool,march to may 2018 security updates and other bug fixes.,output265.txt,False,2018-05-01,35
+Samsung,Galaxy S9,G960USQS2ARF4,2018-06-21,Available Over the Air + OEM Tool,maintenance release includes security patches from march- june 2018 as well as the iris recognition fix and ufs fix.,output270.txt,False,2018-06-01,20
+Samsung,Galaxy S9,G960USQU3ARG7,2018-08-06,Available OTA + OEM Tool,"july 1 2018 patches & other bug fixes  seawolf sprint community manager & customer advocate captain of the vicious cream-puff i encourage you to post your questions on the community, give kudos when earned and always mark the correct answer as ""accepted solution"".",output281.txt,True,2018-07-01,36
+Samsung,Galaxy S9,G960USQU3ARI4,2018-09-20,Available OTA + OEM Tool,september android security patch,output299.txt,True,2018-09-01,19
+Samsung,Galaxy S9,G960USQU3ARIC,2018-10-19,Available OTA + OEM Tool,october 1st security patch,output310.txt,True,2018-10-01,18
+Samsung,Galaxy S9,G960USQU3BRK3,2018-12-17,Available OTA,december 2018 android security patch level,output337.txt,False,2018-12-01,16
+Samsung,Galaxy S9,G960USQS3CSAG,2019-02-27,Available OTA,android security patch level february 2019,output388.txt,False,2019-02-01,26
+Samsung,Galaxy S9,G960USQU4CSC7,2019-04-08,Available OTA,android security patch level march 2019 and bug fixes.,output415.txt,False,2019-03-01,38
+Samsung,Galaxy S9,G960USQU4CSC8,2019-04-17,Available OTA,april 1 security patches,output424.txt,True,2019-04-01,16
+Samsung,Galaxy S9+,G965USQU2ARE6,2018-06-05,Available Over the Air + OEM Tool,march to may 2018 security updates and other bug fixes.,output266.txt,False,2018-05-01,35
+Samsung,Galaxy S9+,G965USQS2ARF4,2018-06-21,Available Over the Air + OEM Tool,maintenance release includes security patches from march - june 2018 as well as the iris recognition fix and ufs fix.,output275.txt,False,2018-06-01,20
+Samsung,Galaxy S9+,G965USQU3ARI4,2018-09-20,Available OTA + OEM Tool,september android security patch,output300.txt,True,2018-09-01,19
+Samsung,Galaxy S9+,G960USQU3BRK3,2018-12-17,Available OTA,december 2018 android security patch level and performance enhancements.,output338.txt,False,2018-12-01,16
+Samsung,Galaxy S9+,G965USQS3CSAG,2019-02-27,Available OTA,android security patch level february 2019,output389.txt,False,2019-02-01,26
+Samsung,Galaxy S9+,G965USQS4CSC8,2019-04-17,Available OTA,android security patch level april 2019,output425.txt,False,2019-04-01,16
+Samsung,Galaxy S9+,G965USQS7CSJ7,2019-11-14,Available Over the Air,android security patch november 2019,output498.txt,False,2019-11-01,13
+Samsung,Galaxy Tab 4,T237PVPS1BPF1,2016-07-13,nan,google security patch maintenance release ,output102.txt,True,2016-07-01,12
+Samsung,Galaxy Tab A 10.5,T597PVPU1ASA2,2018-02-04,Available OTA + OEM Tool,november - january google security patch,output369.txt,True,2018-01-01,34
+Samsung,Galaxy Tab A 10.5,T597PVPS1ASD1,2019-05-03,Available OTA + OEM Tool,quarterly security patch update.,output431.txt,True,2019-05-01,2
+Samsung,Galaxy Tab A 8.0,T387PVPU1ARH6,2018-10-03,Available OTA,september security patch and other enhancements,output306.txt,True,2018-09-01,32
+Samsung,Galaxy Tab A 8.0,T387PVPU1ASA5,2019-02-18,Available OTA,updated to android security patch level january 2019 and bug fixes.,output390.txt,False,2019-01-01,48
+Samsung,Galaxy Tab E,T377PVPU1BPE6,2016-06-29,nan,android 6.0.1 m os updatesecurity patches (11/2015 ~ 5/2016),output98.txt,True,2016-06-01,28
+Samsung,Galaxy Tab S,T807PVPT1BOJ4,2015-11-18,nan,battery performance improvementsgoogle security patch: stagefright,output7.txt,True,2015-11-01,17
+Samsung,Galaxy Tab S,T807PVPU1BOL3,2016-12-30,nan,november / december google security patch,output25.txt,True,2016-12-01,29
+Samsung,Galaxy Tab S2,T817PVPU1AOJS,2015-11-11,nan,battery performance improvementsgoogle security patch: stagefright,output5.txt,True,2015-11-01,10
+Samsung,Galaxy Tab S4,T387PVPU1ASBK,2018-02-18,Available OTA,android security patch level february bug fixes and performance enhancements,output391.txt,True,2018-02-01,17
+Slate,8 Tablet,NKS.01.45.00.04,2015-11-18,nan,bug fixes and stability improvementsgoogle security patch: stagefright,output6.txt,True,2015-11-01,17
+Slate,Slate 10,NKJ.01.16.02.04,2016-05-11,nan,google security patchuicc handling improvementscamera improvementsled indicator improvement,output69.txt,True,2016-05-01,10
+Slate,Slate 8,NKS.02.16.03.04,2016-05-11,nan,google security patchuicc handling improvementscamera improvementsled indicator improvement,output70.txt,True,2016-05-01,10
+Sonim,XP8,8A.0.0-03-7.1.1-29.20.00,2019-01-31,Available OTA,includes android security patch level january 2019 and bug fixes,output374.txt,False,2019-01-01,30
+Sonim,XP8,8A.0.0-03-7.1.1-29.22.00,2019-05-06,Available OTA,google security patch,output465.txt,True,2019-05-01,5

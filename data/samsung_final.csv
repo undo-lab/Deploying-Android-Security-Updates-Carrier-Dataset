@@ -1,0 +1,1070 @@
+phone_model,carrier,android_os,carrier_release,security_patch,difference,Locked
+Galaxy S7 edge,TMobile,8.0.0,2019-04-03,2019-03-01,33,True
+Galaxy S9,TMobile,9,2019-12-11,2019-12-01,10,True
+Galaxy S9,TMobile,9,2019-10-10,2019-09-01,39,True
+Galaxy S9,TMobile,9,2019-08-02,2019-07-01,32,True
+Galaxy S9,TMobile,9,2019-06-14,2019-06-01,13,True
+Galaxy S9,TMobile,9,2019-06-01,2019-05-01,31,True
+Galaxy S9,TMobile,9,2019-04-20,2019-04-01,19,True
+Galaxy S9,TMobile,9,2019-03-22,2019-03-01,21,True
+Galaxy S9,TMobile,9,2019-02-13,2019-01-01,43,True
+Galaxy S9,TMobile,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy S9,TMobile,8.0.0,2018-11-20,2018-11-01,19,True
+Galaxy S9,TMobile,8.0.0,2018-11-07,2018-10-01,37,True
+Galaxy S9,TMobile,8.0.0,2018-10-22,2018-10-01,21,True
+Galaxy S9,TMobile,8.0.0,2018-08-18,2018-08-01,17,True
+Galaxy S9,TMobile,8.0.0,2018-08-13,2018-07-01,43,True
+Galaxy Note 8,Sprint,9,2020-01-13,2020-01-01,12,True
+Galaxy Note 8,Sprint,9,2019-12-16,2019-12-01,15,True
+Galaxy Note 8,Sprint,9,2019-12-02,2019-11-01,31,True
+Galaxy Note 8,Sprint,9,2019-10-24,2019-10-01,23,True
+Galaxy Note 8,Sprint,9,2019-09-26,2019-09-01,25,True
+Galaxy Note 8,Sprint,9,2019-08-26,2019-08-01,25,True
+Galaxy Note 8,Sprint,9,2019-07-18,2019-07-01,17,True
+Galaxy Note 8,Sprint,9,2019-06-24,2019-06-01,23,True
+Galaxy Note 8,Sprint,9,2019-05-31,2019-05-01,30,True
+Galaxy Note 8,Sprint,9,2019-04-19,2019-04-01,18,True
+Galaxy Note 8,Sprint,9,2019-03-26,2019-03-01,25,True
+Galaxy Note 8,Sprint,8.0.0,2019-03-04,2019-02-01,31,True
+Galaxy Note 8,Sprint,8.0.0,2019-01-29,2019-01-01,28,True
+Galaxy Note 8,Sprint,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy Note 8,Sprint,8.0.0,2018-11-15,2018-11-01,14,True
+Galaxy Note 8,Sprint,8.0.0,2018-10-19,2018-10-01,18,True
+Galaxy Note 8,Sprint,8.0.0,2018-10-10,2018-09-01,39,True
+Galaxy Note 8,Sprint,8.0.0,2018-09-20,2018-09-01,19,True
+Galaxy Note 8,Sprint,8.0.0,2018-08-30,2018-08-01,29,True
+Galaxy Note 8,Sprint,8.0.0,2018-08-13,2018-07-01,43,True
+Galaxy S9+,Sprint,9,2019-12-12,2019-12-01,11,True
+Galaxy S9+,Sprint,9,2019-09-16,2019-09-01,15,True
+Galaxy S9+,Sprint,9,2019-08-22,2019-08-01,21,True
+Galaxy S9+,Sprint,9,2019-08-12,2019-07-01,42,True
+Galaxy S9+,Sprint,9,2019-07-08,2019-06-01,37,True
+Galaxy S9+,Sprint,9,2019-04-17,2019-04-01,16,True
+Galaxy S9+,Sprint,9,2019-04-08,2019-03-01,38,True
+Galaxy S9+,Sprint,9,2019-02-27,2019-02-01,26,True
+Galaxy S9+,Sprint,9,2019-01-31,2019-01-01,30,True
+Galaxy S9+,Sprint,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy S9+,Sprint,8.0.0,2018-11-17,2018-11-01,16,True
+Galaxy S9+,Sprint,8.0.0,2018-11-07,2018-10-01,37,True
+Galaxy S9+,Sprint,8.0.0,2018-10-19,2018-10-01,18,True
+Galaxy S9+,Sprint,8.0.0,2018-09-20,2018-09-01,19,True
+Galaxy S9+,Sprint,8.0.0,2018-09-17,2018-08-01,47,True
+Galaxy S9+,Sprint,8.0.0,2018-08-31,2018-08-01,30,True
+Galaxy S9+,Sprint,8.0.0,2018-08-06,2018-07-01,36,True
+Galaxy Note 8,Sprint,9,2020-01-20,2020-01-01,19,False
+Galaxy Note 8,Sprint,9,2020-01-14,2019-12-01,44,False
+Galaxy Note 8,Sprint,9,2019-12-23,2019-12-01,22,False
+Galaxy Note 8,Sprint,9,2019-11-26,2019-11-01,25,False
+Galaxy Note 8,Sprint,9,2019-10-23,2019-10-01,22,False
+Galaxy Note 8,Sprint,9,2019-09-30,2019-09-01,29,False
+Galaxy Note 8,Sprint,9,2019-09-10,2019-08-01,40,False
+Galaxy Note 8,Sprint,9,2019-08-27,2019-08-01,26,False
+Galaxy Note 8,Sprint,9,2019-07-29,2019-07-01,28,False
+Galaxy Note 8,Sprint,9,2019-07-03,2019-06-01,32,False
+Galaxy Note 8,Sprint,9,2019-06-11,2019-05-01,41,False
+Galaxy Note 8,Sprint,9,2019-04-26,2019-04-01,25,False
+Galaxy Note 8,Sprint,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy Note 8,Sprint,8.0.0,2019-02-01,2019-01-01,31,False
+Galaxy Note 8,Sprint,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy Note 8,Sprint,8.0.0,2018-12-11,2018-11-01,40,False
+Galaxy Note 8,Sprint,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy Note 8,Sprint,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy Note 8,Sprint,8.0.0,2018-09-07,2018-08-01,37,False
+Galaxy Note 8,Sprint,8.0.0,2018-08-31,2018-07-01,61,False
+Galaxy Note 8,Sprint,8.0.0,2018-07-25,2018-07-01,24,False
+Galaxy S10+,Verizon,10,2020-01-06,2020-01-01,5,False
+Galaxy S10+,Verizon,10,2019-12-23,2019-12-01,22,False
+Galaxy S10+,Verizon,9,2019-12-03,2019-12-01,2,False
+Galaxy S10+,Verizon,9,2019-11-02,2019-11-01,1,False
+Galaxy S10+,Verizon,9,2019-10-30,2019-10-01,29,False
+Galaxy S10+,Verizon,9,2019-10-10,2019-10-01,9,False
+Galaxy S10+,Verizon,9,2019-09-20,2019-09-01,19,False
+Galaxy S10+,Verizon,9,2019-09-09,2019-08-01,39,False
+Galaxy S10+,Verizon,9,2019-08-19,2019-08-01,18,False
+Galaxy S10+,Verizon,9,2019-08-07,2019-07-01,37,False
+Galaxy S10+,Verizon,9,2019-05-28,2019-05-01,27,False
+Galaxy S10+,Verizon,9,2019-05-14,2019-04-01,43,False
+Galaxy S10+,Verizon,9,2019-04-12,2019-03-01,42,False
+Galaxy S10+,Verizon,9,2019-03-09,2019-02-01,36,False
+Galaxy S7,AT&T,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10+,Sprint,10,2020-01-06,2020-01-01,5,False
+Galaxy S10+,Sprint,10,2019-12-23,2019-12-01,22,False
+Galaxy S10+,Sprint,9,2019-12-03,2019-12-01,2,False
+Galaxy S10+,Sprint,9,2019-11-02,2019-11-01,1,False
+Galaxy S10+,Sprint,9,2019-10-30,2019-10-01,29,False
+Galaxy S10+,Sprint,9,2019-10-10,2019-10-01,9,False
+Galaxy S10+,Sprint,9,2019-09-20,2019-09-01,19,False
+Galaxy S10+,Sprint,9,2019-09-09,2019-08-01,39,False
+Galaxy S10+,Sprint,9,2019-08-19,2019-08-01,18,False
+Galaxy S10+,Sprint,9,2019-08-07,2019-07-01,37,False
+Galaxy S10+,Sprint,9,2019-05-28,2019-05-01,27,False
+Galaxy S10+,Sprint,9,2019-05-14,2019-04-01,43,False
+Galaxy S10+,Sprint,9,2019-04-16,2019-04-01,15,False
+Galaxy S10+,Sprint,9,2019-04-12,2019-03-01,42,False
+Galaxy S10+,Sprint,9,2019-03-09,2019-02-01,36,False
+Galaxy S10,AT&T,10,2020-01-06,2020-01-01,5,False
+Galaxy S10,AT&T,10,2019-12-23,2019-12-01,22,False
+Galaxy S10,AT&T,9,2019-12-03,2019-12-01,2,False
+Galaxy S10,AT&T,9,2019-11-02,2019-11-01,1,False
+Galaxy S10,AT&T,9,2019-10-30,2019-10-01,29,False
+Galaxy S10,AT&T,9,2019-10-10,2019-10-01,9,False
+Galaxy S10,AT&T,9,2019-09-20,2019-09-01,19,False
+Galaxy S10,AT&T,9,2019-09-09,2019-08-01,39,False
+Galaxy S10,AT&T,9,2019-08-19,2019-08-01,18,False
+Galaxy S10,AT&T,9,2019-08-07,2019-07-01,37,False
+Galaxy S10,AT&T,9,2019-05-28,2019-05-01,27,False
+Galaxy S10,AT&T,9,2019-05-14,2019-04-01,43,False
+Galaxy S10,AT&T,9,2019-04-12,2019-03-01,42,False
+Galaxy S10,AT&T,9,2019-03-09,2019-02-01,36,False
+Galaxy S8,Sprint,9,2020-01-23,2020-01-01,22,True
+Galaxy S8,Sprint,9,2019-12-30,2019-12-01,29,True
+Galaxy S8,Sprint,9,2019-10-24,2019-10-01,23,True
+Galaxy S8,Sprint,9,2019-09-26,2019-09-01,25,True
+Galaxy S8,Sprint,9,2019-08-22,2019-08-01,21,True
+Galaxy S8,Sprint,9,2019-07-29,2019-07-01,28,True
+Galaxy S8,Sprint,9,2019-07-05,2019-06-01,34,True
+Galaxy S8,Sprint,9,2019-05-31,2019-05-01,30,True
+Galaxy S8,Sprint,9,2019-04-20,2019-04-01,19,True
+Galaxy S8,Sprint,9,2019-03-25,2019-03-01,24,True
+Galaxy S8,Sprint,8.0.0,2019-03-04,2019-02-01,31,True
+Galaxy S8,Sprint,8.0.0,2019-01-28,2019-01-01,27,True
+Galaxy S8,Sprint,8.0.0,2019-01-02,2018-12-01,32,True
+Galaxy S8,Sprint,8.0.0,2018-12-03,2018-11-01,32,True
+Galaxy S8,Sprint,8.0.0,2018-10-03,2018-10-01,2,True
+Galaxy S8,Sprint,8.0.0,2018-08-28,2018-08-01,27,True
+Galaxy S8,Sprint,8.0.0,2018-08-06,2018-07-01,36,True
+Galaxy S7 edge,Sprint,8.0.0,2019-04-29,2019-03-01,59,True
+Galaxy Note9,TMobile,9,2019-12-16,2019-12-01,15,True
+Galaxy Note9,TMobile,9,2019-11-09,2019-11-01,8,True
+Galaxy Note9,TMobile,9,2019-10-26,2019-10-01,25,True
+Galaxy Note9,TMobile,9,2019-10-07,2019-09-01,36,True
+Galaxy Note9,TMobile,9,2019-08-19,2019-08-01,18,True
+Galaxy Note9,TMobile,9,2019-08-12,2019-07-01,42,True
+Galaxy Note9,TMobile,9,2019-06-24,2019-06-01,23,True
+Galaxy Note9,TMobile,9,2019-05-27,2019-05-01,26,True
+Galaxy Note9,TMobile,9,2019-04-20,2019-04-01,19,True
+Galaxy Note9,TMobile,9,2019-04-15,2019-03-01,45,True
+Galaxy Note9,TMobile,9,2019-03-02,2019-02-01,29,True
+Galaxy Note9,TMobile,8.1.0,2019-01-07,2018-12-01,37,True
+Galaxy Note9,TMobile,8.1.0,2018-11-23,2018-11-01,22,True
+Galaxy Note9,TMobile,8.1.0,2018-11-14,2018-10-01,44,True
+Galaxy Note9,TMobile,8.1.0,2018-09-21,2018-09-01,20,True
+Galaxy Note9,TMobile,8.1.0,2018-08-17,2018-08-01,16,True
+Galaxy Note 8,Verizon,9,2020-01-20,2020-01-01,19,False
+Galaxy Note 8,Verizon,9,2020-01-14,2019-12-01,44,False
+Galaxy Note 8,Verizon,9,2019-12-23,2019-12-01,22,False
+Galaxy Note 8,Verizon,9,2019-11-26,2019-11-01,25,False
+Galaxy Note 8,Verizon,9,2019-10-23,2019-10-01,22,False
+Galaxy Note 8,Verizon,9,2019-09-30,2019-09-01,29,False
+Galaxy Note 8,Verizon,9,2019-09-10,2019-08-01,40,False
+Galaxy Note 8,Verizon,9,2019-08-28,2019-08-01,27,False
+Galaxy Note 8,Verizon,9,2019-07-29,2019-07-01,28,False
+Galaxy Note 8,Verizon,9,2019-07-02,2019-06-01,31,False
+Galaxy Note 8,Verizon,9,2019-06-11,2019-05-01,41,False
+Galaxy Note 8,Verizon,9,2019-05-24,2019-04-01,53,False
+Galaxy Note 8,Verizon,9,2019-04-08,2019-03-01,38,False
+Galaxy Note 8,Verizon,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy Note 8,Verizon,8.0.0,2019-01-31,2019-01-01,30,False
+Galaxy Note 8,Verizon,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy Note 8,Verizon,8.0.0,2018-12-11,2018-11-01,40,False
+Galaxy Note 8,Verizon,8.0.0,2018-10-31,2018-10-01,30,False
+Galaxy Note 8,Verizon,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy Note 8,Verizon,8.0.0,2018-09-07,2018-08-01,37,False
+Galaxy Note 8,Verizon,8.0.0,2018-08-31,2018-07-01,61,False
+Galaxy Note 8,Verizon,8.0.0,2018-07-25,2018-07-01,24,False
+Galaxy S10,Unbranded,10,2020-01-06,2020-01-01,5,False
+Galaxy S10,Unbranded,10,2019-12-23,2019-12-01,22,False
+Galaxy S10,Unbranded,9,2019-12-03,2019-12-01,2,False
+Galaxy S10,Unbranded,9,2019-11-02,2019-11-01,1,False
+Galaxy S10,Unbranded,9,2019-10-30,2019-10-01,29,False
+Galaxy S10,Unbranded,9,2019-10-10,2019-10-01,9,False
+Galaxy S10,Unbranded,9,2019-09-18,2019-09-01,17,False
+Galaxy S10,Unbranded,9,2019-09-09,2019-08-01,39,False
+Galaxy S10,Unbranded,9,2019-08-19,2019-08-01,18,False
+Galaxy S10,Unbranded,9,2019-08-09,2019-07-01,39,False
+Galaxy S10,Unbranded,9,2019-05-28,2019-05-01,27,False
+Galaxy S10,Unbranded,9,2019-05-14,2019-04-01,43,False
+Galaxy S10,Unbranded,9,2019-04-12,2019-03-01,42,False
+Galaxy S10,Unbranded,9,2019-03-09,2019-02-01,36,False
+Galaxy S8+,TMobile,9,2019-12-23,2019-12-01,22,True
+Galaxy S8+,TMobile,9,2019-11-25,2019-11-01,24,True
+Galaxy S8+,TMobile,9,2019-11-16,2019-10-01,46,True
+Galaxy S8+,TMobile,9,2019-10-22,2019-10-01,21,True
+Galaxy S8+,TMobile,9,2019-10-10,2019-08-01,70,True
+Galaxy S8+,TMobile,9,2019-08-23,2019-08-01,22,True
+Galaxy S8+,TMobile,9,2019-07-25,2019-07-01,24,True
+Galaxy S8+,TMobile,9,2019-05-25,2019-04-01,54,True
+Galaxy S8+,TMobile,9,2019-03-29,2019-03-01,28,True
+Galaxy S8+,TMobile,8.0.0,2018-12-08,2018-11-01,37,True
+Galaxy S8+,TMobile,8.0.0,2018-10-29,2018-10-01,28,True
+Galaxy S8+,TMobile,8.0.0,2018-09-03,2018-08-01,33,True
+Galaxy S8+,TMobile,8.0.0,2018-08-20,2018-07-01,50,True
+Galaxy S7,Unbranded,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S7,Verizon,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10,Verizon,10,2020-01-06,2020-01-01,5,False
+Galaxy S10,Verizon,10,2019-12-23,2019-12-01,22,False
+Galaxy S10,Verizon,9,2019-12-03,2019-12-01,2,False
+Galaxy S10,Verizon,9,2019-11-02,2019-11-01,1,False
+Galaxy S10,Verizon,9,2019-10-30,2019-10-01,29,False
+Galaxy S10,Verizon,9,2019-10-10,2019-10-01,9,False
+Galaxy S10,Verizon,9,2019-09-20,2019-09-01,19,False
+Galaxy S10,Verizon,9,2019-09-09,2019-08-01,39,False
+Galaxy S10,Verizon,9,2019-08-19,2019-08-01,18,False
+Galaxy S10,Verizon,9,2019-08-07,2019-07-01,37,False
+Galaxy S10,Verizon,9,2019-05-28,2019-05-01,27,False
+Galaxy S10,Verizon,9,2019-05-14,2019-04-01,43,False
+Galaxy S10,Verizon,9,2019-04-12,2019-03-01,42,False
+Galaxy S10,Verizon,9,2019-03-09,2019-02-01,36,False
+Galaxy Note 8,AT&T,9,2020-01-20,2020-01-01,19,False
+Galaxy Note 8,AT&T,9,2020-01-14,2019-12-01,44,False
+Galaxy Note 8,AT&T,9,2019-12-23,2019-12-01,22,False
+Galaxy Note 8,AT&T,9,2019-11-26,2019-11-01,25,False
+Galaxy Note 8,AT&T,9,2019-10-23,2019-10-01,22,False
+Galaxy Note 8,AT&T,9,2019-09-30,2019-09-01,29,False
+Galaxy Note 8,AT&T,9,2019-09-10,2019-08-01,40,False
+Galaxy Note 8,AT&T,9,2019-08-27,2019-08-01,26,False
+Galaxy Note 8,AT&T,9,2019-07-29,2019-07-01,28,False
+Galaxy Note 8,AT&T,9,2019-07-02,2019-06-01,31,False
+Galaxy Note 8,AT&T,9,2019-06-11,2019-05-01,41,False
+Galaxy Note 8,AT&T,9,2019-05-24,2019-04-01,53,False
+Galaxy Note 8,AT&T,9,2019-04-08,2019-03-01,38,False
+Galaxy Note 8,AT&T,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy Note 8,AT&T,8.0.0,2019-01-31,2019-01-01,30,False
+Galaxy Note 8,AT&T,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy Note 8,AT&T,8.0.0,2018-12-11,2018-11-01,40,False
+Galaxy Note 8,AT&T,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy Note 8,AT&T,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy Note 8,AT&T,8.0.0,2018-09-07,2018-08-01,37,False
+Galaxy Note 8,AT&T,8.0.0,2018-08-31,2018-07-01,61,False
+Galaxy Note 8,AT&T,8.0.0,2018-07-25,2018-07-01,24,False
+Galaxy A10e,Sprint,9,2019-12-23,2019-12-01,22,True
+Galaxy A10e,Sprint,9,2019-09-23,2019-09-01,22,True
+Galaxy A10e,Sprint,9,2019-07-19,2019-06-01,48,True
+Galaxy Note 8,Unbranded,9,2020-01-20,2020-01-01,19,False
+Galaxy Note 8,Unbranded,9,2020-01-14,2019-12-01,44,False
+Galaxy Note 8,Unbranded,9,2019-12-23,2019-12-01,22,False
+Galaxy Note 8,Unbranded,9,2019-11-26,2019-11-01,25,False
+Galaxy Note 8,Unbranded,9,2019-10-23,2019-10-01,22,False
+Galaxy Note 8,Unbranded,9,2019-09-30,2019-09-01,29,False
+Galaxy Note 8,Unbranded,9,2019-09-10,2019-08-01,40,False
+Galaxy Note 8,Unbranded,9,2019-08-27,2019-08-01,26,False
+Galaxy Note 8,Unbranded,9,2019-07-29,2019-07-01,28,False
+Galaxy Note 8,Unbranded,9,2019-07-02,2019-06-01,31,False
+Galaxy Note 8,Unbranded,9,2019-06-11,2019-05-01,41,False
+Galaxy Note 8,Unbranded,9,2019-05-24,2019-04-01,53,False
+Galaxy Note 8,Unbranded,9,2019-04-08,2019-03-01,38,False
+Galaxy Note 8,Unbranded,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy Note 8,Unbranded,8.0.0,2019-01-31,2019-01-01,30,False
+Galaxy Note 8,Unbranded,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy Note 8,Unbranded,8.0.0,2018-12-11,2018-11-01,40,False
+Galaxy Note 8,Unbranded,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy Note 8,Unbranded,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy Note 8,Unbranded,8.0.0,2018-09-07,2018-08-01,37,False
+Galaxy Note 8,Unbranded,8.0.0,2018-08-31,2018-07-01,61,False
+Galaxy Note 8,Unbranded,8.0.0,2018-07-25,2018-07-01,24,False
+Galaxy S10,Sprint,10,2020-01-09,2020-01-01,8,True
+Galaxy S10,Sprint,10,2019-12-16,2019-12-01,15,True
+Galaxy S10,Sprint,9,2019-11-01,2019-11-01,0,True
+Galaxy S10,Sprint,9,2019-10-21,2019-10-01,20,True
+Galaxy S10,Sprint,9,2019-09-30,2019-09-01,29,True
+Galaxy S10,Sprint,9,2019-08-26,2019-08-01,25,True
+Galaxy S10,Sprint,9,2019-07-29,2019-06-01,58,True
+Galaxy S10,Sprint,9,2019-05-17,2019-05-01,16,True
+Galaxy S10,Sprint,9,2019-04-16,2019-04-01,15,True
+Galaxy S10,Sprint,9,2019-03-27,2019-03-01,26,True
+Galaxy S10,Sprint,9,2019-03-02,2019-02-01,29,True
+Galaxy S7 edge,TMobile,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10+,Unbranded,10,2020-01-06,2020-01-01,5,False
+Galaxy S10+,Unbranded,10,2019-12-23,2019-12-01,22,False
+Galaxy S10+,Unbranded,9,2019-12-03,2019-12-01,2,False
+Galaxy S10+,Unbranded,9,2019-11-02,2019-11-01,1,False
+Galaxy S10+,Unbranded,9,2019-10-30,2019-10-01,29,False
+Galaxy S10+,Unbranded,9,2019-10-10,2019-10-01,9,False
+Galaxy S10+,Unbranded,9,2019-09-18,2019-09-01,17,False
+Galaxy S10+,Unbranded,9,2019-09-09,2019-08-01,39,False
+Galaxy S10+,Unbranded,9,2019-08-19,2019-08-01,18,False
+Galaxy S10+,Unbranded,9,2019-08-07,2019-07-01,37,False
+Galaxy S10+,Unbranded,9,2019-05-28,2019-05-01,27,False
+Galaxy S10+,Unbranded,9,2019-05-14,2019-04-01,43,False
+Galaxy S10+,Unbranded,9,2019-04-12,2019-03-01,42,False
+Galaxy S10+,Unbranded,9,2019-03-09,2019-02-01,36,False
+Galaxy S10,Sprint,10,2020-01-06,2020-01-01,5,False
+Galaxy S10,Sprint,10,2019-12-23,2019-12-01,22,False
+Galaxy S10,Sprint,9,2019-12-03,2019-12-01,2,False
+Galaxy S10,Sprint,9,2019-11-02,2019-11-01,1,False
+Galaxy S10,Sprint,9,2019-10-30,2019-10-01,29,False
+Galaxy S10,Sprint,9,2019-10-10,2019-10-01,9,False
+Galaxy S10,Sprint,9,2019-09-20,2019-09-01,19,False
+Galaxy S10,Sprint,9,2019-09-09,2019-08-01,39,False
+Galaxy S10,Sprint,9,2019-08-19,2019-08-01,18,False
+Galaxy S10,Sprint,9,2019-08-07,2019-07-01,37,False
+Galaxy S10,Sprint,9,2019-05-28,2019-05-01,27,False
+Galaxy S10,Sprint,9,2019-05-14,2019-04-01,43,False
+Galaxy S10,Sprint,9,2019-04-16,2019-04-01,15,False
+Galaxy S10,Sprint,9,2019-04-12,2019-03-01,42,False
+Galaxy S10,Sprint,9,2019-03-09,2019-02-01,36,False
+Galaxy Note9,TMobile,9,2019-12-13,2019-12-01,12,False
+Galaxy Note9,TMobile,9,2019-10-28,2019-10-01,27,False
+Galaxy Note9,TMobile,9,2019-10-07,2019-09-01,36,False
+Galaxy Note9,TMobile,9,2019-09-11,2019-08-01,41,False
+Galaxy Note9,TMobile,9,2019-07-09,2019-06-01,38,False
+Galaxy Note9,TMobile,9,2019-04-25,2019-04-01,24,False
+Galaxy Note9,TMobile,9,2019-04-15,2019-03-01,45,False
+Galaxy Note9,TMobile,9,2019-03-12,2019-02-01,39,False
+Galaxy Note9,TMobile,8.1.0,2019-01-14,2018-12-01,44,False
+Galaxy Note9,TMobile,8.1.0,2018-11-27,2018-11-01,26,False
+Galaxy Note9,TMobile,8.1.0,2018-11-09,2018-10-01,39,False
+Galaxy Note9,TMobile,8.1.0,2018-09-21,2018-09-01,20,False
+Galaxy Note9,TMobile,8.1.0,2018-09-17,2018-08-01,47,False
+Galaxy Note9,TMobile,8.1.0,2018-08-21,2018-08-01,20,False
+Galaxy S10+,AT&T,10,2020-01-06,2020-01-01,5,False
+Galaxy S10+,AT&T,10,2019-12-23,2019-12-01,22,False
+Galaxy S10+,AT&T,9,2019-12-03,2019-12-01,2,False
+Galaxy S10+,AT&T,9,2019-11-02,2019-11-01,1,False
+Galaxy S10+,AT&T,9,2019-10-30,2019-10-01,29,False
+Galaxy S10+,AT&T,9,2019-10-10,2019-10-01,9,False
+Galaxy S10+,AT&T,9,2019-09-20,2019-09-01,19,False
+Galaxy S10+,AT&T,9,2019-09-09,2019-08-01,39,False
+Galaxy S10+,AT&T,9,2019-08-19,2019-08-01,18,False
+Galaxy S10+,AT&T,9,2019-08-07,2019-07-01,37,False
+Galaxy S10+,AT&T,9,2019-05-28,2019-05-01,27,False
+Galaxy S10+,AT&T,9,2019-05-14,2019-04-01,43,False
+Galaxy S10+,AT&T,9,2019-04-12,2019-03-01,42,False
+Galaxy S10+,AT&T,9,2019-03-09,2019-02-01,36,False
+Galaxy S7,Sprint,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy Note 10,Sprint,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10,Sprint,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10,Sprint,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10,Sprint,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10,Sprint,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10,Sprint,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10,Sprint,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10,Sprint,9,2019-08-21,2019-08-01,20,False
+Galaxy A50,Unbranded,9,2020-01-06,2020-01-01,5,False
+Galaxy A50,Unbranded,9,2019-12-03,2019-12-01,2,False
+Galaxy A50,Unbranded,9,2019-11-04,2019-11-01,3,False
+Galaxy A50,Unbranded,9,2019-11-01,2019-10-01,31,False
+Galaxy A50,Unbranded,9,2019-10-07,2019-10-01,6,False
+Galaxy S8+,Verizon,9,2020-01-29,2020-01-01,28,False
+Galaxy S8+,Verizon,9,2019-12-23,2019-12-01,22,False
+Galaxy S8+,Verizon,9,2019-11-22,2019-11-01,21,False
+Galaxy S8+,Verizon,9,2019-11-13,2019-10-01,43,False
+Galaxy S8+,Verizon,9,2019-10-23,2019-10-01,22,False
+Galaxy S8+,Verizon,9,2019-09-30,2019-09-01,29,False
+Galaxy S8+,Verizon,9,2019-08-28,2019-08-01,27,False
+Galaxy S8+,Verizon,9,2019-07-29,2019-07-01,28,False
+Galaxy S8+,Verizon,9,2019-07-02,2019-06-01,31,False
+Galaxy S8+,Verizon,9,2019-06-03,2019-04-01,63,False
+Galaxy S8+,Verizon,9,2019-04-08,2019-03-01,38,False
+Galaxy S8+,Verizon,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8+,Verizon,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8+,Verizon,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8+,Verizon,8.0.0,2018-10-31,2018-10-01,30,False
+Galaxy S8+,Verizon,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8+,Verizon,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy S9,Verizon,9,2019-12-23,2019-12-01,22,False
+Galaxy S9,Verizon,9,2019-12-02,2019-11-01,31,False
+Galaxy S9,Verizon,9,2019-11-01,2019-10-01,31,False
+Galaxy S9,Verizon,9,2019-09-18,2019-09-01,17,False
+Galaxy S9,Verizon,9,2019-09-05,2019-08-01,35,False
+Galaxy S9,Verizon,9,2019-08-19,2019-08-01,18,False
+Galaxy S9,Verizon,9,2019-07-29,2019-07-01,28,False
+Galaxy S9,Verizon,9,2019-07-09,2019-06-01,38,False
+Galaxy S9,Verizon,9,2019-04-30,2019-04-01,29,False
+Galaxy S9,Verizon,9,2019-04-09,2019-03-01,39,False
+Galaxy S9,Verizon,9,2019-03-05,2019-02-01,32,False
+Galaxy S9,Verizon,9,2019-02-18,2019-01-01,48,False
+Galaxy S9,Verizon,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9,Verizon,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9,Verizon,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9,Verizon,8.0.0,2018-10-29,2018-10-01,28,False
+Galaxy S9,Verizon,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9,Verizon,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy A50,AT&T,9,2020-01-06,2020-01-01,5,False
+Galaxy A50,AT&T,9,2019-12-03,2019-12-01,2,False
+Galaxy A50,AT&T,9,2019-11-04,2019-11-01,3,False
+Galaxy A50,AT&T,9,2019-10-31,2019-10-01,30,False
+Galaxy A50,AT&T,9,2019-10-09,2019-10-01,8,False
+Galaxy S10+,Sprint,10,2020-01-09,2020-01-01,8,True
+Galaxy S10+,Sprint,10,2019-12-16,2019-12-01,15,True
+Galaxy S10+,Sprint,9,2019-11-01,2019-11-01,0,True
+Galaxy S10+,Sprint,9,2019-10-21,2019-10-01,20,True
+Galaxy S10+,Sprint,9,2019-09-30,2019-09-01,29,True
+Galaxy S10+,Sprint,9,2019-08-26,2019-08-01,25,True
+Galaxy S10+,Sprint,9,2019-07-29,2019-06-01,58,True
+Galaxy S10+,Sprint,9,2019-05-17,2019-05-01,16,True
+Galaxy S10+,Sprint,9,2019-04-16,2019-04-01,15,True
+Galaxy S10+,Sprint,9,2019-03-27,2019-03-01,26,True
+Galaxy S10+,Sprint,9,2019-03-02,2019-02-01,29,True
+Galaxy A20,TMobile,9,2019-12-17,2019-11-01,46,False
+Galaxy A20,TMobile,9,2019-10-29,2019-08-01,89,False
+Galaxy S9,Sprint,9,2019-12-23,2019-12-01,22,False
+Galaxy S9,Sprint,9,2019-12-02,2019-11-01,31,False
+Galaxy S9,Sprint,9,2019-11-01,2019-10-01,31,False
+Galaxy S9,Sprint,9,2019-09-18,2019-09-01,17,False
+Galaxy S9,Sprint,9,2019-09-05,2019-08-01,35,False
+Galaxy S9,Sprint,9,2019-08-19,2019-08-01,18,False
+Galaxy S9,Sprint,9,2019-07-29,2019-07-01,28,False
+Galaxy S9,Sprint,9,2019-07-09,2019-06-01,38,False
+Galaxy S9,Sprint,9,2019-04-30,2019-04-01,29,False
+Galaxy S9,Sprint,9,2019-04-09,2019-03-01,39,False
+Galaxy S9,Sprint,9,2019-03-05,2019-02-01,32,False
+Galaxy S9,Sprint,9,2019-02-18,2019-01-01,48,False
+Galaxy S9,Sprint,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9,Sprint,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9,Sprint,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9,Sprint,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9,Sprint,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9,Sprint,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy Note 10,TMobile,10,2020-01-10,2020-01-01,9,True
+Galaxy Note 10,TMobile,10,2019-12-30,2019-12-01,29,True
+Galaxy Note 10,TMobile,9,2019-11-02,2019-11-01,1,True
+Galaxy Note 10,TMobile,9,2019-11-01,2019-10-01,31,True
+Galaxy Note 10,TMobile,9,2019-10-12,2019-10-01,11,True
+Galaxy Note 10,TMobile,9,2019-09-21,2019-09-01,20,True
+Galaxy Note 10,TMobile,9,2019-08-21,2019-08-01,20,True
+Galaxy S8+,Sprint,9,2020-01-29,2020-01-01,28,False
+Galaxy S8+,Sprint,9,2019-12-23,2019-12-01,22,False
+Galaxy S8+,Sprint,9,2019-11-22,2019-11-01,21,False
+Galaxy S8+,Sprint,9,2019-11-13,2019-10-01,43,False
+Galaxy S8+,Sprint,9,2019-10-23,2019-10-01,22,False
+Galaxy S8+,Sprint,9,2019-09-30,2019-09-01,29,False
+Galaxy S8+,Sprint,9,2019-08-27,2019-08-01,26,False
+Galaxy S8+,Sprint,9,2019-07-29,2019-07-01,28,False
+Galaxy S8+,Sprint,9,2019-07-02,2019-06-01,31,False
+Galaxy S8+,Sprint,9,2019-04-25,2019-04-01,24,False
+Galaxy S8+,Sprint,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8+,Sprint,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8+,Sprint,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8+,Sprint,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8+,Sprint,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8+,Sprint,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy Note 10+,Sprint,10,2020-01-09,2020-01-01,8,True
+Galaxy Note 10+,Sprint,10,2020-01-02,2019-12-01,32,True
+Galaxy Note 10+,Sprint,9,2019-11-01,2019-11-01,0,True
+Galaxy Note 10+,Sprint,9,2019-10-28,2019-10-01,27,True
+Galaxy Note 10+,Sprint,9,2019-09-10,2019-09-01,9,True
+Galaxy Note 10+,Sprint,9,2019-08-19,2019-08-01,18,True
+Galaxy Note 10,Verizon,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10,Verizon,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10,Verizon,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10,Verizon,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10,Verizon,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10,Verizon,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10,Verizon,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10,Verizon,9,2019-08-21,2019-08-01,20,False
+Galaxy S8,TMobile,9,2019-12-23,2019-12-01,22,False
+Galaxy S8,TMobile,9,2019-11-22,2019-11-01,21,False
+Galaxy S8,TMobile,9,2019-11-13,2019-10-01,43,False
+Galaxy S8,TMobile,9,2019-10-31,2019-10-01,30,False
+Galaxy S8,TMobile,9,2019-10-02,2019-09-01,31,False
+Galaxy S8,TMobile,9,2019-07-29,2019-07-01,28,False
+Galaxy S8,TMobile,9,2019-06-03,2019-04-01,63,False
+Galaxy S8,TMobile,9,2019-04-08,2019-03-01,38,False
+Galaxy S8,TMobile,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8,TMobile,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8,TMobile,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8,TMobile,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8,TMobile,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy A50,Sprint,9,2020-01-06,2020-01-01,5,False
+Galaxy A50,Sprint,9,2019-12-03,2019-12-01,2,False
+Galaxy A50,Sprint,9,2019-11-04,2019-11-01,3,False
+Galaxy A50,Sprint,9,2019-10-31,2019-10-01,30,False
+Galaxy A50,Sprint,9,2019-10-07,2019-10-01,6,False
+Galaxy Note 10,Unbranded,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10,Unbranded,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10,Unbranded,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10,Unbranded,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10,Unbranded,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10,Unbranded,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10,Unbranded,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10,Unbranded,9,2019-08-21,2019-08-01,20,False
+Galaxy S9+,TMobile,9,2019-12-23,2019-12-01,22,False
+Galaxy S9+,TMobile,9,2019-12-06,2019-11-01,35,False
+Galaxy S9+,TMobile,9,2019-11-01,2019-10-01,31,False
+Galaxy S9+,TMobile,9,2019-10-10,2019-08-01,70,False
+Galaxy S9+,TMobile,9,2019-02-18,2019-01-01,48,False
+Galaxy S9+,TMobile,8.0.0,2019-01-08,2018-11-01,68,False
+Galaxy S9+,TMobile,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9+,TMobile,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9+,TMobile,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9+,TMobile,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy Note 10,AT&T,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10,AT&T,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10,AT&T,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10,AT&T,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10,AT&T,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10,AT&T,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10,AT&T,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10,AT&T,9,2019-08-21,2019-08-01,20,False
+Galaxy S9,Unbranded,9,2019-12-23,2019-12-01,22,False
+Galaxy S9,Unbranded,9,2019-12-02,2019-11-01,31,False
+Galaxy S9,Unbranded,9,2019-11-01,2019-10-01,31,False
+Galaxy S9,Unbranded,9,2019-09-18,2019-09-01,17,False
+Galaxy S9,Unbranded,9,2019-09-05,2019-08-01,35,False
+Galaxy S9,Unbranded,9,2019-08-19,2019-08-01,18,False
+Galaxy S9,Unbranded,9,2019-07-29,2019-07-01,28,False
+Galaxy S9,Unbranded,9,2019-07-09,2019-06-01,38,False
+Galaxy S9,Unbranded,9,2019-04-30,2019-04-01,29,False
+Galaxy S9,Unbranded,9,2019-04-09,2019-03-01,39,False
+Galaxy S9,Unbranded,9,2019-03-05,2019-02-01,32,False
+Galaxy S9,Unbranded,9,2019-02-18,2019-01-01,48,False
+Galaxy S9,Unbranded,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9,Unbranded,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9,Unbranded,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9,Unbranded,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9,Unbranded,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9,Unbranded,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy S8+,AT&T,9,2020-01-29,2020-01-01,28,False
+Galaxy S8+,AT&T,9,2019-12-23,2019-12-01,22,False
+Galaxy S8+,AT&T,9,2019-11-22,2019-11-01,21,False
+Galaxy S8+,AT&T,9,2019-11-13,2019-10-01,43,False
+Galaxy S8+,AT&T,9,2019-10-23,2019-10-01,22,False
+Galaxy S8+,AT&T,9,2019-09-30,2019-09-01,29,False
+Galaxy S8+,AT&T,9,2019-08-27,2019-08-01,26,False
+Galaxy S8+,AT&T,9,2019-07-29,2019-07-01,28,False
+Galaxy S8+,AT&T,9,2019-07-02,2019-06-01,31,False
+Galaxy S8+,AT&T,9,2019-06-03,2019-04-01,63,False
+Galaxy S8+,AT&T,9,2019-04-08,2019-03-01,38,False
+Galaxy S8+,AT&T,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8+,AT&T,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8+,AT&T,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8+,AT&T,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8+,AT&T,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8+,AT&T,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy Note 10+,TMobile,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10+,TMobile,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10+,TMobile,9,2019-12-04,2019-12-01,3,False
+Galaxy Note 10+,TMobile,9,2019-11-19,2019-11-01,18,False
+Galaxy Note 10+,TMobile,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10+,TMobile,9,2019-11-01,2019-10-01,31,False
+Galaxy Note 10+,TMobile,9,2019-10-11,2019-10-01,10,False
+Galaxy Note 10+,TMobile,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10+,TMobile,9,2019-08-21,2019-08-01,20,False
+Galaxy A20,TMobile,9,2019-12-16,2019-11-01,45,True
+Galaxy A20,TMobile,9,2019-10-14,2019-09-01,43,True
+Galaxy A20,TMobile,9,2019-09-23,2019-09-01,22,True
+Galaxy A20,TMobile,9,2019-07-23,2019-06-01,52,True
+Galaxy S8+,Unbranded,9,2020-01-29,2020-01-01,28,False
+Galaxy S8+,Unbranded,9,2019-12-23,2019-12-01,22,False
+Galaxy S8+,Unbranded,9,2019-11-22,2019-11-01,21,False
+Galaxy S8+,Unbranded,9,2019-11-13,2019-10-01,43,False
+Galaxy S8+,Unbranded,9,2019-10-23,2019-10-01,22,False
+Galaxy S8+,Unbranded,9,2019-09-30,2019-09-01,29,False
+Galaxy S8+,Unbranded,9,2019-08-27,2019-08-01,26,False
+Galaxy S8+,Unbranded,9,2019-07-29,2019-07-01,28,False
+Galaxy S8+,Unbranded,9,2019-07-02,2019-06-01,31,False
+Galaxy S8+,Unbranded,9,2019-06-03,2019-04-01,63,False
+Galaxy S8+,Unbranded,9,2019-04-08,2019-03-01,38,False
+Galaxy S8+,Unbranded,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8+,Unbranded,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8+,Unbranded,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8+,Unbranded,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8+,Unbranded,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8+,Unbranded,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy S9,AT&T,9,2019-12-23,2019-12-01,22,False
+Galaxy S9,AT&T,9,2019-12-02,2019-11-01,31,False
+Galaxy S9,AT&T,9,2019-11-01,2019-10-01,31,False
+Galaxy S9,AT&T,9,2019-09-18,2019-09-01,17,False
+Galaxy S9,AT&T,9,2019-09-05,2019-08-01,35,False
+Galaxy S9,AT&T,9,2019-08-21,2019-08-01,20,False
+Galaxy S9,AT&T,9,2019-07-29,2019-07-01,28,False
+Galaxy S9,AT&T,9,2019-07-09,2019-06-01,38,False
+Galaxy S9,AT&T,9,2019-04-30,2019-04-01,29,False
+Galaxy S9,AT&T,9,2019-04-09,2019-03-01,39,False
+Galaxy S9,AT&T,9,2019-03-05,2019-02-01,32,False
+Galaxy S9,AT&T,9,2019-02-18,2019-01-01,48,False
+Galaxy S9,AT&T,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9,AT&T,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9,AT&T,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9,AT&T,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9,AT&T,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9,AT&T,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy A50,Verizon,9,2020-01-06,2020-01-01,5,False
+Galaxy A50,Verizon,9,2019-12-03,2019-12-01,2,False
+Galaxy A50,Verizon,9,2019-11-04,2019-11-01,3,False
+Galaxy A50,Verizon,9,2019-10-31,2019-10-01,30,False
+Galaxy A50,Verizon,9,2019-10-07,2019-10-01,6,False
+Galaxy Note 10+,TMobile,10,2020-01-10,2020-01-01,9,True
+Galaxy Note 10+,TMobile,10,2019-12-30,2019-12-01,29,True
+Galaxy Note 10+,TMobile,9,2019-11-02,2019-11-01,1,True
+Galaxy Note 10+,TMobile,9,2019-11-01,2019-10-01,31,True
+Galaxy Note 10+,TMobile,9,2019-10-12,2019-10-01,11,True
+Galaxy Note 10+,TMobile,9,2019-09-21,2019-09-01,20,True
+Galaxy Note 10+,TMobile,9,2019-08-21,2019-08-01,20,True
+Galaxy Note 10+,Unbranded,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10+,Unbranded,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10+,Unbranded,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10+,Unbranded,9,2019-11-19,2019-11-01,18,False
+Galaxy Note 10+,Unbranded,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10+,Unbranded,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10+,Unbranded,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10+,Unbranded,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10+,Unbranded,9,2019-08-21,2019-08-01,20,False
+Galaxy S8+,TMobile,9,2019-12-23,2019-12-01,22,False
+Galaxy S8+,TMobile,9,2019-11-22,2019-11-01,21,False
+Galaxy S8+,TMobile,9,2019-11-13,2019-10-01,43,False
+Galaxy S8+,TMobile,9,2019-10-31,2019-10-01,30,False
+Galaxy S8+,TMobile,9,2019-10-02,2019-09-01,31,False
+Galaxy S8+,TMobile,9,2019-07-29,2019-07-01,28,False
+Galaxy S8+,TMobile,9,2019-06-03,2019-04-01,63,False
+Galaxy S8+,TMobile,9,2019-04-08,2019-03-01,38,False
+Galaxy S8+,TMobile,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8+,TMobile,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8+,TMobile,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8+,TMobile,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8+,TMobile,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy Note 10+,AT&T,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10+,AT&T,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10+,AT&T,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10+,AT&T,9,2019-11-19,2019-11-01,18,False
+Galaxy Note 10+,AT&T,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10+,AT&T,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10+,AT&T,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10+,AT&T,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10+,AT&T,9,2019-08-21,2019-08-01,20,False
+Galaxy S9,TMobile,9,2019-12-23,2019-12-01,22,False
+Galaxy S9,TMobile,9,2019-12-06,2019-11-01,35,False
+Galaxy S9,TMobile,9,2019-11-01,2019-10-01,31,False
+Galaxy S9,TMobile,9,2019-10-10,2019-08-01,70,False
+Galaxy S9,TMobile,9,2019-02-18,2019-01-01,48,False
+Galaxy S9,TMobile,8.0.0,2019-01-08,2018-11-01,68,False
+Galaxy S9,TMobile,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9,TMobile,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9,TMobile,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9,TMobile,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy A20,Verizon,9,2019-12-17,2019-11-01,46,False
+Galaxy A20,Verizon,9,2019-10-29,2019-08-01,89,False
+Galaxy Note 10,Sprint,10,2020-01-09,2020-01-01,8,True
+Galaxy Note 10,Sprint,10,2020-01-02,2019-12-01,32,True
+Galaxy Note 10,Sprint,9,2019-11-01,2019-11-01,0,True
+Galaxy Note 10,Sprint,9,2019-10-28,2019-10-01,27,True
+Galaxy Note 10,Sprint,9,2019-09-10,2019-09-01,9,True
+Galaxy Note 10,Sprint,9,2019-08-19,2019-08-01,18,True
+Galaxy S8,AT&T,9,2020-01-29,2020-01-01,28,False
+Galaxy S8,AT&T,9,2019-12-23,2019-12-01,22,False
+Galaxy S8,AT&T,9,2019-11-22,2019-11-01,21,False
+Galaxy S8,AT&T,9,2019-11-13,2019-10-01,43,False
+Galaxy S8,AT&T,9,2019-10-23,2019-10-01,22,False
+Galaxy S8,AT&T,9,2019-09-30,2019-09-01,29,False
+Galaxy S8,AT&T,9,2019-08-27,2019-08-01,26,False
+Galaxy S8,AT&T,9,2019-07-29,2019-07-01,28,False
+Galaxy S8,AT&T,9,2019-07-02,2019-06-01,31,False
+Galaxy S8,AT&T,9,2019-06-03,2019-04-01,63,False
+Galaxy S8,AT&T,9,2019-04-08,2019-03-01,38,False
+Galaxy S8,AT&T,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8,AT&T,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8,AT&T,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8,AT&T,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8,AT&T,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8,AT&T,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy A20,Sprint,9,2019-12-17,2019-11-01,46,False
+Galaxy A20,Sprint,9,2019-10-29,2019-08-01,89,False
+Galaxy S10+,TMobile,10,2020-01-13,2020-01-01,12,True
+Galaxy S10+,TMobile,10,2019-12-16,2019-12-01,15,True
+Galaxy S10+,TMobile,9,2019-11-13,2019-11-01,12,True
+Galaxy S10+,TMobile,9,2019-11-02,2019-11-01,1,True
+Galaxy S10+,TMobile,9,2019-10-28,2019-10-01,27,True
+Galaxy S10+,TMobile,9,2019-09-17,2019-09-01,16,True
+Galaxy S10+,TMobile,9,2019-08-30,2019-08-01,29,True
+Galaxy S10+,TMobile,9,2019-08-10,2019-07-01,40,True
+Galaxy S10+,TMobile,9,2019-06-28,2019-06-01,27,True
+Galaxy S10+,TMobile,9,2019-05-17,2019-05-01,16,True
+Galaxy S10+,TMobile,9,2019-05-10,2019-04-01,39,True
+Galaxy S10+,TMobile,9,2019-04-06,2019-03-01,36,True
+Galaxy S10+,TMobile,9,2019-03-06,2019-02-01,33,True
+Galaxy S9+,Unbranded,9,2019-12-23,2019-12-01,22,False
+Galaxy S9+,Unbranded,9,2019-12-02,2019-11-01,31,False
+Galaxy S9+,Unbranded,9,2019-11-01,2019-10-01,31,False
+Galaxy S9+,Unbranded,9,2019-09-18,2019-09-01,17,False
+Galaxy S9+,Unbranded,9,2019-09-05,2019-08-01,35,False
+Galaxy S9+,Unbranded,9,2019-08-19,2019-08-01,18,False
+Galaxy S9+,Unbranded,9,2019-07-29,2019-07-01,28,False
+Galaxy S9+,Unbranded,9,2019-07-09,2019-06-01,38,False
+Galaxy S9+,Unbranded,9,2019-04-30,2019-04-01,29,False
+Galaxy S9+,Unbranded,9,2019-04-09,2019-03-01,39,False
+Galaxy S9+,Unbranded,9,2019-03-05,2019-02-01,32,False
+Galaxy S9+,Unbranded,9,2019-02-18,2019-01-01,48,False
+Galaxy S9+,Unbranded,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9+,Unbranded,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9+,Unbranded,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9+,Unbranded,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9+,Unbranded,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9+,Unbranded,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy S9+,AT&T,9,2019-12-23,2019-12-01,22,False
+Galaxy S9+,AT&T,9,2019-12-02,2019-11-01,31,False
+Galaxy S9+,AT&T,9,2019-11-01,2019-10-01,31,False
+Galaxy S9+,AT&T,9,2019-09-18,2019-09-01,17,False
+Galaxy S9+,AT&T,9,2019-09-05,2019-08-01,35,False
+Galaxy S9+,AT&T,9,2019-08-21,2019-08-01,20,False
+Galaxy S9+,AT&T,9,2019-07-29,2019-07-01,28,False
+Galaxy S9+,AT&T,9,2019-07-09,2019-06-01,38,False
+Galaxy S9+,AT&T,9,2019-04-30,2019-04-01,29,False
+Galaxy S9+,AT&T,9,2019-04-09,2019-03-01,39,False
+Galaxy S9+,AT&T,9,2019-03-05,2019-02-01,32,False
+Galaxy S9+,AT&T,9,2019-02-18,2019-01-01,48,False
+Galaxy S9+,AT&T,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9+,AT&T,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9+,AT&T,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9+,AT&T,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9+,AT&T,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9+,AT&T,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy S8,Unbranded,9,2020-01-29,2020-01-01,28,False
+Galaxy S8,Unbranded,9,2019-12-23,2019-12-01,22,False
+Galaxy S8,Unbranded,9,2019-11-22,2019-11-01,21,False
+Galaxy S8,Unbranded,9,2019-11-13,2019-10-01,43,False
+Galaxy S8,Unbranded,9,2019-10-23,2019-10-01,22,False
+Galaxy S8,Unbranded,9,2019-09-30,2019-09-01,29,False
+Galaxy S8,Unbranded,9,2019-08-27,2019-08-01,26,False
+Galaxy S8,Unbranded,9,2019-07-29,2019-07-01,28,False
+Galaxy S8,Unbranded,9,2019-07-02,2019-06-01,31,False
+Galaxy S8,Unbranded,9,2019-06-03,2019-04-01,63,False
+Galaxy S8,Unbranded,9,2019-04-08,2019-03-01,38,False
+Galaxy S8,Unbranded,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8,Unbranded,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8,Unbranded,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8,Unbranded,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8,Unbranded,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8,Unbranded,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy Note 10,TMobile,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10,TMobile,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10,TMobile,9,2019-12-04,2019-12-01,3,False
+Galaxy Note 10,TMobile,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10,TMobile,9,2019-11-01,2019-10-01,31,False
+Galaxy Note 10,TMobile,9,2019-10-11,2019-10-01,10,False
+Galaxy Note 10,TMobile,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10,TMobile,9,2019-08-21,2019-08-01,20,False
+Galaxy S8,Verizon,9,2020-01-29,2020-01-01,28,False
+Galaxy S8,Verizon,9,2019-12-23,2019-12-01,22,False
+Galaxy S8,Verizon,9,2019-11-22,2019-11-01,21,False
+Galaxy S8,Verizon,9,2019-11-13,2019-10-01,43,False
+Galaxy S8,Verizon,9,2019-10-23,2019-10-01,22,False
+Galaxy S8,Verizon,9,2019-09-30,2019-09-01,29,False
+Galaxy S8,Verizon,9,2019-08-28,2019-08-01,27,False
+Galaxy S8,Verizon,9,2019-07-29,2019-07-01,28,False
+Galaxy S8,Verizon,9,2019-07-02,2019-06-01,31,False
+Galaxy S8,Verizon,9,2019-06-03,2019-04-01,63,False
+Galaxy S8,Verizon,9,2019-04-08,2019-03-01,38,False
+Galaxy S8,Verizon,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8,Verizon,8.0.0,2018-12-31,2018-12-01,30,False
+Galaxy S8,Verizon,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8,Verizon,8.0.0,2018-10-31,2018-10-01,30,False
+Galaxy S8,Verizon,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8,Verizon,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy Note 10+,Sprint,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10+,Sprint,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10+,Sprint,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10+,Sprint,9,2019-11-19,2019-11-01,18,False
+Galaxy Note 10+,Sprint,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10+,Sprint,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10+,Sprint,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10+,Sprint,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10+,Sprint,9,2019-08-21,2019-08-01,20,False
+Galaxy A20,Sprint,9,2019-12-11,2019-11-01,40,True
+Galaxy A20,Sprint,9,2019-09-23,2019-09-01,22,True
+Galaxy A20,Sprint,9,2019-07-25,2019-06-01,54,True
+Galaxy S9+,Verizon,9,2019-12-23,2019-12-01,22,False
+Galaxy S9+,Verizon,9,2019-12-02,2019-11-01,31,False
+Galaxy S9+,Verizon,9,2019-11-01,2019-10-01,31,False
+Galaxy S9+,Verizon,9,2019-09-18,2019-09-01,17,False
+Galaxy S9+,Verizon,9,2019-09-05,2019-08-01,35,False
+Galaxy S9+,Verizon,9,2019-08-19,2019-08-01,18,False
+Galaxy S9+,Verizon,9,2019-07-29,2019-07-01,28,False
+Galaxy S9+,Verizon,9,2019-07-09,2019-06-01,38,False
+Galaxy S9+,Verizon,9,2019-04-30,2019-04-01,29,False
+Galaxy S9+,Verizon,9,2019-04-09,2019-03-01,39,False
+Galaxy S9+,Verizon,9,2019-03-05,2019-02-01,32,False
+Galaxy S9+,Verizon,9,2019-02-18,2019-01-01,48,False
+Galaxy S9+,Verizon,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9+,Verizon,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9+,Verizon,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9+,Verizon,8.0.0,2018-10-29,2018-10-01,28,False
+Galaxy S9+,Verizon,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9+,Verizon,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy A20,Unbranded,9,2019-12-17,2019-11-01,46,False
+Galaxy A20,Unbranded,9,2019-10-29,2019-08-01,89,False
+Galaxy S9+,Sprint,9,2019-12-23,2019-12-01,22,False
+Galaxy S9+,Sprint,9,2019-12-02,2019-11-01,31,False
+Galaxy S9+,Sprint,9,2019-11-01,2019-10-01,31,False
+Galaxy S9+,Sprint,9,2019-09-18,2019-09-01,17,False
+Galaxy S9+,Sprint,9,2019-09-05,2019-08-01,35,False
+Galaxy S9+,Sprint,9,2019-08-19,2019-08-01,18,False
+Galaxy S9+,Sprint,9,2019-07-29,2019-07-01,28,False
+Galaxy S9+,Sprint,9,2019-07-09,2019-06-01,38,False
+Galaxy S9+,Sprint,9,2019-04-30,2019-04-01,29,False
+Galaxy S9+,Sprint,9,2019-04-09,2019-03-01,39,False
+Galaxy S9+,Sprint,9,2019-03-05,2019-02-01,32,False
+Galaxy S9+,Sprint,9,2019-02-18,2019-01-01,48,False
+Galaxy S9+,Sprint,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy S9+,Sprint,8.0.0,2018-12-07,2018-11-01,36,False
+Galaxy S9+,Sprint,8.0.0,2018-11-20,2018-11-01,19,False
+Galaxy S9+,Sprint,8.0.0,2018-11-05,2018-10-01,35,False
+Galaxy S9+,Sprint,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S9+,Sprint,8.0.0,2018-09-17,2018-08-01,47,False
+Galaxy Note 10+,Verizon,10,2020-01-06,2020-01-01,5,False
+Galaxy Note 10+,Verizon,10,2019-12-31,2019-12-01,30,False
+Galaxy Note 10+,Verizon,9,2019-12-03,2019-12-01,2,False
+Galaxy Note 10+,Verizon,9,2019-11-19,2019-11-01,18,False
+Galaxy Note 10+,Verizon,9,2019-11-02,2019-11-01,1,False
+Galaxy Note 10+,Verizon,9,2019-10-31,2019-10-01,30,False
+Galaxy Note 10+,Verizon,9,2019-10-10,2019-10-01,9,False
+Galaxy Note 10+,Verizon,9,2019-09-23,2019-09-01,22,False
+Galaxy Note 10+,Verizon,9,2019-08-21,2019-08-01,20,False
+Galaxy S8,Sprint,9,2020-01-29,2020-01-01,28,False
+Galaxy S8,Sprint,9,2019-12-23,2019-12-01,22,False
+Galaxy S8,Sprint,9,2019-11-22,2019-11-01,21,False
+Galaxy S8,Sprint,9,2019-11-13,2019-10-01,43,False
+Galaxy S8,Sprint,9,2019-10-23,2019-10-01,22,False
+Galaxy S8,Sprint,9,2019-09-30,2019-09-01,29,False
+Galaxy S8,Sprint,9,2019-08-27,2019-08-01,26,False
+Galaxy S8,Sprint,9,2019-07-29,2019-07-01,28,False
+Galaxy S8,Sprint,9,2019-07-02,2019-06-01,31,False
+Galaxy S8,Sprint,9,2019-04-25,2019-04-01,24,False
+Galaxy S8,Sprint,8.0.0,2019-03-05,2019-02-01,32,False
+Galaxy S8,Sprint,8.0.0,2019-01-02,2018-12-01,32,False
+Galaxy S8,Sprint,8.0.0,2018-12-14,2018-11-01,43,False
+Galaxy S8,Sprint,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy S8,Sprint,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy S8,Sprint,8.0.0,2018-09-04,2018-08-01,34,False
+Galaxy A50,TMobile,9,2020-01-06,2020-01-01,5,False
+Galaxy A50,TMobile,9,2019-12-03,2019-12-01,2,False
+Galaxy A50,TMobile,9,2019-11-04,2019-11-01,3,False
+Galaxy A50,TMobile,9,2019-11-01,2019-10-01,31,False
+Galaxy A50,TMobile,9,2019-10-10,2019-10-01,9,False
+Galaxy A20,AT&T,9,2019-12-17,2019-11-01,46,False
+Galaxy A20,AT&T,9,2019-10-29,2019-08-01,89,False
+Galaxy S7 edge,AT&T,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S8+,Sprint,9,2020-01-23,2020-01-01,22,True
+Galaxy S8+,Sprint,9,2019-12-30,2019-12-01,29,True
+Galaxy S8+,Sprint,9,2019-10-24,2019-10-01,23,True
+Galaxy S8+,Sprint,9,2019-09-26,2019-09-01,25,True
+Galaxy S8+,Sprint,9,2019-08-22,2019-08-01,21,True
+Galaxy S8+,Sprint,9,2019-07-29,2019-07-01,28,True
+Galaxy S8+,Sprint,9,2019-07-05,2019-06-01,34,True
+Galaxy S8+,Sprint,9,2019-05-31,2019-05-01,30,True
+Galaxy S8+,Sprint,9,2019-04-20,2019-04-01,19,True
+Galaxy S8+,Sprint,9,2019-03-25,2019-03-01,24,True
+Galaxy S8+,Sprint,8.0.0,2019-03-04,2019-02-01,31,True
+Galaxy S8+,Sprint,8.0.0,2019-01-28,2019-01-01,27,True
+Galaxy S8+,Sprint,8.0.0,2019-01-02,2018-12-01,32,True
+Galaxy S8+,Sprint,8.0.0,2018-12-03,2018-11-01,32,True
+Galaxy S8+,Sprint,8.0.0,2018-10-03,2018-10-01,2,True
+Galaxy S8+,Sprint,8.0.0,2018-08-28,2018-08-01,27,True
+Galaxy S8+,Sprint,8.0.0,2018-08-06,2018-07-01,36,True
+Galaxy S7,Sprint,8.0.0,2019-04-29,2019-03-01,59,True
+Galaxy Note9,Unbranded,10,2020-02-03,2020-01-01,33,False
+Galaxy Note9,Unbranded,9,2019-12-13,2019-12-01,12,False
+Galaxy Note9,Unbranded,9,2019-11-14,2019-11-01,13,False
+Galaxy Note9,Unbranded,9,2019-10-28,2019-10-01,27,False
+Galaxy Note9,Unbranded,9,2019-09-26,2019-09-01,25,False
+Galaxy Note9,Unbranded,9,2019-09-04,2019-08-01,34,False
+Galaxy Note9,Unbranded,9,2019-07-30,2019-07-01,29,False
+Galaxy Note9,Unbranded,9,2019-07-03,2019-06-01,32,False
+Galaxy Note9,Unbranded,9,2019-06-17,2019-05-01,47,False
+Galaxy Note9,Unbranded,9,2019-04-25,2019-04-01,24,False
+Galaxy Note9,Unbranded,9,2019-04-15,2019-03-01,45,False
+Galaxy Note9,Unbranded,9,2019-03-12,2019-02-01,39,False
+Galaxy Note9,Unbranded,8.1.0,2019-01-14,2018-12-01,44,False
+Galaxy Note9,Unbranded,8.1.0,2018-11-27,2018-11-01,26,False
+Galaxy Note9,Unbranded,8.1.0,2018-11-09,2018-10-01,39,False
+Galaxy Note9,Unbranded,8.1.0,2018-09-21,2018-09-01,20,False
+Galaxy Note9,Unbranded,8.1.0,2018-09-17,2018-08-01,47,False
+Galaxy Note9,Unbranded,8.1.0,2018-08-21,2018-08-01,20,False
+Galaxy S8,TMobile,9,2019-12-23,2019-12-01,22,True
+Galaxy S8,TMobile,9,2019-11-25,2019-11-01,24,True
+Galaxy S8,TMobile,9,2019-11-16,2019-10-01,46,True
+Galaxy S8,TMobile,9,2019-10-22,2019-10-01,21,True
+Galaxy S8,TMobile,9,2019-10-10,2019-08-01,70,True
+Galaxy S8,TMobile,9,2019-08-23,2019-08-01,22,True
+Galaxy S8,TMobile,9,2019-07-25,2019-07-01,24,True
+Galaxy S8,TMobile,9,2019-05-25,2019-04-01,54,True
+Galaxy S8,TMobile,9,2019-03-29,2019-03-01,28,True
+Galaxy S8,TMobile,8.0.0,2018-12-08,2018-11-01,37,True
+Galaxy S8,TMobile,8.0.0,2018-10-29,2018-10-01,28,True
+Galaxy S8,TMobile,8.0.0,2018-09-03,2018-08-01,33,True
+Galaxy S8,TMobile,8.0.0,2018-08-20,2018-07-01,50,True
+Galaxy Note9,AT&T,10,2020-02-03,2020-01-01,33,False
+Galaxy Note9,AT&T,9,2019-12-13,2019-12-01,12,False
+Galaxy Note9,AT&T,9,2019-11-14,2019-11-01,13,False
+Galaxy Note9,AT&T,9,2019-10-28,2019-10-01,27,False
+Galaxy Note9,AT&T,9,2019-09-26,2019-09-01,25,False
+Galaxy Note9,AT&T,9,2019-09-03,2019-08-01,33,False
+Galaxy Note9,AT&T,9,2019-08-05,2019-07-01,35,False
+Galaxy Note9,AT&T,9,2019-07-03,2019-06-01,32,False
+Galaxy Note9,AT&T,9,2019-06-17,2019-05-01,47,False
+Galaxy Note9,AT&T,9,2019-04-25,2019-04-01,24,False
+Galaxy Note9,AT&T,9,2019-04-15,2019-03-01,45,False
+Galaxy Note9,AT&T,9,2019-03-12,2019-02-01,39,False
+Galaxy Note9,AT&T,8.1.0,2019-01-14,2018-12-01,44,False
+Galaxy Note9,AT&T,8.1.0,2018-11-27,2018-11-01,26,False
+Galaxy Note9,AT&T,8.1.0,2018-11-09,2018-10-01,39,False
+Galaxy Note9,AT&T,8.1.0,2018-09-21,2018-09-01,20,False
+Galaxy Note9,AT&T,8.1.0,2018-09-17,2018-08-01,47,False
+Galaxy Note9,AT&T,8.1.0,2018-08-21,2018-08-01,20,False
+Galaxy Note9,Sprint,9,2019-12-12,2019-12-01,11,True
+Galaxy Note9,Sprint,9,2019-10-17,2019-10-01,16,True
+Galaxy Note9,Sprint,9,2019-09-30,2019-09-01,29,True
+Galaxy Note9,Sprint,9,2019-08-20,2019-08-01,19,True
+Galaxy Note9,Sprint,9,2019-08-12,2019-07-01,42,True
+Galaxy Note9,Sprint,9,2019-06-27,2019-06-01,26,True
+Galaxy Note9,Sprint,9,2019-06-17,2019-05-01,47,True
+Galaxy Note9,Sprint,9,2019-04-17,2019-04-01,16,True
+Galaxy Note9,Sprint,9,2019-03-27,2019-03-01,26,True
+Galaxy Note9,Sprint,9,2019-03-04,2019-02-01,31,True
+Galaxy Note9,Sprint,9,2019-02-04,2019-01-01,34,True
+Galaxy Note9,Sprint,8.1.0,2019-01-09,2018-12-01,39,True
+Galaxy Note9,Sprint,8.1.0,2018-11-15,2018-11-01,14,True
+Galaxy Note9,Sprint,8.1.0,2018-10-29,2018-10-01,28,True
+Galaxy Note9,Sprint,8.1.0,2018-09-19,2018-09-01,18,True
+Galaxy Note9,Sprint,8.1.0,2018-08-17,2018-08-01,16,True
+Galaxy S7 edge,Unbranded,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10+,TMobile,10,2020-01-06,2020-01-01,5,False
+Galaxy S10+,TMobile,10,2019-12-23,2019-12-01,22,False
+Galaxy S10+,TMobile,9,2019-12-06,2019-12-01,5,False
+Galaxy S10+,TMobile,9,2019-11-02,2019-11-01,1,False
+Galaxy S10+,TMobile,9,2019-10-30,2019-10-01,29,False
+Galaxy S10+,TMobile,9,2019-10-10,2019-10-01,9,False
+Galaxy S10+,TMobile,9,2019-09-20,2019-09-01,19,False
+Galaxy S10+,TMobile,9,2019-09-09,2019-08-01,39,False
+Galaxy S10+,TMobile,9,2019-08-19,2019-07-01,49,False
+Galaxy S10+,TMobile,9,2019-05-28,2019-05-01,27,False
+Galaxy S10+,TMobile,9,2019-05-14,2019-04-01,43,False
+Galaxy S10+,TMobile,9,2019-04-12,2019-03-01,42,False
+Galaxy S10+,TMobile,9,2019-03-09,2019-02-01,36,False
+Galaxy S7,TMobile,8.0.0,2019-04-03,2019-03-01,33,True
+Galaxy Note 8,TMobile,9,2020-01-31,2019-12-01,61,False
+Galaxy Note 8,TMobile,9,2019-12-23,2019-12-01,22,False
+Galaxy Note 8,TMobile,9,2019-11-28,2019-11-01,27,False
+Galaxy Note 8,TMobile,9,2019-10-23,2019-10-01,22,False
+Galaxy Note 8,TMobile,9,2019-09-30,2019-09-01,29,False
+Galaxy Note 8,TMobile,9,2019-09-10,2019-08-01,40,False
+Galaxy Note 8,TMobile,9,2019-07-29,2019-07-01,28,False
+Galaxy Note 8,TMobile,9,2019-07-02,2019-06-01,31,False
+Galaxy Note 8,TMobile,9,2019-05-24,2019-04-01,53,False
+Galaxy Note 8,TMobile,9,2019-04-08,2019-03-01,38,False
+Galaxy Note 8,TMobile,8.0.0,2019-01-14,2018-12-01,44,False
+Galaxy Note 8,TMobile,8.0.0,2018-12-11,2018-11-01,40,False
+Galaxy Note 8,TMobile,8.0.0,2018-11-09,2018-10-01,39,False
+Galaxy Note 8,TMobile,8.0.0,2018-09-27,2018-09-01,26,False
+Galaxy Note 8,TMobile,8.0.0,2018-09-07,2018-08-01,37,False
+Galaxy Note 8,TMobile,8.0.0,2018-08-31,2018-07-01,61,False
+Galaxy Note 8,TMobile,8.0.0,2018-07-25,2018-07-01,24,False
+Galaxy S9+,TMobile,9,2019-12-11,2019-12-01,10,True
+Galaxy S9+,TMobile,9,2019-10-10,2019-09-01,39,True
+Galaxy S9+,TMobile,9,2019-08-02,2019-07-01,32,True
+Galaxy S9+,TMobile,9,2019-06-14,2019-06-01,13,True
+Galaxy S9+,TMobile,9,2019-06-01,2019-05-01,31,True
+Galaxy S9+,TMobile,9,2019-04-20,2019-04-01,19,True
+Galaxy S9+,TMobile,9,2019-03-22,2019-03-01,21,True
+Galaxy S9+,TMobile,9,2019-02-13,2019-01-01,43,True
+Galaxy S9+,TMobile,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy S9+,TMobile,8.0.0,2018-11-20,2018-11-01,19,True
+Galaxy S9+,TMobile,8.0.0,2018-11-07,2018-10-01,37,True
+Galaxy S9+,TMobile,8.0.0,2018-10-22,2018-10-01,21,True
+Galaxy S9+,TMobile,8.0.0,2018-08-18,2018-08-01,17,True
+Galaxy S9+,TMobile,8.0.0,2018-08-13,2018-07-01,43,True
+Galaxy S9,Sprint,9,2019-12-12,2019-12-01,11,True
+Galaxy S9,Sprint,9,2019-09-16,2019-09-01,15,True
+Galaxy S9,Sprint,9,2019-08-22,2019-08-01,21,True
+Galaxy S9,Sprint,9,2019-08-12,2019-07-01,42,True
+Galaxy S9,Sprint,9,2019-07-08,2019-06-01,37,True
+Galaxy S9,Sprint,9,2019-04-17,2019-04-01,16,True
+Galaxy S9,Sprint,9,2019-04-08,2019-03-01,38,True
+Galaxy S9,Sprint,9,2019-02-27,2019-02-01,26,True
+Galaxy S9,Sprint,9,2019-01-31,2019-01-01,30,True
+Galaxy S9,Sprint,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy S9,Sprint,8.0.0,2018-11-17,2018-11-01,16,True
+Galaxy S9,Sprint,8.0.0,2018-11-07,2018-10-01,37,True
+Galaxy S9,Sprint,8.0.0,2018-10-19,2018-10-01,18,True
+Galaxy S9,Sprint,8.0.0,2018-09-20,2018-09-01,19,True
+Galaxy S9,Sprint,8.0.0,2018-09-17,2018-08-01,47,True
+Galaxy S9,Sprint,8.0.0,2018-08-31,2018-08-01,30,True
+Galaxy S9,Sprint,8.0.0,2018-08-06,2018-07-01,36,True
+Galaxy A50,Sprint,9,2020-01-28,2020-01-01,27,True
+Galaxy A50,Sprint,9,2019-12-23,2019-12-01,22,True
+Galaxy A50,Sprint,9,2019-12-02,2019-11-01,31,True
+Galaxy A50,Sprint,9,2019-10-21,2019-10-01,20,True
+Galaxy A50,Sprint,9,2019-06-14,2019-05-01,44,True
+Galaxy Note 8,TMobile,9,2020-01-15,2020-01-01,14,True
+Galaxy Note 8,TMobile,9,2019-12-13,2019-12-01,12,True
+Galaxy Note 8,TMobile,9,2019-12-03,2019-11-01,32,True
+Galaxy Note 8,TMobile,9,2019-10-18,2019-10-01,17,True
+Galaxy Note 8,TMobile,9,2019-09-27,2019-09-01,26,True
+Galaxy Note 8,TMobile,9,2019-09-09,2019-08-01,39,True
+Galaxy Note 8,TMobile,9,2019-07-28,2019-07-01,27,True
+Galaxy Note 8,TMobile,9,2019-06-22,2019-06-01,21,True
+Galaxy Note 8,TMobile,9,2019-05-25,2019-04-01,54,True
+Galaxy Note 8,TMobile,9,2019-04-06,2019-03-01,36,True
+Galaxy Note 8,TMobile,8.0.0,2019-02-08,2019-01-01,38,True
+Galaxy Note 8,TMobile,8.0.0,2018-12-17,2018-12-01,16,True
+Galaxy Note 8,TMobile,8.0.0,2018-11-16,2018-11-01,15,True
+Galaxy Note 8,TMobile,8.0.0,2018-10-08,2018-09-01,37,True
+Galaxy Note 8,TMobile,8.0.0,2018-08-31,2018-08-01,30,True
+Galaxy Note 8,TMobile,8.0.0,2018-08-20,2018-07-01,50,True
+Galaxy S7,TMobile,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10,TMobile,10,2020-01-06,2020-01-01,5,False
+Galaxy S10,TMobile,10,2019-12-23,2019-12-01,22,False
+Galaxy S10,TMobile,9,2019-12-06,2019-12-01,5,False
+Galaxy S10,TMobile,9,2019-11-02,2019-11-01,1,False
+Galaxy S10,TMobile,9,2019-10-30,2019-10-01,29,False
+Galaxy S10,TMobile,9,2019-10-10,2019-10-01,9,False
+Galaxy S10,TMobile,9,2019-09-20,2019-09-01,19,False
+Galaxy S10,TMobile,9,2019-09-09,2019-08-01,39,False
+Galaxy S10,TMobile,9,2019-08-19,2019-07-01,49,False
+Galaxy S10,TMobile,9,2019-05-28,2019-05-01,27,False
+Galaxy S10,TMobile,9,2019-05-14,2019-04-01,43,False
+Galaxy S10,TMobile,9,2019-04-12,2019-03-01,42,False
+Galaxy S10,TMobile,9,2019-03-09,2019-02-01,36,False
+Galaxy Note9,Sprint,10,2020-02-03,2020-01-01,33,False
+Galaxy Note9,Sprint,9,2019-12-13,2019-12-01,12,False
+Galaxy Note9,Sprint,9,2019-11-14,2019-11-01,13,False
+Galaxy Note9,Sprint,9,2019-10-28,2019-10-01,27,False
+Galaxy Note9,Sprint,9,2019-09-26,2019-09-01,25,False
+Galaxy Note9,Sprint,9,2019-09-04,2019-08-01,34,False
+Galaxy Note9,Sprint,9,2019-07-30,2019-07-01,29,False
+Galaxy Note9,Sprint,9,2019-07-03,2019-06-01,32,False
+Galaxy Note9,Sprint,9,2019-06-17,2019-05-01,47,False
+Galaxy Note9,Sprint,9,2019-04-25,2019-04-01,24,False
+Galaxy Note9,Sprint,9,2019-04-15,2019-03-01,45,False
+Galaxy Note9,Sprint,9,2019-03-12,2019-02-01,39,False
+Galaxy Note9,Sprint,8.1.0,2019-01-14,2018-12-01,44,False
+Galaxy Note9,Sprint,8.1.0,2018-11-27,2018-11-01,26,False
+Galaxy Note9,Sprint,8.1.0,2018-11-09,2018-10-01,39,False
+Galaxy Note9,Sprint,8.1.0,2018-09-21,2018-09-01,20,False
+Galaxy Note9,Sprint,8.1.0,2018-09-17,2018-08-01,47,False
+Galaxy Note9,Sprint,8.1.0,2018-08-21,2018-08-01,20,False
+Galaxy S7 edge,Sprint,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy S10,TMobile,10,2020-01-13,2020-01-01,12,True
+Galaxy S10,TMobile,10,2019-12-16,2019-12-01,15,True
+Galaxy S10,TMobile,9,2019-11-13,2019-11-01,12,True
+Galaxy S10,TMobile,9,2019-11-02,2019-11-01,1,True
+Galaxy S10,TMobile,9,2019-10-28,2019-10-01,27,True
+Galaxy S10,TMobile,9,2019-09-17,2019-09-01,16,True
+Galaxy S10,TMobile,9,2019-08-30,2019-08-01,29,True
+Galaxy S10,TMobile,9,2019-08-10,2019-07-01,40,True
+Galaxy S10,TMobile,9,2019-06-28,2019-06-01,27,True
+Galaxy S10,TMobile,9,2019-05-17,2019-05-01,16,True
+Galaxy S10,TMobile,9,2019-05-10,2019-04-01,39,True
+Galaxy S10,TMobile,9,2019-04-06,2019-03-01,36,True
+Galaxy S10,TMobile,9,2019-03-06,2019-02-01,33,True
+Galaxy S7 edge,Verizon,8.0.0,2019-04-08,2019-03-01,38,False
+Galaxy A10e,TMobile,9,2019-10-14,2019-09-01,43,True
+Galaxy A10e,TMobile,9,2019-07-22,2019-06-01,51,True
+Galaxy Note9,Verizon,10,2020-02-03,2020-01-01,33,False
+Galaxy Note9,Verizon,9,2019-12-13,2019-12-01,12,False
+Galaxy Note9,Verizon,9,2019-11-14,2019-11-01,13,False
+Galaxy Note9,Verizon,9,2019-10-28,2019-10-01,27,False
+Galaxy Note9,Verizon,9,2019-09-26,2019-09-01,25,False
+Galaxy Note9,Verizon,9,2019-09-03,2019-08-01,33,False
+Galaxy Note9,Verizon,9,2019-07-30,2019-07-01,29,False
+Galaxy Note9,Verizon,9,2019-07-03,2019-06-01,32,False
+Galaxy Note9,Verizon,9,2019-06-18,2019-05-01,48,False
+Galaxy Note9,Verizon,9,2019-04-25,2019-04-01,24,False
+Galaxy Note9,Verizon,9,2019-04-15,2019-03-01,45,False
+Galaxy Note9,Verizon,9,2019-03-12,2019-02-01,39,False
+Galaxy Note9,Verizon,8.1.0,2019-01-14,2018-12-01,44,False
+Galaxy Note9,Verizon,8.1.0,2018-11-27,2018-11-01,26,False
+Galaxy Note9,Verizon,8.1.0,2018-10-29,2018-10-01,28,False
+Galaxy Note9,Verizon,8.1.0,2018-09-21,2018-09-01,20,False
+Galaxy Note9,Verizon,8.1.0,2018-09-17,2018-08-01,47,False
+Galaxy Note9,Verizon,8.1.0,2018-08-21,2018-08-01,20,False

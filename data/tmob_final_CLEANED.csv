@@ -1,0 +1,665 @@
+Manufacture,Model,OS_version,Release_Date,Bulletin_Level,VERSION_BUILD,ENHANCEMENTS,difference,Android_Level_Guessed
+Alcatel,"3T 8""",8.1.0,2018-12-03,2018-12-01,android 8.1.0baseband version: 1atrumr1,android security updates,2,True
+Alcatel,"3T 8""",8.1.0,2019-02-22,2019-02-01,android 8.1.0baseband version: 1atyumy1,android security updates,21,True
+Alcatel,"3T 8""",8.1.0,2019-03-22,2019-03-01,android 8.1.0baseband version: 1atzumz1,android security updatesgps updates,21,True
+Alcatel,Fierce XL,5.1 ,2016-10-10,2016-10-01,android 5.1 / d7q-umq2,google security updatesoftware enhancements,9,True
+Alcatel,Fierce XL,5.1 ,2017-01-23,2017-01-01,android 5.1 / d7u-umu0,google security updatesoftware enhancements,22,True
+Alcatel,LINKZONE,,2016-10-12,2016-10-01,nan,release software version,11,True
+Alcatel,LINKZONE,,2017-10-02,2017-10-01,nan,increased time needed to hold down keys from 6 to 13 seconds to perform a master reset; will prevent accidental master resetsadded additional apn supportimproved reception in specific scenariosadded back-up and restore featureenabled auto-update feature,1,True
+Alcatel,LINKZONE,,2018-03-26,2018-03-01,nan,adds static ip supportmakes the initial text message a clickable linkadditional security and performance improvements,25,True
+Alcatel,LINKZONE,,2018-10-05,2018-10-01,nan,security update,4,True
+Alcatel,ONETOUCH Fierce 2,4.4.2,2015-11-04,2015-11-01,android version 4.4.2build number c2gumg1,improves audioresolves delayed sms,3,True
+Alcatel,ONETOUCH Fierce 2,4.4.2,2016-01-05,2016-01-01,android version 4.4.2build number c2cumc3,software stabilityminor bug fixes,4,True
+Alcatel,ONETOUCH Pixi 7,5.0.2,2015-09-14,2015-09-01,android 5.0.2build version: b2z-um0,stagefright fix,13,True
+Alcatel,ONETOUCH Pixi 7,5.0.2,2016-02-16,2016-02-01,android 5.0.2build version: b38-um0,messaging security improvements,15,True
+Alcatel,ONETOUCH Pixi 7,5.0.2,2016-10-12,2016-10-01,android 5.0.2build version: b3b-um0,google android security updatefix to restore hotspot functionality,11,True
+Alcatel,ONETOUCH Pop 7,4.2.2,2015-12-31,2015-12-01,android 4.2.2build version: aft-um2,stagefright security patch,30,True
+Alcatel,POP Astro,4.4.4,2015-10-12,2015-10-01,android version 4.4.4software version a3fumf0,messaging security improvements,11,True
+Coolpad,Catalyst,5.1.1,2017-01-05,2017-01-01,android version 5.1.1build number 139.60.161121,google security updatesminor bug fixes and system improvements,4,True
+Google,Pixel 3, 9,2019-07-26,2019-08-01,android 9.0build number: pq3a.190801.002,august security updates,-6,True
+Google,Pixel 3 XL, 9,2019-07-26,2019-08-01,android 9.0build number: pq3a.190801.002,august security updates,-6,True
+Google,Pixel 3a, 9,2019-05-30,2019-05-01,android 9.0build number: pq3b.190605.006,google security patch,29,True
+Google,Pixel 3a, 9,2019-07-26,2019-08-01,android 9.0build number: pq3b.190801.002,august security updates,-6,True
+Google,Pixel 3a XL, 9,2019-05-30,2019-05-01,android 9.0build number:pq3b.190605.006,google monthly patch,29,True
+Google,Pixel 3a XL, 9,2019-07-26,2019-08-01,android 9.0build number: pq3b.190801.002,august security updates,-6,True
+HTC,10,6.0.1,2016-07-01,2016-07-01,android version 6.0.1software version 1.81.531.1,android security update by googlecamera improvementssystem and power enhancements,0,True
+HTC,10,6.0.1,2016-09-07,2016-09-01,android version 6.0.1software version 1.81.531.4,android security update by google,6,True
+HTC,10,6.0.1,2016-10-17,2016-10-01,android version 6.0.1software version1.81.531.20,android security update by google,16,True
+HTC,10,7.0,2017-01-05,2017-01-01,android version 7.0software version 2.37.531.5,update to android n 7.0android security update by google,4,True
+HTC,10,7.0,2017-09-12,2017-09-01,android version 7.0software version 2.51.531.11,android security update by google,11,True
+HTC,10,7.0,2017-11-02,2017-11-01,android 7.0software version:2.51.531.32,google security updatesvarious bug fixes and system improvements,1,True
+HTC,Desire 530,6.0.1,2016-07-13,2016-07-01,android version 6.0.1software version 1.01.531.25,device performance enhancements,12,True
+HTC,Desire 530,6.0.1,2017-02-20,2017-02-01,android version 6.0.1software version 1.36.531.4,"enables ir94, rsu fix, domestic roaming fix, android security update",19,True
+HTC,Desire 626s,5.1,2015-11-09,2015-11-01,1.23.531.3android version 5.1,messaging security improvements (stagefright),8,True
+HTC,Desire 626s,6.0.1,2016-07-19,2016-07-01,2.17.531.1android version 6.0.1,delivers android 6.0.1,18,True
+HTC,Desire 626s,6.0.1,2017-02-07,2016-12-01,2.17.531.13android version 6.0.1,this update includes the rsu fix and updates google security version to december 2016.,68,False
+HTC,Desire 626s,6.0.1,2017-07-14,2017-07-01,android version 6.0.1software version:2.17.531.23,e911 timer fix,13,True
+HTC,Nexus 9,5.1.1,2015-08-05,2015-08-01,android 5.1.1version: lmy48i,android security update for vulnerability called libstagefright,4,True
+HTC,Nexus 9,5.1.1,2015-09-08,2015-09-01,android 5.1.1baseband version: lmy48m,security enhancementsbug fixes,7,True
+HTC,Nexus 9,6.0,2015-10-05,2015-10-01,android 6.0baseband version: mob30m,android 6.0 (marshmallow)security enhancementsbug fixes,4,True
+HTC,Nexus 9,6.0,2016-07-06,2016-07-01,android 6.0baseband version: mob30p,june/july security updates,5,True
+HTC,Nexus 9,6.0.1,2016-08-01,2016-08-01,android 6.0.1baseband version: 5.30.1700.23,august security updates,0,True
+HTC,Nexus 9,7.1.1,2016-12-16,2016-12-01,android 7.1.1,android 7.0 (nougat)december security updatesbug fixes,15,True
+HTC,Nexus 9,7.1.1,2017-01-11,2017-01-01,android 7.1.1 baseband version: 6.26.91700.06,bug fixes,10,True
+HTC,Nexus 9,7.1.1,2017-02-06,2017-02-01,android 7.1.1baseband version: 6.26.1700.17,february security updates,5,True
+HTC,Nexus 9,7.1.1,2017-09-12,2017-09-01,android 7.1.1baseband version: 6.27.1700.12,android security updates,11,True
+HTC,One LTE,5.0.2,2015-09-16,2015-09-01,android version 5.0.2baseband version: 7.18.531.35,messaging security improvements,15,True
+HTC,One M8,5.0.1,2015-09-08,2015-09-01,4.20.531.5android version 5.0.1software version 4.20.531.5,messaging security improvements,7,True
+HTC,One M9,5.1.1,2015-09-28,2015-09-01,android version 5.1.1software number: 2.11.531.19,android for workmessaging security improvements (stagefright)user experience improvements,27,True
+HTC,One M9,6.0,2016-02-16,2016-02-01,android version 6.0software number: 3.39.531.7,android version 6.0 marshmallow,15,True
+HTC,One M9,6.0,2016-09-26,2016-09-01,android version 6.0software number: 3.39.531.12,android version 6.0 marshmallow,25,True
+HTC,One M9,6.0,2016-10-17,2016-10-01,android version 6.0software number: 3.39.531.21,android security update by google,16,True
+HTC,One M9,6.0,2016-11-10,2016-11-01,android version 6.0software number: 3.39.531.31,android security update by google,9,True
+HTC,One M9,7.0,2017-03-13,2017-03-01,android version 7.0software number:4.27.531.6,android version 7.0security update for februarydata roaming issue fixed,12,True
+HTC,U11 life,8.0.0,2017-12-18,2017-12-01,android 8.0.0baseband version: 2.15.531.6,update system to android 8.0.0,17,True
+HTC,U11 life,8.0,2018-01-26,2018-01-01,android 8.0baseband version:2.15.531.11,google security updatevarious bug fixes and system improvements,25,True
+Kyocera,Hydro Wave,5.1,2016-02-17,2016-02-01,android version: 5.1software version: 2.016tc,band 12 ltevolte now availableupdated to wi-fi calling 2.0,16,True
+LG,Aristo,7.0,2017-02-13,2017-02-01,android 7.0software version m21010g,google monthly security enhancementsminor bug fixes,12,True
+LG,Aristo,7.0,2017-03-20,2017-03-01,android 7.0software version m21010h,e911 bug fixminor bug fix and software stability enhancements,19,True
+LG,Aristo,7.0,2017-05-01,2017-05-01,android 7.0software version m21010i,google monthly security updatesminor bug fixes and security enhancements,0,True
+LG,Aristo,7.0,2017-09-26,2017-09-01,android 7.0software version m21010r,maintenance release,25,True
+LG,Aristo,7.0,2017-11-02,2017-11-01,android 7.0software version m21010s,maintenance release,1,True
+LG,Aristo,7.0,2017-12-06,2017-12-01,android 7.0software version m21010t,maintenance release,5,True
+LG,Aristo,7.0,2018-01-08,2018-01-01,android 7.0software version m21010u,maintenance release,7,True
+LG,Aristo,7.0,2018-04-27,2018-04-01,android 7.0software version m21010y,april security update,26,True
+LG,Aristo,7.0,2018-07-02,2018-06-01,android 7.0software version m21010z,june security update and wfc improvements,31,True
+LG,Aristo,7.0,2018-08-25,2018-08-01,android 7.0software version m21011a,august security update,24,True
+LG,Aristo,7.0,2018-11-14,2018-10-01,android 7.0software version m21011b,october security updatevarious system improvements,44,True
+LG,Aristo,7.0,2018-12-27,2018-12-01,android 7.0software version m21011c,december security update,26,True
+LG,Aristo 2 PLUS,7.1.2,2018-06-18,2018-06-01,android version 7.1.2software version: x212ta10e,various system improvements and enhancements,17,True
+LG,Aristo 2 PLUS,7.1.2,2018-10-08,2018-10-01,android version 7.1.2software version: x212ta10j,android security updates,7,True
+LG,Aristo 2 PLUS,8.1.0,2018-12-18,2018-11-01,android version 8.1.0software version: x212ta20c,android 8.1.0november security updatesvarious system improvements,47,True
+LG,Aristo 2 PLUS,8.1.0,2019-01-18,2019-01-01,android version 8.1.0software version: x212ta20d,january security updates,17,True
+LG,Aristo 2 PLUS,8.1.0,2019-03-21,2019-03-01,android version 8.1.0software version: x212ta20e,march security updates,20,True
+LG,Aristo 2 PLUS,8.1.0,2019-05-24,2019-04-01,android version 8.1.0software version: x212ta20g,april security updates,53,True
+LG,Aristo 2 PLUS,8.1.0,2019-07-26,2019-07-01,android version 8.1.0software version: x212ta20h,july security updates,25,True
+LG,Aristo 2 PLUS,8.1.0,2019-09-30,2019-09-01,android version 8.1.0software version: x212ta20i,september security updates,29,True
+LG,Aristo 4+, 9,2019-10-22,2019-10-01,android 9.0baseband version x320ta10f, october security patch support for puerto rico time zone fix for speakerphone mute issue after screen timeout,21,True
+LG,G Flex,4.4.2,2015-10-05,2015-10-01,android version 4.4.2software version d95920t,messaging security improvements (stagefright),4,True
+LG,G Pad F 8.0,5.0.2,2015-10-05,2015-10-01,android version 5.0.2software version v49610b,messaging security improvements (stagefright),4,True
+LG,G Pad X 8.0,6.0,2016-08-15,2016-08-01,android version 6.0software version v52110c,google monthly security enhancements,14,True
+LG,G Pad X 8.0,6.0,2016-10-24,2016-10-01,android version 6.0software version v52110e,google monthly security enhancementskeyboard crash fix,23,True
+LG,G Pad X 8.0,7.0,2017-01-11,2017-01-01,android version 7.0software version v52120f,google monthly security patchupdate to android n 7.0,10,True
+LG,G Pad X 8.0,7.0,2017-02-16,2017-02-01,android 7.0software version v52120g,google monthly security patchminor software stability and bug fixes,15,True
+LG,G Pad X 8.0,7.0,2017-04-13,2017-04-01,android 7.0software version v52120h,google monthly security patchminor software stability and bug fixes,12,True
+LG,G Pad X 8.0,7.0,2017-07-07,2017-07-01,android 7.0software version v52120i,google monthly security patchminor software stability and bug fixes,6,True
+LG,G Pad X 8.0,7.0,2017-08-24,2017-08-01,android 7.0software version v52120j,google monthly security patchminor software stability and bug fixes,23,True
+LG,G Pad X 8.0,7.0,2017-10-31,2017-10-01,android 7.0software version v52120k,google monthly security patchminor software stability and bug fixes,30,True
+LG,G Pad X 8.0,7.0,2017-12-20,2017-12-01,android 7.0software version v52120l,google monthly security patchminor software stability and bug fixes,19,True
+LG,G Pad X 8.0,7.0,2018-02-23,2018-02-01,android 7.0software version v52120m,android security update,22,True
+LG,G Pad X 8.0,7.0,2018-04-30,2018-04-01,android 7.0software version v52120n,april security update,29,True
+LG,G Stylo,5.1.1,2015-08-19,2015-08-01,android version 5.1.1software version h63110i,messaging security improvementsuser experience improvements,18,True
+LG,G Stylo,5.1.1,2015-09-28,2015-09-01,android version 5.1.1software version h63110j,messaging security improvementsuser experience improvements,27,True
+LG,G Stylo,5.1.1,2016-01-28,2016-01-01,android version 5.1.1software version h63110l,wi-fi calling improvements,27,True
+LG,G Stylo,6.0,2016-03-07,2016-03-01,android version 6.0software version h63120b,android marshmallowadvanced messagingt-mobile video calling,6,True
+LG,G Stylo,6.0,2016-08-08,2016-08-01,android version 6.0software version h63120c,google security enhancementssoftware stability fixes,7,True
+LG,G Stylo,6.0,2016-09-12,2016-09-01,android version 6.0software version h63120g,email user interface changesgoogle security enhancementssoftware stability fixes,11,True
+LG,G Stylo,6.0,2016-11-09,2016-11-01,android version 6.0software version h63120i,google security enhancementssoftware stability fixes,8,True
+LG,G Stylo,6.0,2017-01-11,2017-01-01,android version 6.0software version h63120j,google monthly security enhancements,10,True
+LG,G Stylo,6.0,2017-02-24,2017-02-01,android 6.0software version h63120k,google monthly security enhancements,23,True
+LG,G Stylo,6.0,2017-05-24,2017-05-01,android 6.0software version h63120o,google monthly security updatee911 timer fixvarious bug fixes and software stability improvements,23,True
+LG,G3,5.0.1,2015-10-05,2015-10-01,android version 5.0.1software version: d85120g,messaging security improvements (stagefright),4,True
+LG,G3,6.0,2016-05-02,2016-05-01,android version 6.0software version: d85130d,android marshmallowwi-fi calling improvements,1,True
+LG,G3,6.0.1,2016-08-08,2016-08-01,android 6.0.1software version: d85130e,google security enhancementssoftware stability,7,True
+LG,G3,6.0.1,2017-07-05,2017-07-01,android 6.0.1software version d85130g,2g/3g data roaming fixgoogle monthly security patchlg app fixsoftware stability and software improvements,4,True
+LG,G5,6.0.1,2016-07-27,2016-07-01,android version 6.0.1software version h83010d,google security patcht-mobile app upgradefixed read notifications in group chatfixed bluetooth connectivity issuescamera bug fixesadvanced messaging issues fixedother various bug fixes,26,True
+LG,G5,6.0.1,2016-09-19,2016-09-01,android version 6.0.1software version h83010i,email app updates,18,True
+LG,G5,6.0.1,2016-10-31,2016-10-01,android version 6.0.1software version h83010j,google security update / cpc disabled,30,True
+LG,G5,7.0,2016-11-30,2016-11-01,android 7.0software version h83020a,os update to android 7.0echo locate addedgoogle security update,29,True
+LG,G5,7.0,2017-01-17,2017-01-01,android 7.0software version h83020c,google's monthly security update,16,True
+LG,G5,7.0,2017-03-27,2017-03-01,android 7.0software version h83020f,e911 timer bug fixsoftware stability and security enhancements,26,True
+LG,G5,7.0,2017-05-22,2017-05-01,android 7.0software version hh83020i,google monthly security updatesoftware stability and bug fixes,21,True
+LG,G5,7.0,2017-08-07,2017-08-01,android 7.0software version h83020k,google monthly security updatesoftware stability and bug fixes,6,True
+LG,G5,7.0,2017-10-03,2017-10-01,android 7.0software version h83020l,google monthly security updatesoftware stability and bug fixes,2,True
+LG,G5,7.0,2017-12-21,2017-12-01,android 7.0software version h83020n,google monthly security updatesoftware stability and bug fixes,20,True
+LG,G5,7.0,2018-02-21,2018-02-01,android 7.0software version h83020o,google monthly security update,20,True
+LG,G5,8.0.0,2018-09-25,2018-09-01,android 8.0.0software version h83030c,android o os updategoogle monthly security updatevarious system improvements,24,True
+LG,G6,7.0,2017-04-07,2017-04-01,android 7.0software version h87210e,e911 timer fixvarious bug fixes and security improvements,6,True
+LG,G6,7.0,2017-05-15,2017-05-01,android 7.0software version h87210h,google's monthly security updatesoftware stability and bug fixes,14,True
+LG,G6,7.0,2017-07-24,2017-07-01,android version 7.0software version h87210o,software stability and bug fixes,23,True
+LG,G6,7.0,2017-09-06,2017-09-01,android version 7.0software version h87210p,software stability and bug fixes,5,True
+LG,G6,7.0,2017-10-21,2017-10-01,android version 7.0software version h87210q,software stability and bug fixes,20,True
+LG,G6,7.0,2017-12-07,2017-12-01,android version 7.0software version h87211e,"adds digits built-in experience, face recognition, and real time texting (rtt)software stability and bug fixes",6,True
+LG,G6,7.0,2018-01-09,2018-01-01,android version 7.0software version h87211g,software stability and bug fixes,8,True
+LG,G6,7.0,2018-05-19,2018-05-01,android version 7.0software version h87211h,android security update,18,True
+LG,G6,8.0,2018-06-29,2018-06-01,android version 8.0software version h87220a,android o (oreo) software updatevarious bug fixes and software improvements,28,True
+LG,G6,8.0.0,2018-10-18,2018-08-01,android version 8.0.0software version h87220d,august security updatevarious bug fixes and software improvements,78,True
+LG,G6,8.0.0,2018-11-02,2018-10-01,android version 8.0.0software version h87220e,october security update,32,True
+LG,G6,8.0.0,2018-11-30,2018-11-01,android version 8.0.0software version h87220f,november security update,29,True
+LG,G6,8.0.0,2019-01-25,2019-01-01,android version 8.0.0software version h87220g,january security update,24,True
+LG,G7 ThinQ,8.0,2018-06-01,2018-06-01,android 8.0software version:g710tm10d,out of box mandatory software updateprovides various bug fixes and system improvements,0,True
+LG,G7 ThinQ,8.0,2018-07-11,2018-07-01,android 8.0software version:g710tm10g,july security updateprovides various bug fixes and system improvements,10,True
+LG,G7 ThinQ,8.0,2018-10-03,2018-10-01,android 8.0software version:g710tm10k,google security updateprovides various bug fixes and system improvements,2,True
+LG,G7 ThinQ,8.0,2018-12-11,2018-11-01,android 8.0software version:g710tm10n,november security update,40,True
+LG,G7 ThinQ,8.0,2019-02-20,2019-02-01,android 8.0software version:g710tm10o,february security update,19,True
+LG,G7 ThinQ,8.0,2019-05-18,2019-04-01,android 8.0software version:g710tm10p,april security update,47,True
+LG,G7 ThinQ, 9,2019-07-08,2019-05-01,android 9.0software version:g710tm20c,android 9.0wi-fi calling set to 'cellular preferred'may security update,68,True
+LG,G7 ThinQ, 9,2019-07-30,2019-07-01,android 9.0software version:g710tm20d,july security update,29,True
+LG,G7 ThinQ, 9,2019-09-30,2019-09-01,android 9.0software version:g710tm20e,september security update,29,True
+LG,G7 ThinQ, 9,2019-11-24,2019-11-01,android 9.0software version:g710tm20f,november security update,23,True
+LG,G8 ThinQ, 9,2019-09-28,2019-09-01,android 9.0software version:g820tm10o,september security update,27,True
+LG,G8 ThinQ, 9,2019-11-05,2019-10-01,android 9.0software version:g820tm10p,october security update,35,True
+LG,K10,6.0.1,2016-06-10,2016-06-01,android 6.0.1software version k42810b,google security improvements,9,True
+LG,K10,6.0.1,2016-09-28,2016-09-01,android 6.0.1software version k42810d,google security improvements,27,True
+LG,K10,6.0.1,2016-11-21,2016-11-01,android 6.0.1software version k42810f,google security improvements,20,True
+LG,K10,6.0.1,2017-01-30,2017-01-01,android 6.0.1software version k42810g,google security improvementssoftware stability and minor bug fixes,29,True
+LG,K10,6.0.1,2017-03-27,2017-03-01,android 6.0.1software version k42810h,google security improvementssoftware stability and minor bug fixes,26,True
+LG,K10,7.0,2017-07-05,2017-07-01,android 7.0software version k42820f,android nougat 7.0software stability and bug fixes,4,True
+LG,K10,7.0,2017-09-27,2017-09-01,android 7.0software version k42820g,google security improvements,26,True
+LG,K10,7.0,2017-11-28,2017-11-01,android 7.0software version k42820h,google security improvements,27,True
+LG,K10,7.0,2018-01-24,2018-01-01,android 7.0software version k42820i,google security improvements,23,True
+LG,K10,7.0,2018-03-26,2018-03-01,android 7.0software version k42820j,android security updates,25,True
+LG,K10,7.0,2018-04-27,2018-04-01,android 7.0software version k42820k,android security updates,26,True
+LG,K10,8.0,2018-06-29,2018-06-01,android 8.0software version k42820l,android security updates,28,True
+LG,K20 Plus,7.0,2017-03-24,2017-03-01,android version 7.0software version tp26010k,e911 timer bug fixminor software stability and improvements,23,True
+LG,K20 Plus,7.0,2017-08-31,2017-08-01,android version 7.0software version tp26010s,google monthly security updatesvarious bug fixes and software stability improvements,30,True
+LG,K20 Plus,7.0,2017-11-06,2017-11-01,android version 7.0software version tp26010u,google monthly security updatesvarious bug fixes and software stability improvements,5,True
+LG,K20 Plus,7.0,2018-03-05,2018-03-01,android version 7.0software version tp26010y,google monthly security updates,4,True
+LG,K20 Plus,7.0,2018-04-30,2018-04-01,android version 7.0software version tp26011b,april security updates,29,True
+LG,K20 Plus,7.0,2018-08-30,2018-08-01,android version 7.0software version tp26011f,google security updates,29,True
+LG,K20 Plus,7.0,2018-11-30,2018-10-01,android version 7.0software version tp26011j,october security updates,60,True
+LG,K20 Plus,7.0,2018-12-27,2018-12-01,android version 7.0software version tp26011l,december security updates,26,True
+LG,K30,7.1.2,2018-06-15,2018-06-01,android version 7.1.2software version: x410tk10f,various bug fixes and improvements,14,True
+LG,K30,7.1.2,2018-07-27,2018-07-01,android version 7.1.2software version: x410tk10g,google security updates,26,True
+LG,K30,7.1.2,2018-09-25,2018-08-01,android version 7.1.2software version: x410tk10j,august google security updates,55,True
+LG,K30,7.1.2,2018-10-27,2018-10-01,android version 7.1.2software version: x410tk10k,october security updates,26,True
+LG,K30,8.1,2018-12-04,2018-11-01,android version 8.1software version: x410tk20b,android 8.0november security updates,33,True
+LG,K30,8.1,2019-02-06,2019-01-01,android version 8.1software version: x410tk20c,january security updates,36,True
+LG,K30,8.1,2019-03-27,2019-03-01,android version 8.1software version: x410tk20d,march security updates,26,True
+LG,K30,8.1,2019-05-29,2019-05-01,android version 8.1software version: x410tk20e,may security updates,28,True
+LG,K30,8.1,2019-07-30,2019-07-01,android version 8.1software version: x410tk20f,july security updates,29,True
+LG,K30,8.1,2019-10-11,2019-09-01,android version 8.1software version: x410tk20g,september security updates,40,True
+LG,K30,8.1,2019-11-05,2019-10-01,android version 8.1software version: x410tk20i,october security updates,35,True
+LG,K40, 9,2019-10-25,2019-10-01,android 9.0build number: x420tm10c,october security updates,24,True
+LG,Leon LTE,5.1.1,2015-09-21,2015-09-01,android version 5.1.1software version h34510f,messaging security improvements,20,True
+LG,Leon LTE,5.1.1,2016-01-18,2016-01-01,android version 5.1.1software versionh34510g,wi-fi calling improvements,17,True
+LG,Leon LTE,5.1.1,2016-03-11,2016-03-01,android version 5.1.1software version h34510h,google security enhancements,10,True
+LG,Leon LTE,5.1.1,2016-07-27,2016-07-01,android version 5.1.1software version h34510i,google security enhancements,26,True
+LG,Leon LTE,5.1.1,2017-01-03,2017-01-01,android 5.1.1software version h34510k,google security enhancements,2,True
+LG,Leon LTE,5.1.1,2017-03-06,2017-03-01,android 5.1.1software version h34510l,google security enhancements,5,True
+LG,Leon LTE,5.1.1,2017-07-24,2017-07-01,android 5.1.1software version h34510p,google security enhancements,23,True
+LG,Nexus 5,6.0.1,2016-11-22,2016-11-01,android version 6.0.1 / software version m4b30z,security updates,21,True
+LG,Optimus L90,5.0.2,2015-10-06,2015-10-01,android version 5.0.2build number d41520c,messaging security improvements (stagefright),5,True
+LG,Optimus L90,5.0.2,2017-01-23,2017-01-01,android 5.0.2buid number d41520f,google monthly security updateminor bug fixes and security enhancements,22,True
+LG,Q7+,8.1.0,2018-09-17,2018-08-01,android 8.1.0software version:q610ta10h,august security update,47,True
+LG,Q7+,8.1.0,2018-10-23,2018-09-01,android 8.1.0software version:q610ta10j,september security update,52,True
+LG,Q7+,8.1.0,2019-01-25,2019-01-01,android 8.1.0software version:q610ta10l,january security update,24,True
+LG,Q7+,8.1.0,2019-03-20,2019-03-01,android 8.1.0software version:q610ta10m,march security update,19,True
+LG,Q7+,8.1.0,2019-06-25,2019-06-01,android 8.1.0software version:q610ta10r,june security update,24,True
+LG,Q7+,8.1.0,2019-08-30,2019-08-01,android 8.1.0software version:q610ta10s,august security update,29,True
+LG,Q7+, 9,2019-10-22,2019-09-01,android 9.0software version:q610ta20a,android 9.0 pie updateseptember security update,51,True
+LG,Stylo 2 PLUS,6.0.1,2016-09-19,2016-09-01,android version 6.0.1software version k55010i,email app updates,18,True
+LG,Stylo 2 PLUS,6.0.1,2017-02-20,2017-02-01,android version 6.0.1software version k55010p,software stability and bug fixesgoogle monthly security patch,19,True
+LG,Stylo 2 PLUS,6.0.1,2017-03-23,2017-03-01,android version 6.0.1software version k55010r,e911 timer bug fixminor software stability and improvements,22,True
+LG,Stylo 2 PLUS,7.0,2017-05-15,2017-05-01,android version 7.0software version k55020a,update to android 7.0various bug fixes and software stability improvements,14,True
+LG,Stylo 2 PLUS,7.0,2017-09-06,2017-09-01,android version 7.0software version k55020b,google security updatesvarious bug fixes and software stability improvements,5,True
+LG,Stylo 2 PLUS,7.0,2017-10-30,2017-10-01,android version 7.0software version k55020c,google security updatesvarious bug fixes and software stability improvements,29,True
+LG,Stylo 2 PLUS,7.0,2017-12-21,2017-12-01,android version 7.0software version k55020d,google security updatesvarious bug fixes and software stability improvements,20,True
+LG,Stylo 2 PLUS,7.0,2018-05-01,2018-04-01,android version 7.0software version k55020f,april security updates,30,True
+LG,Stylo 2 PLUS,7.0,2019-05-07,2019-01-01,android version 7.0software version k55020m,january security updatese911 updates,126,True
+LG,Stylo 3 Plus,7.0,2017-09-14,2017-09-01,android 7.0software versiontp45010c,"security updates, screen brightness, 403 error",13,True
+LG,Stylo 3 Plus,7.0,2017-10-31,2017-10-01,android 7.0software versiontp45010d,android security update,30,True
+LG,Stylo 3 Plus,7.0,2017-12-21,2017-12-01,android 7.0software versiontp45010e,android security update,20,True
+LG,Stylo 3 Plus,7.0,2018-02-23,2018-02-01,android 7.0software versiontp45010f,android security updates,22,True
+LG,Stylo 3 Plus,7.0,2018-04-16,2018-04-01,android 7.0software version: tp45010g,android security updates,15,True
+LG,Stylo 3 Plus,7.0,2018-06-25,2018-06-01,android 7.0software version: tp45010i,provides various bug fixes and system improvements,24,True
+LG,Stylo 3 Plus,7.0,2018-09-06,2018-09-01,android 7.0software version: tp45010j,provides various bug fixes and system improvements,5,True
+LG,Stylo 3 Plus,7.0,2019-03-02,2019-02-01,android 7.0software version: tp45010m,february security updates,29,True
+LG,Stylo 4,8.1,2018-09-21,2018-08-01,android 8.1software version: q710ts10i,august security update,51,True
+LG,Stylo 4,8.1,2018-11-02,2018-10-01,android 8.1software version: q710ts10j,october security update,32,True
+LG,Stylo 4,8.1,2019-01-25,2019-01-01,android 8.1software version: q710ts10k,january security update,24,True
+LG,Stylo 4,8.1,2019-02-15,2019-02-01,android 8.1software version: q710ts11c,february security updateacustic audio improvements,14,True
+LG,Stylo 4,8.1,2019-03-30,2019-03-01,android 8.1software version: q710ts11d,march security update,29,True
+LG,Stylo 4,8.1,2019-05-22,2019-04-01,android 8.1software version: q710ts11e,april security update,51,True
+LG,Stylo 4,8.1,2019-07-16,2019-06-01,android 8.1software version: q710ts11h,june security updatevolte setting updateadd google one,45,True
+LG,Stylo 4,8.1,2019-08-24,2019-08-01,android 8.1software version: q710ts11i,august security update,23,True
+LG,Stylo 4,8.1,2019-10-24,2019-10-01,android 8.1software version: q710ts11j,october security update,23,True
+LG,Stylo 5, 9,2019-11-11,2019-10-01,android 9.0software version:q720ts10c,october security update,41,True
+LG,V10,6.0,2016-04-11,2016-04-01,android version 6.0software version h90120e,android marshmallowadvanced messagingt-mobile video calling,10,True
+LG,V10,6.0.1,2016-08-08,2016-08-01,android 6.0.1software version h90120j,google security updatessoftware stability,7,True
+LG,V10,6.0.1,2016-10-24,2016-10-01,android 6.0.1software version h90120l,ringback tone bug fixsecurity improvements,23,True
+LG,V10,7.0,2017-07-19,2017-07-01,android 7.0software version h90130b,update to android 7.0 (nougat)e911 timer fixgoogle software and stability fixes,18,True
+LG,V10,7.0,2017-09-27,2017-09-01,android 7.0software version h90130c,google security updatessoftware stability,26,True
+LG,V10,7.0,2018-06-29,2018-06-01,android 7.0software version h90130d,google security updatessoftware stability,28,True
+LG,V20,7.0,2017-01-17,2017-01-01,android 7.0software version h91810j,google's monthly security updateandroid pay fix,16,True
+LG,V20,7.0,2017-05-25,2017-05-01,android 7.0software version h91810k,google monthly security updatee911 timer fixvarious bug fixes and software stability improvements,24,True
+LG,V20,7.0,2017-08-07,2017-08-01,android 7.0software version h91810p,google monthly security updatevarious bug fixes and software improvements,6,True
+LG,V20,7.0,2017-09-28,2017-09-01,android 7.0software version h91810q,google monthly security updatevarious bug fixes and software improvements,27,True
+LG,V20,7.0,2017-12-05,2017-12-01,android 7.0software version h91810r,google monthly security updatevarious bug fixes and software improvements,4,True
+LG,V20,7.0,2018-01-31,2018-01-01,android 7.0software version h91810s,security update,30,True
+LG,V20,7.0,2018-04-02,2018-03-01,android 7.0software version h91810t,march security update,32,True
+LG,V20,7.0,2018-06-06,2018-05-01,android 7.0software version h91810u,may security update,36,True
+LG,V20,8.0.0,2018-09-28,2018-09-01,android 8.0.0software version h91820f,android o os updategoogle monthly security updatevarious system improvements,27,True
+LG,V20,8.0.0,2018-10-26,2018-10-01,android 8.0.0software version h91820g,october security update,25,True
+LG,V20,8.0.0,2018-11-30,2018-11-01,android 8.0.0software version h91820h,november security update,29,True
+LG,V30/V30+,7.1.2,2017-11-03,2017-10-01,android 7.1.2software version: h93210c,update patch level to october 2017 and driver update to distinguish between v30 and v30+.,33,False
+LG,V30/V30+,7.1.2,2018-01-31,2018-01-01,android 7.1.2software version: h93210d,security update,30,True
+LG,V30/V30+,8.0.0,2018-05-29,2018-05-01,android 8.0.0software version: h93220h,android 8.0 update,28,True
+LG,V30/V30+,8.0.0,2018-06-25,2018-06-01,android 8.0.0software version: h93220j,provides various bug fixes and system improvements,24,True
+LG,V30/V30+,8.0.0,2018-08-29,2018-08-01,android 8.0.0software version: h93220k,august security update,28,True
+LG,V30/V30+,8.0.0,2018-10-30,2018-10-01,android 8.0.0software version: h93220o,october security update,29,True
+LG,V30/V30+,8.0.0,2018-12-04,2018-11-01,android 8.0.0software version: h93220p,november security update,33,True
+LG,V30/V30+,8.0.0,2019-02-24,2019-01-01,android 8.0.0software version: h93220r,"january security update, messaging app improvements, and various system improvements.",54,True
+LG,V30/V30+,8.0.0,2019-03-21,2019-03-01,android 8.0.0software version: h93220s,march security update.,20,True
+LG,V30/V30+, 9,2019-10-08,2019-08-01,android 9.0software version: h93230d,upgrade to android 9.0 (pie)august security update,68,True
+LG,V40 ThinQ,8.1.0,2018-11-05,2018-11-01,android 8.1.0software version:v40511c,camera improvementsvarious system updates,4,True
+LG,V40 ThinQ,8.1.0,2018-12-27,2018-12-01,android 8.1.0software version:v40511d,google security updates,26,True
+LG,V40 ThinQ,8.1.0,2019-02-26,2019-02-01,android 8.1.0software version:v40511e,february security updates,25,True
+LG,V40 ThinQ, 9,2019-06-19,2019-06-01,android 9.0software version:v40520g,android 9.0improved open group chatwi-fi calling default setting change,18,True
+LG,V40 ThinQ, 9,2019-07-26,2019-07-01,android 9.0software version:v405ta20h,july security updates,25,True
+LG,V40 ThinQ, 9,2019-10-01,2019-09-01,android 9.0software version:v405ta20i,september security updates,30,True
+LG,V40 ThinQ, 9,2019-11-09,2019-10-01,android 9.0software version:v405ta20j,october security updates,39,True
+Motorola,E 4th Generation,7.1.1,2018-05-31,2018-05-01,android 7.1.1baseband version:ncqs26.69-64-6,google security updatesvarious bug fixes and system improvements,30,True
+Motorola,Nexus 6,5.1.1,2015-08-05,2015-08-01,android version 5.1.1build number lmy48j,stagefright security enhancements,4,True
+Motorola,Nexus 6,5.1.1,2015-09-08,2015-09-01,android version 5.1.1build number lyz28k,security enhancementsbug fixes,7,True
+Motorola,Nexus 6,6.0,2015-10-05,2015-10-01,android version 6.0build number mra58k,exercise greater control over app permissionspurchase easily and securely with fingerprint support and android payexperience enhanced  battery-life through dozeredesigned app drawer,4,True
+Motorola,Nexus 6,6.0,2015-11-20,2015-11-01,android version 6.0build number mra58x,exercise greater control over app permissionspurchase easily and securely with fingerprint support and android payexperience enhanced  battery-life through dozeredesigned app drawer,19,True
+Motorola,Nexus 6,6.0.1,2015-12-14,2015-12-01,android version 6.0.1build number mmb29k,security enhancementsbug fixes,13,True
+Motorola,moto G7 power, 9,2019-08-01,2019-08-01,android 9 piebuild number: pco29.114-134,camera and messaging improvements ,0,True
+Motorola,moto z2 force edition,7.1.1,2017-11-13,2017-11-01,android 7.1.1build number: ncx26.7,security updates,12,True
+Motorola,moto z2 force edition,8.0.0,2017-12-22,2017-12-01,android 8.0.0build number: ocx27,update to android 8.0,21,True
+Motorola,moto z2 force edition,8.0,2018-04-23,2018-04-01,android 8.0build number: ocx27.1.2,google security updatesvarious bug fixes and system improvements,22,True
+Motorola,moto z2 force edition,8.0,2018-07-06,2018-07-01,android 8.0build number: ocx27.1.3,google security updatesvarious bug fixes and system improvements,5,True
+Motorola,moto z2 force edition,8.0,2018-11-29,2018-11-01,android 8.0build number: ocx27.1.4,google security updatesvarious bug fixes and system improvements,28,True
+Motorola,moto z2 force edition,8.0,2019-02-15,2019-02-01,android 8.0build number: ocx27.1.5,security patch,14,True
+Motorola,moto z2 force edition,8.0,2019-07-26,2019-07-01,android 8.0build number: ocx27.1.7,security patch,25,True
+OnePlus,6T, 9,2018-11-20,2018-11-01,android 9.0build number:a6013_34_181029,google monthly security updatesvarious bug fixes and system improvements,19,True
+OnePlus,6T, 9,2019-01-03,2019-01-01,android 9.0build number:a6013_34_181228,enables support for additional domestic roaming partners,2,True
+OnePlus,6T, 9,2019-03-09,2019-03-01,android 9.0build number:a6013_34_190217,ir94 video calling addedrcs messaging addedvarious bug fixes and system improvements,8,True
+OnePlus,6T, 9,2019-06-28,2019-04-01,android 9.0build number:a6013_34_190612,rcs bug fixesbug fixesghoogle security update for april 2019,88,False
+OnePlus,7 Pro, 9,2019-03-09,2019-03-01,android 9.0build number:oxygen os 9.5.5.gm31cb,ir94 video calling addedrcs messaging addedvarious bug fixes and system improvements,8,True
+OnePlus,7 Pro, 9,2019-06-14,2019-05-01,android 9.0build number:oxygen os 9.5.7.gm31cb,rcs enhancementscamera hdr and night scene improvementsmay 2019 security updatesvarious bug fixes and system improvements,44,False
+OnePlus,7 Pro, 9,2019-06-20,2019-06-01,android 9.0,june 2019 security updates,19,False
+Other,Nexus 7 2013 LTE,5.1.1,2015-09-08,2015-09-01,android 5.1.1version: lmy48p,security enhancementsbug fixes,7,True
+Other,Nexus 7 2013 LTE,6.0,2015-10-05,2015-10-01,android 6.0baseband version: mra58k,android 6.0 (marshmallow)exercise greater control over app permissionspurchase easily and securely with fingerprint support and android payexperience enhanced  battery-life through dozeredesigned app drawer,4,True
+Other,Nexus 7 2013 LTE,6.0,2016-01-11,2016-01-01,android 6.0baseband version: mmb29o,security enhancementsbug fixes,10,True
+Other,Nexus 7 2013 LTE,6.0,2016-02-08,2016-02-01,android 6.0baseband version: mmb29q,security enhancements,7,True
+Samsung,Galaxy A10e, 9,2019-07-21,2019-07-01,android 9.0baseband version:a102usqu1asfi,agps optimization (ueb),20,True
+Samsung,Galaxy A10e, 9,2019-10-13,2019-09-01,android 9.0baseband version:a102usqu2asi7,september security patch and other fixes,42,True
+Samsung,Galaxy A10e, 9,2019-11-23,2019-11-01,android 9.0baseband version:a102usqs4ask4,november security patch,22,True
+Samsung,Galaxy A20, 9,2019-09-22,2019-09-01,android 9.0baseband version:a205usqu2asi2,"addresses ue-b only, wfc plani fix",21,True
+Samsung,Galaxy A20, 9,2019-12-15,2019-11-01,android 9.0baseband version:a205usqu3ask1,november security patchmessaging app fixcamera fixes,44,True
+Samsung,Galaxy A6, 9,2018-05-24,2019-04-01,android version: 9.0baseband version:a600tuvu1bsd3,android 9.0 updateapril 2019 security updatesupport for ca 66b and 71b,-312,False
+Samsung,Galaxy A6, 9,2019-11-10,2019-09-01,android version: 9.0baseband version:a600tuvu2bsi4,september security patch stringrcs and wifi calling enhancementsother fixes,70,True
+Samsung,Galaxy Avant,4.4.2,2015-09-08,2015-09-01,android version 4.4.2baseband version g386tuvu1aoh3,messaging security improvements,7,True
+Samsung,Galaxy Avant,4.4.2,2017-02-15,2017-02-01,android version 4.4.2baseband version g386tuvs1aqa1,android security updates,14,True
+Samsung,Galaxy Avant,4.4.2,2017-05-02,2017-05-01,android version 4.4.2baseband version g386tuvu1aqd2,various system improvements,1,True
+Samsung,Galaxy Core Prime,5.1.1,2015-08-17,2015-08-01,android version 5.1.1baseband g360tuvu1aof9,stagefright fix,16,True
+Samsung,Galaxy Core Prime,5.1.1,2016-07-23,2016-07-01,android version 5.1.1baseband g360t1uvu1apg2,stagefright fix,22,True
+Samsung,Galaxy Core Prime,5.1.1,2016-12-21,2016-12-01,android version 5.1.1baseband g360tuvs2apk3,"december security updates, domestic data roaming improvements",20,True
+Samsung,Galaxy Core Prime,5.1.1,2017-02-20,2017-01-01,android version 5.1.1baseband g360tuvs2aqa2,"january security updates, domestic data roaming improvements",50,True
+Samsung,Galaxy Core Prime,5.1.1,2017-04-14,2017-04-01,android version 5.1.1baseband g360tuvu2aqd1,various system improvements,13,True
+Samsung,Galaxy GRAND Prime,5.1.1,2015-08-17,2015-08-01,androidversion 5.1.1baseband version: g530tuvu1aof8,improvement: stagefright fix,16,True
+Samsung,Galaxy GRAND Prime,5.1.1,2016-07-25,2016-07-01,androidversion 5.1.1baseband version: g530tuvu1apg1,"improvement: security fixes, asrvcc and samsung post launch",24,True
+Samsung,Galaxy GRAND Prime,5.1.1,2016-12-21,2016-12-01,androidversion 5.1.1baseband version: g530tuvs2apk2,"december security updates, domestic data roaming improvements",20,True
+Samsung,Galaxy GRAND Prime,5.1.1,2017-02-27,2017-02-01,androidversion 5.1.1baseband version: g530tuvs2aqa2,android security updates,26,True
+Samsung,Galaxy GRAND Prime,5.1.1,2017-04-14,2017-04-01,androidversion 5.1.1baseband version: g530tuvu2aqd1,various system improvements,13,True
+Samsung,Galaxy GRAND Prime,5.1.1,2017-06-08,2017-05-01,androidversion 5.1.1baseband version: g530tuvu2aqe3,may security updates,38,True
+Samsung,Galaxy J3 Star,8.0,2018-08-16,2018-08-01,android 8.0baseband version:j337tuvs2arg1,security updates,15,True
+Samsung,Galaxy J3 Star,8.0,2018-11-16,2018-11-01,android 8.0baseband version:j337tuvu2arj6,security updatesbug fixessystem improvements,15,True
+Samsung,Galaxy J3 Star,8.0,2019-02-24,2019-02-01,android 8.0baseband version:j337tuvs3asb1,security updates,23,True
+Samsung,Galaxy J3 Star,8.0,2019-05-24,2019-05-01,android 8.0baseband version:j337tuvs4asd1,security updates,23,True
+Samsung,Galaxy J3 Star,8.0,2019-08-28,2019-08-01,android 8.0baseband version:j337tuvs4ash2,august security patches,27,True
+Samsung,Galaxy J3 Star,8.0,2019-11-22,2019-11-01,android 8.0baseband version:j337tuvs6ask2,november security updates,21,True
+Samsung,Galaxy J7,6.0.1,2016-11-09,2016-11-01,android 6.0.1baseband version: j700tuvu2apj3,october/november security patchdomestic data roaming improvements,8,True
+Samsung,Galaxy J7,6.0.1,2016-12-19,2016-12-01,android 6.0.1baseband version: j700tuvu2apk6,"december security updates, domestic data roaming improvements, ipv4 over lte international roaming fix",18,True
+Samsung,Galaxy J7,6.0.1,2017-04-14,2017-04-01,android 6.0.1baseband version: j700tuvu3aqc3,various system improvements,13,True
+Samsung,Galaxy J7,6.0.1,2017-06-19,2017-06-01,android 6.0.1baseband version: j700tuvs3aqf1,april/may/june security updates,18,True
+Samsung,Galaxy J7,7.1.1,2017-10-19,2017-10-01,android 7.1.1baseband version: j700tuvu3bqi5,android 7.0 and security updates,18,True
+Samsung,Galaxy J7,7.1.1,2017-11-22,2017-11-01,android 7.1.1baseband version:  j700tuvu3bqk3,various improvements and security updates,21,True
+Samsung,Galaxy J7 Prime,7.0,2017-07-20,2017-07-01,android version 7.0baseband version: j727tuvu1aqfb,various system improvements,19,True
+Samsung,Galaxy J7 Prime,8.1,2019-09-30,2019-09-01,android 8.1baseband version:j727tuvs6bsi2,september security patch,29,True
+Samsung,Galaxy J7 Star,8.0,2018-08-16,2018-08-01,android 8.0baseband version:j737tuvs2arg1,security updates,15,True
+Samsung,Galaxy J7 Star,8.0,2018-11-22,2018-11-01,android 8.0baseband version:j737tuvs3arj1,security updatesbug fixessystem improvements,21,True
+Samsung,Galaxy J7 Star,8.0,2019-02-24,2019-02-01,android 8.0baseband version:j737tuvs4asb2,security updates,23,True
+Samsung,Galaxy J7 Star,8.0,2019-05-24,2019-05-01,android 8.0baseband version:j737tuvs5asd1,security updates,23,True
+Samsung,Galaxy J7 Star, 9,2019-08-27,2019-08-01,android 9.0baseband version:j737tuvu5bsg2,android pie 9.0security updates,26,True
+Samsung,Galaxy J7 Star, 9,2019-10-20,2019-09-01,android 9.0baseband version:j737tuvu5bsi2,september security patchother fixes,49,True
+Samsung,Galaxy Light,4.2.2,2015-10-02,2015-10-01,android version 4.2.2baseband version: t399uvuaoh2,stagefright fix,1,True
+Samsung,Galaxy Light,4.2.2,2016-02-16,2016-02-01,android version 4.2.2baseband version: t399uvuapa1,volte e911 fix,15,True
+Samsung,Galaxy Light,4.2.2,2017-06-05,2017-06-01,android version 4.2.2baseband version: t399uvuaqe1,e911 fix,4,True
+Samsung,Galaxy Note 10.1 2014 Edition,5.0.2,2015-09-28,2015-09-01,android version 5.0.2baseband version:  p607tuvuboi2,android 5.0stagefright fix,27,True
+Samsung,Galaxy Note 10.1 2014 Edition,5.0.2,2016-08-22,2016-08-01,android version 5.0.2baseband version:  p607tuvsbph1,july and august security updates,21,True
+Samsung,Galaxy Note 10.1 2014 Edition,5.0.2,2017-02-01,2017-02-01,android version 5.0.2baseband version:  p607tuvsbpl1,android security updates,0,True
+Samsung,Galaxy Note 3,5.0,2015-12-28,2015-12-01,android version 5.0baseband version: n900tuvufol1,e911 updateandroid text message security updates (stagefright),27,True
+Samsung,Galaxy Note 3,5.0,2016-10-06,2016-09-01,android version 5.0baseband version: n900tuvsfph3,august/september security updates,35,True
+Samsung,Galaxy Note 3,5.0,2017-01-18,2017-01-01,android version 5.0baseband version: n900tuvsfpl1,android security updates,17,True
+Samsung,Galaxy Note 3,5.0,2017-04-28,2017-04-01,android version 5.0baseband version: n900tuvufqd2,various system improvements,27,True
+Samsung,Galaxy Note 4,5.0.1,2015-08-10,2015-08-01,android version 5.0.1baseband version: n910tuvu1cog2,messaging security improvements,9,True
+Samsung,Galaxy Note 4,5.1.1,2015-11-30,2015-11-01,android version 5.1.1baseband versions: n910tuvu2dok2,messaging security improvements,29,True
+Samsung,Galaxy Note 4,6.0.1,2016-06-27,2016-06-01,android version 6.0.1baseband version: n910tuvu2dpe3,android m osgoogle voice fix,26,True
+Samsung,Galaxy Note 4,6.0.1,2016-07-30,2016-07-01,android version 6.0.1baseband version: n910tuvs2epg2 or n910t3uvs2epg2,july security update,29,True
+Samsung,Galaxy Note 4,6.0.1,2016-10-24,2016-10-01,android version 6.0.1baseband version: n910tuvu2epj2 or n910t3uvu3epj2,october security update,23,True
+Samsung,Galaxy Note 4,6.0.1,2016-12-19,2016-11-01,android version 6.0.1baseband version: n910tuvs2epk2 or n910t3uvs3epk2,"november security updates, domestic data roaming improvements",48,True
+Samsung,Galaxy Note 4,6.0.1,2017-03-06,2017-03-01,android version 6.0.1baseband version: n910tuvs2eqb1 or n910t3uvs3eqb1,domestic data roaming improvements and band 66 handover fix,5,True
+Samsung,Galaxy Note 4,6.0.1,2017-04-14,2017-04-01,android version 6.0.1baseband version: n910tuvu2eqc1 or n910t3uvu3eqc1,various system improvements,13,True
+Samsung,Galaxy Note 4,6.0.1,2017-06-01,2017-05-01,android version 6.0.1baseband version: n910tuvs2eqe2 or n910t3uvs3eqe2,april/may security update,31,True
+Samsung,Galaxy Note 4,6.0.1,2017-08-03,2017-07-01,android version 6.0.1baseband version: n910tuvs2eqg1 or n910t3uvs3eqg1,june/july security update,33,True
+Samsung,Galaxy Note 4,6.0.1,2017-10-19,2017-09-01,android 6.0.1baseband version:n910tuvu2eqi2 orn910t3uvu3eqi2,august/september security updatesdtmf bug fix,48,True
+Samsung,Galaxy Note Edge,5.0.1,2015-08-10,2015-08-01,android version 5.0.1baseband version: n915tuvu1bog2,messaging security improvements,9,True
+Samsung,Galaxy Note Edge,5.1.1,2015-11-30,2015-11-01,android 5.1.1baseband version: n915tuvu2cok2,advanced messagingt-mobile video calling,29,True
+Samsung,Galaxy Note Edge,6.0.1,2016-06-27,2016-06-01,android 6.0.1baseband version: n915tuvu2cpe3,android 6.0 marshmallow,26,True
+Samsung,Galaxy Note Edge,6.0.1,2016-07-30,2016-07-01,android 6.0.1baseband version: n915tuvu2dpg2,july security update,29,True
+Samsung,Galaxy Note Edge,6.0.1,2016-10-24,2016-10-01,android 6.0.1baseband version: n915tuvu2dpj2,october security update,23,True
+Samsung,Galaxy Note Edge,6.0.1,2016-12-19,2016-11-01,android 6.0.1baseband version: n915tuvs2dpk2,"november security updates, domestic data roaming improvements",48,True
+Samsung,Galaxy Note Edge,6.0.1,2017-03-06,2017-03-01,android 6.0.1baseband version: n915tuvs2dqb1,domestic data roaming improvements and band 66 handover fix,5,True
+Samsung,Galaxy Note Edge,6.0.1,2017-04-14,2017-04-01,android 6.0.1baseband version: n915tuvu2dqc1,various system improvements,13,True
+Samsung,Galaxy Note Edge,6.0.1,2017-06-01,2017-05-01,android 6.0.1baseband version: n915tuvs2dqe2,april/may security update,31,True
+Samsung,Galaxy Note Edge,6.0.1,2017-08-03,2017-07-01,android 6.0.1baseband version: n915tuvs2dqg1,june/july security update,33,True
+Samsung,Galaxy Note Edge,6.0.1,2017-10-19,2017-09-01,android 6.0.1baseband version:n915tuvu2dqi2,august/september security updatesdtmf bug fix,48,True
+Samsung,Galaxy Note10, 9,2019-07-01,2019-07-01,android 9.0baseband version:n970usqu1asgo,security patch,0,True
+Samsung,Galaxy Note10, 9,2019-08-20,2019-08-01,android 9.0baseband version:n970usqu1ash4,"s pen, image quality, charging, and fingerprint feature enhancements",19,True
+Samsung,Galaxy Note10, 9,2019-09-20,2019-09-01,android 9.0baseband version:n970usqu1ashb,september 1 2019  security patchesgoogle assistant security issuering app with type c earphone fail issue fixdex on pc panic issue fixtouch insensitivity issue by wdt reset issue fixedusb connection fail improved,19,True
+Samsung,Galaxy Note10, 9,2019-10-11,2019-10-01,android 9.0baseband version:n970usqs1asi3,october security patch,10,True
+Samsung,Galaxy Note10, 9,2019-11-01,2019-11-01,android 9.0baseband version:n970usqs2asj8,november security patchbiometric security patch,0,True
+Samsung,Galaxy Note10+, 9,2019-07-01,2019-07-01,android 9.0baseband version:n975usqu1asgo,security patch,0,True
+Samsung,Galaxy Note10+, 9,2019-08-20,2019-08-01,android 9.0baseband version:n975usqu1ash4,"s pen, image quality, charging, and fingerprint feature enhancements",19,True
+Samsung,Galaxy Note10+, 9,2019-09-20,2019-09-01,android 9.0baseband version:n975usqu1ashb,september 1 2019  security patchesgoogle assistant security issuering app with type c earphone fail issue fixdex on pc panic issue fixtouch insensitivity issue by wdt reset issue fixedusb connection fail improved,19,True
+Samsung,Galaxy Note10+, 9,2019-10-11,2019-10-01,android 9.0baseband version:n975usqs1asi3,october security patches,10,True
+Samsung,Galaxy Note10+, 9,2019-11-01,2019-11-01,android 9.0baseband version:n975usqs2asj8,november security patchbiometric security patch,0,True
+Samsung,Galaxy Note10+ 5G,10.0,2019-12-06,2019-12-01,android 10.0baseband version:n976usqu1asl3,qc patches to improve stability,5,True
+Samsung,Galaxy Note5,5.1.1,2015-09-03,2015-09-01,android version 5.1.1baseband version: n920tuvu1boh4,various system improvements,2,True
+Samsung,Galaxy Note5,5.1.1,2015-11-02,2015-11-01,android version 5.1.1baseband version: n920tuvu2coj5,"samsung gear vr support, security updates, various bug fixes and improvements",1,True
+Samsung,Galaxy Note5,5.1.1,2015-12-14,2015-12-01,android version 5.1.1baseband version n920tuvs2cokc,google security update,13,True
+Samsung,Galaxy Note5,6.0.1,2016-04-18,2016-04-01,android version 6.0.1baseband version n920tuvu2dpd1,android m os update,17,True
+Samsung,Galaxy Note5,6.0.1,2016-07-13,2016-07-01,android version 6.0.1baseband version n920tuvu3dpg1,"google security fix, june and july security maintenance release, various system improvements",12,True
+Samsung,Galaxy Note5,6.0.1,2016-09-08,2016-09-01,android version 6.0.1baseband versionn920tuvs4dph2,august/september security fixes,7,True
+Samsung,Galaxy Note5,6.0.1,2016-12-06,2016-11-01,android version 6.0.1baseband versionn920tuvu4dpk6,domestic data roaming improvementsdtmf fixnovember security update,35,True
+Samsung,Galaxy Note5,6.0.1,2017-02-01,2017-02-01,android version 6.0.1baseband versionn920tuvs4dqa2,android security updates,0,True
+Samsung,Galaxy Note5,6.0.1,2017-04-05,2017-04-01,android version 6.0.1baseband versionn920tuvu4dqc2,various system improvements,4,True
+Samsung,Galaxy Note5,7.0,2017-05-21,2017-05-01,android version 7.0baseband versionn920tuvu4eqe1,"intermittent call failure fix, android 7.0 nougat for users still on dqc2",20,True
+Samsung,Galaxy Note5,7.0,2017-07-20,2017-07-01,android version 7.0baseband versionn920tuvs4eqg1,various system improvements,19,True
+Samsung,Galaxy Note5,7.0,2017-08-01,2017-08-01,android version 7.0baseband versionn920tuvu4eqg3,various system improvements,0,True
+Samsung,Galaxy Note5,7.0,2017-11-09,2017-11-01,android 7.0baseband version n920tuvu4eqj3,ims roaming fixdigits bug fixgoogle security improvements,8,True
+Samsung,Galaxy Note5,7.0,2017-12-01,2017-12-01,android 7.0baseband versionn920tuvs4eqk1,google security fixvarious system improvements,0,True
+Samsung,Galaxy Note5,7.0,2018-01-24,2018-01-01,android 7.0baseband version:n920tuvs5era1,google security fixvarious system improvements,23,True
+Samsung,Galaxy Note5,7.0,2018-03-21,2018-03-01,android 7.0baseband version: n920tuvs5erc1,google security fixvarious system improvements,20,True
+Samsung,Galaxy Note5,7.0,2018-04-22,2018-04-01,android 7.0baseband version:n920tuvs5erd1,google security fixvarious system improvements,21,True
+Samsung,Galaxy Note5,7.0,2018-05-24,2018-05-01,android 7.0baseband version:n920tuvs5ere1,google security patchvarious system improvements,23,True
+Samsung,Galaxy Note5,7.0,2018-06-28,2018-06-01,android 7.0baseband version:n920tuvs5erf2,june security update,27,True
+Samsung,Galaxy Note5,7.0,2018-07-27,2018-07-01,android 7.0baseband version:n920tuvs5erg1,july security updates,26,True
+Samsung,Galaxy Note8,7.0,2017-09-15,2017-09-01,android 7.0baseband version: n950usqu1aqi5,out of box software updateprovides various bug fixes and software stability improvements,14,True
+Samsung,Galaxy Note8,7.0,2017-11-16,2017-11-01,android 7.0baseband version:  n950usqu2bqja,october/november google security updatesims roaming bug fixvarious bug fixes and software stability improvements,15,True
+Samsung,Galaxy Note8,7.0,2017-12-21,2017-12-01,android 7.0baseband version:  n950usqu2bqla,video conferencing updatedigits updatedecember security updatevarious system improvements,20,True
+Samsung,Galaxy Note8,7.0,2018-02-01,2018-02-01,android 7.0baseband version:n950usqu3bra9,google monthly security updateslive focus fixvarious system improvements,0,True
+Samsung,Galaxy Note8,8.0,2018-04-01,2018-04-01,android 8.0baseband version:n950usqu3crc2,android 8.0 (oreo) os updatebug fixes and software improvements,0,True
+Samsung,Galaxy Note8,8.0,2018-05-13,2018-05-01,android 8.0baseband version:n950usqu3crd7,android 8.0 (oreo) os updatebug fixes and software improvements,12,True
+Samsung,Galaxy Note8,8.0,2019-02-07,2019-02-01,android 8.0baseband version:n950usqs5crl1,january and february security patches,6,True
+Samsung,Galaxy Note8, 9,2019-04-05,2019-04-01,android 9.0baseband version: n950usqu5dsc1,update to android 9.0 (pie)various bug fixes and system improvements,4,True
+Samsung,Galaxy Note8, 9,2019-06-22,2019-06-01,android 9.0baseband version: n950usqs5dsf5,june security patch,21,True
+Samsung,Galaxy Note8, 9,2019-09-27,2019-09-01,android 9.0baseband version:n950usqs6dsh4,september security patches,26,True
+Samsung,Galaxy Note8, 9,2019-10-18,2019-10-01,android 9.0baseband version:n950usqs6dsi3,october security patch,17,True
+Samsung,Galaxy Note8, 9,2019-12-02,2019-11-01,android 9.0baseband version:n950usqu7dsk3,november security patchui changes for multimedia attachmentscamera updatesfixed contacts issue,31,True
+Samsung,Galaxy Note8, 9,2019-12-12,2019-12-01,android 9.0baseband version:n950usqs7dsk6,december security patch,11,True
+Samsung,Galaxy Note9,8.1,2018-09-20,2018-09-01,android 8.1baseband version:n960usqs1arh6,september security release,19,True
+Samsung,Galaxy Note9,8.1,2018-11-13,2018-10-01,android 8.1baseband version:n960usqu1arj8,october security patchcamera bug fixesaudio bug fixes & optimization,43,True
+Samsung,Galaxy Note9,8.1,2018-11-22,2018-11-01,android 8.1baseband version:n960usqs1ark1,november security patchvarious bug fixes and system improvements,21,True
+Samsung,Galaxy Note9, 9,2019-03-01,2019-03-01,android 9.0baseband version:n960usqu1csc1,android pie 9.0new e911 call flowcompass calibration fixbyod update,0,True
+Samsung,Galaxy Note9, 9,2019-04-19,2019-04-01,android 9.0baseband version:n960usqu1csd1,april security patches,18,True
+Samsung,Galaxy Note9, 9,2019-05-24,2019-05-01,android 9.0baseband version:n960usqs1cse1,may security patches,23,True
+Samsung,Galaxy Note9, 9,2019-06-22,2019-06-01,android 9.0baseband version:n960usqs1csf1,june security patches,21,True
+Samsung,Galaxy Note9, 9,2019-08-11,2019-07-01,android 9.0baseband version:n960usqs1csga,"camera enhancements, july security patch",41,True
+Samsung,Galaxy Note9, 9,2019-08-18,2019-08-01,android 9.0baseband version:n960usqs1csgb,august security patches,17,True
+Samsung,Galaxy Note9, 9,2019-10-06,2019-09-01,android 9.0baseband version:n960usqu2csi1,september security patchcamera autofocus fix,35,True
+Samsung,Galaxy Note9, 9,2019-10-25,2019-10-01,android 9.0baseband version:n960usqs2csi3,october security patch,24,True
+Samsung,Galaxy Note9, 9,2019-11-08,2019-11-01,android 9.0baseband version:n960usqs3csj1,november security patch,7,True
+Samsung,Galaxy Note9,8.1,2019-01-06,2019-12-01,android 8.1baseband version:n960usqu1arl1,december security patchcamera bug fixesvarious bug fixes and system improvements,-329,True
+Samsung,Galaxy S10, 9,2019-03-08,2019-03-01,android 9.0baseband version:g973usqu1asba,camera and fingerprint feature enhancementssecurity patches,7,True
+Samsung,Galaxy S10, 9,2019-05-16,2019-05-01,android 9.0baseband version:g973usqs1asd9,minor patches,15,True
+Samsung,Galaxy S10, 9,2019-06-28,2019-06-01,android 9.0baseband version:g975usqs2asf7,security patch,27,True
+Samsung,Galaxy S10, 9,2019-08-09,2019-08-01,android 9.0baseband version:g975usqs2asgc,security patch,8,True
+Samsung,Galaxy S10, 9,2019-09-17,2019-09-01,android 9.0baseband version:g973usqs2bsi4,september security pack,16,True
+Samsung,Galaxy S10, 9,2019-11-12,2019-11-01,android 9.0baseband version:g973usqs2bsix,november security patchssu network lock fix,11,True
+Samsung,Galaxy S10,10.0,2019-12-15,2019-12-01,android 10.0baseband version:g973usqu2cskp,update to android 10.0wea 3.0 fixrcs enhancements,14,True
+Samsung,Galaxy S10 5G, 9,2019-08-19,2019-08-01,android 9.0baseband version:g977tuvu2asgc,camera and fingerprint enhancements as well as some security updates.,18,True
+Samsung,Galaxy S10 5G, 9,2019-11-07,2019-11-01,android 9.0baseband version:g977tuvs3asjk,november security patch,6,True
+Samsung,Galaxy S10e, 9,2019-03-08,2019-03-01,android 9.0baseband version:g970usqu1asba,camera and fingerprint enhancementssecurity patches,7,True
+Samsung,Galaxy S10e, 9,2019-05-09,2019-04-01,android 9.0baseband version:g970usqu1asd7,implemented qualcomm patches to improve cellular connectivityapril 2019 security update,38,False
+Samsung,Galaxy S10e, 9,2019-05-16,2019-05-01,android 9.0baseband version:g970usqs1asd9 baseband version:g970usqs1asf7,minor patches,15,True
+Samsung,Galaxy S10e, 9,2019-08-09,2019-07-01,android 9.0baseband version:g970usqs1asgc,july security patch,39,True
+Samsung,Galaxy S10e, 9,2019-08-29,2019-08-01,android 9.0baseband version:g970usqs1asgj,august security patch,28,True
+Samsung,Galaxy S10e, 9,2019-09-17,2019-09-01,android 9.0baseband version:g970usqs2bsi4,september security pack,16,True
+Samsung,Galaxy S10e, 9,2019-11-12,2019-11-01,android 9.0baseband version:g970usqs2bsix,november security patchssu network lock fix,11,True
+Samsung,Galaxy S10e,10.0,2019-12-15,2019-12-01,android 10.0baseband version:g970usqu2cskp,update to android 10.0wea 3.0 fixrcs enhancements,14,True
+Samsung,Galaxy S4,4.4.4,2015-08-31,2015-08-01,android version 4.4.4baseband version: m919uvufoh3,stagefright fix,30,True
+Samsung,Galaxy S4,4.4.4,2015-12-14,2015-12-01,android version 4.4.4baseband version: m919uvufok3,google security update,13,True
+Samsung,Galaxy S4,4.4.4,2017-02-08,2017-02-01,android version 4.4.4baseband version: m919uvsfqa1,android security updates,7,True
+Samsung,Galaxy S5,5.1.1,2015-08-10,2015-08-01,android version 5.1.1baseband version g900tuvu1fog6,advanced messagingletters delete or won't type with swypestagefright fix,9,True
+Samsung,Galaxy S5,5.1.1,2015-11-02,2015-11-01,android version 5.1.1baseband version g900tuvs1foj4 or g900t3uvs1foj4,security updates,1,True
+Samsung,Galaxy S5,5.1.1,2015-12-14,2015-12-01,android version 5.1.1baseband version g900t3uvu1fog6,google security update,13,True
+Samsung,Galaxy S5,5.1.1,2016-01-11,2016-01-01,android version 5.1.1baseband version g900tuvs1fol1 or g900t3uvs1fol1,security updates,10,True
+Samsung,Galaxy S5,6.0.1,2016-05-23,2016-05-01,android version 6.0.1baseband version g900t3uvu1gpe1 or g900tuvu1gpe1,"android 6.0 os update, device slowness fix",22,True
+Samsung,Galaxy S5,6.0.1,2016-07-18,2016-07-01,android version 6.0.1baseband version g900tuvs1gpg2 or g900t3uvs2gpg2,june/july security updates,17,True
+Samsung,Galaxy S5,6.0.1,2016-10-04,2016-09-01,android version 6.0.1baseband version g900tuvs1gpi1 or g900t3uvs3gpi1,august/september security updates,33,True
+Samsung,Galaxy S5,6.0.1,2016-12-15,2016-11-01,android version 6.0.1baseband version g900tuvs1gpk3 or g900t3uvs3gpk3,domestic data roaming improvements and november security patches,44,True
+Samsung,Galaxy S5,6.0.1,2017-04-02,2017-04-01,android version 6.0.1baseband version g900tuvu1gqc2 or g900t3uvu3gqc2,various system improvements,1,True
+Samsung,Galaxy S5,6.0.1,2018-12-06,2018-12-01,android 6.0.1baseband version:g900tuvu1grj1g900t3uvu3grj1,dtmf issue fix,5,True
+Samsung,Galaxy S6,5.1.1,2015-09-10,2015-09-01,android 5.1.1baseband version: g920tuvu2doh6,advanced messagingdropboxgoogle wallett-mobile video callingwork profile/device owner,9,True
+Samsung,Galaxy S6,5.1.1,2015-11-16,2015-11-01,android 5.1.1baseband version: g920tuvu3doj7,google security updatesoftware improvementsvarious bug fixes and improvements,15,True
+Samsung,Galaxy S6,5.1.1,2015-12-14,2015-12-01,android 5.1.1baseband version: g920tuvs3dojc,google security update,13,True
+Samsung,Galaxy S6,6.0.1,2016-04-11,2016-04-01,android 6.0.1baseband version: g920tuvu3epd1,android 6.0 marshmallow,10,True
+Samsung,Galaxy S6,6.0.1,2016-06-27,2016-06-01,android 6.0.1baseband version: g920tuvu4epf1,"june security maintenance release, anti-theft update, various bug fixes and improvements",26,True
+Samsung,Galaxy S6,6.0.1,2016-08-24,2016-08-01,android 6.0.1baseband version: g920tuvs4eph2,july and august security maintenance release,23,True
+Samsung,Galaxy S6,6.0.1,2016-11-30,2016-11-01,android 6.0.1baseband version: g920tuvu5epk5,"domestic data roaming improvements, november security update",29,True
+Samsung,Galaxy S6,6.0.1,2017-02-06,2017-01-01,android 6.0.1baseband version: g920tuvs5eqa2,december/january security update,36,True
+Samsung,Galaxy S6,6.0.1,2017-04-02,2017-04-01,android 6.0.1baseband version: g920tuvu5eqc2,various system improvements,1,True
+Samsung,Galaxy S6,7.0,2017-06-05,2017-06-01,android 7.0baseband version: g920tuvu5fqe1,android n 7.0 update,4,True
+Samsung,Galaxy S6,7.0,2017-07-18,2017-07-01,android 7.0baseband version: g920tuvs5fqg1,security update,17,True
+Samsung,Galaxy S6,7.0,2017-11-22,2017-11-01,android 7.0baseband version:g920tuvu5fqk1,various improvements and security updates,21,True
+Samsung,Galaxy S6,7.0,2018-01-24,2018-01-01,android 7.0baseband version:g920tuvs6fra3,google security updatesvarious bux fixes and system improvements,23,True
+Samsung,Galaxy S6,7.0,2018-03-25,2018-03-01,android 7.0baseband version:g920tuvs6frc1,google security updatesvarious bux fixes and system improvements,24,True
+Samsung,Galaxy S6 edge,5.1.1,2015-09-10,2015-09-01,android 5.1.1baseband version: g920tuvu2doh6,advanced messagingdropboxgoogle wallett-mobile video callingwork profile/device owner,9,True
+Samsung,Galaxy S6 edge,5.1.1,2015-11-16,2015-11-01,android 5.1.1baseband version: g920tuvu3doj7,google security updatesoftware improvementsvarious bug fixes and improvements,15,True
+Samsung,Galaxy S6 edge,5.1.1,2015-12-14,2015-12-01,android 5.1.1baseband version: g920tuvs3dojc,google security update,13,True
+Samsung,Galaxy S6 edge,6.0.1,2016-04-11,2016-04-01,android 6.0.1baseband version: g925tuvu3epd1,android 6.0 marshmallow,10,True
+Samsung,Galaxy S6 edge,6.0.1,2016-06-27,2016-06-01,android 6.0.1baseband version: g925tuvu4epf1,"june security maintenance release, anti-theft update, various bug fixes and improvements.",26,True
+Samsung,Galaxy S6 edge,6.0.1,2016-08-24,2016-08-01,android version 6.0.1baseband version: g925tuvs4eph2,july and august security maintenance release,23,True
+Samsung,Galaxy S6 edge,6.0.1,2016-11-30,2016-11-01,android version 6.0.1baseband version: g925tuvu5epk5,"domestic data roaming improvements, november security update",29,True
+Samsung,Galaxy S6 edge,6.0.1,2017-02-06,2017-01-01,android version 6.0.1baseband version: g925tuvs5eqa2,december/january security update,36,True
+Samsung,Galaxy S6 edge,6.0.1,2017-04-02,2017-04-01,android version 6.0.1baseband version: g925tuvu5eqc2,various system improvements,1,True
+Samsung,Galaxy S6 edge,7.0,2017-06-05,2017-06-01,android version 7.0baseband version: g925tuvu5fqe1,android n 7.0 update,4,True
+Samsung,Galaxy S6 edge,7.0,2017-07-18,2017-07-01,android version 7.0baseband version: g925tuvs5fqg1,security update,17,True
+Samsung,Galaxy S6 edge,7.0,2017-11-22,2017-11-01,android version 7.0baseband version:  g925tuvu5fqk1,various improvements and security updates,21,True
+Samsung,Galaxy S6 edge,7.0,2017-12-01,2017-12-01,android 7.0baseband versiong928tuvs4eqk1,various improvements and security updates,0,True
+Samsung,Galaxy S6 edge,7.0,2018-01-24,2018-01-01,android 7.0baseband version:g925tuvs6fra3,google security updatevarious improvements and security updates,23,True
+Samsung,Galaxy S6 edge,7.0,2018-03-25,2018-03-01,android 7.0baseband version:g925tuvs6frc1,google security updatevarious improvements and security updates,24,True
+Samsung,Galaxy S6 edge,7.0,2018-04-22,2018-04-01,android 7.0baseband version:g928tuvs5erd1,google security updatevarious improvements and security updates,21,True
+Samsung,Galaxy S7,6.0.1,2016-03-17,2016-03-01,android version 6.0.1baseband version: g930tuvs2apb8,mandatory security updates,16,True
+Samsung,Galaxy S7,6.0.1,2016-04-04,2016-04-01,android version 6.0.1baseband version: g930tuvu2apc8,mandatory security updates,3,True
+Samsung,Galaxy S7,6.0.1,2016-05-04,2016-05-01,android version 6.0.1baseband version: g930tuvu2apd7,fm radio enabledpower and volume key fixvarious system improvements,3,True
+Samsung,Galaxy S7,6.0.1,2016-07-08,2016-07-01,android version 6.0.1baseband version:g930tuvu3apg1,google security fixjune and july security maintenance releasevarious system improvements,7,True
+Samsung,Galaxy S7,6.0.1,2016-09-27,2016-09-01,android version 6.0.1baseband version:g930tuvu4apia,security updatestime/date updatevarious system improvements,26,True
+Samsung,Galaxy S7,6.0.1,2016-11-05,2016-11-01,android version 6.0.1baseband version:g930tuvu4apk1,enable 256/64 qamdomestic data roaming improvementsoctober/november security patchessystem crash/freeze fix,4,True
+Samsung,Galaxy S7,7.0,2017-02-20,2017-02-01,android version 7.0baseband version:g930tuvu4bqb1,mandatory software update to android nougat 7.0,19,True
+Samsung,Galaxy S7,7.0,2017-03-20,2017-03-01,android version 7.0baseband version:g930tuvs4bqc1,various system improvements,19,True
+Samsung,Galaxy S7,7.0,2017-05-26,2017-05-01,android version 7.0baseband versiong930tuvs4bqe1,april/may security update,25,True
+Samsung,Galaxy S7,7.0,2017-06-29,2017-06-01,android version 7.0baseband versiong930tuvu4bqf6,june security updatevarious system improvements,28,True
+Samsung,Galaxy S7,7.0,2017-07-24,2017-07-01,android version 7.0baseband versiong930tuvu4bqg5,various system improvements,23,True
+Samsung,Galaxy S7,7.0,2017-09-14,2017-09-01,android version 7.0baseband version  g930tuvu4bqh7,ims roaming enhancementsvarious system improvements,13,True
+Samsung,Galaxy S7,7.0,2017-11-17,2017-11-01,android version 7.0baseband versiong930tuvs4bqj2,various system improvements,16,True
+Samsung,Galaxy S7,7.0,2017-12-21,2017-12-01,android version 7.0baseband versiong930tuvs4bql2,various system improvements,20,True
+Samsung,Galaxy S7,7.0,2018-01-19,2018-01-01,android 7.0baseband version:g930tuvs4bra1,january security updatesvarious bux fixes,18,True
+Samsung,Galaxy S7,7.0,2018-04-12,2018-04-01,android 7.0baseband version:g930tuvs4brc1,april security updatesvarious bug fixes,11,True
+Samsung,Galaxy S7,8.0,2018-10-01,2018-08-01,android 8.0baseband version:g930tuvu4cri2,july & august security patchesvarious bug fixes and system improvements,61,True
+Samsung,Galaxy S7,8.0,2018-10-26,2018-10-01,android 8.0baseband version:g930tuvs8crj1,september/october security patchesvarious bug fixes and system improvements,25,True
+Samsung,Galaxy S7,8.0,2018-12-16,2018-12-01,android 8.0baseband version:g930tuvs8crl1,october through december security patchesvarious bug fixes and system improvements,15,True
+Samsung,Galaxy S7,8.0,2019-02-28,2019-02-01,android 8.0baseband version:g930tuvs9csb2,january/february security patchesvarious bug fixes and system improvements,27,True
+Samsung,Galaxy S7,8.0,2019-04-02,2019-03-01,android 8.0baseband version:g930tuvs9csc1,march security patchvarious bug fixes and system improvements,32,True
+Samsung,Galaxy S7,8.0,2019-07-26,2019-07-01,android 8.0baseband version:g930tuvsacsg1,july security patches,25,True
+Samsung,Galaxy S7 Edge,6.0.1,2016-03-17,2016-03-01,android version 6.0.1baseband version g935tuvu2apc8,enhanced voice servicessamsung pay updatesvarious system improvements,16,True
+Samsung,Galaxy S7 Edge,6.0.1,2016-05-04,2016-05-01,android version 6.0.1baseband version g935tuvu2apd7,fm radio enabledpower and volume key fixvarious system improvements,3,True
+Samsung,Galaxy S7 Edge,6.0.1,2016-07-08,2016-07-01,android version 6.0.1baseband versiong935tuvu3apg1,google security fixjune and july security maintenance releasevarious system improvements,7,True
+Samsung,Galaxy S7 Edge,6.0.1,2016-09-27,2016-09-01,android version 6.0.1baseband versiong935tuvu4apia,security updatestime/date updatevarious system improvements,26,True
+Samsung,Galaxy S7 Edge,6.0.1,2016-11-05,2016-11-01,android version 6.0.1baseband versiong935tuvu4apk1,enable 256/64 qamdomestic data roaming improvementsoctober/november security patchessystem crash/freeze fix,4,True
+Samsung,Galaxy S7 Edge,7.0,2017-02-20,2017-02-01,android version 7.0baseband versiong935tuvu4bqb1,mandatory software update to android nougat 7.0,19,True
+Samsung,Galaxy S7 Edge,7.0,2017-03-20,2017-03-01,android version 7.0baseband versiong935tuvs4bqc1,various system improvements,19,True
+Samsung,Galaxy S7 Edge,7.0,2017-05-26,2017-05-01,android version 7.0baseband versiong935tuvs4bqe1,april/may security update,25,True
+Samsung,Galaxy S7 Edge,7.0,2017-06-29,2017-06-01,android version 7.0baseband versiong935tuvu4bqf6,june security updatevarious system improvements,28,True
+Samsung,Galaxy S7 Edge,7.0,2017-07-24,2017-07-01,android version 7.0baseband versiong935tuvu4bqg5,various system improvements,23,True
+Samsung,Galaxy S7 Edge,7.0,2017-09-14,2017-09-01,android version 7.0baseband version g935tuvu4bqh7,ims roaming enhancementsvarious system improvements,13,True
+Samsung,Galaxy S7 Edge,7.0,2017-11-17,2017-11-01,android version 7.0baseband versiong935tuvs4bqj2,various system improvements,16,True
+Samsung,Galaxy S7 Edge,7.0,2017-12-21,2017-12-01,android version 7.0baseband versiong935tuvs4bql2,december security update,20,True
+Samsung,Galaxy S7 Edge,7.0,2018-01-19,2018-01-01,android version 7.0baseband version:g935tuvs4bra1,january security updatesvarious bug fixes,18,True
+Samsung,Galaxy S7 Edge,7.0,2018-04-12,2018-04-01,android 7.0baseband version:g935tuvs4brc1,april security updatesvarious bug fixes,11,True
+Samsung,Galaxy S7 Edge,8.0,2018-10-01,2018-08-01,android 8.0baseband version:g935tuvu4cri2,july & august security updatesvarious bug fixes and system improvements,61,True
+Samsung,Galaxy S7 Edge,8.0,2018-10-26,2018-10-01,android 8.0baseband version:g935tuvs8crj1,september/october security patchesvarious bug fixes and system improvements,25,True
+Samsung,Galaxy S7 Edge,8.0,2018-12-16,2018-12-01,android 8.0baseband version:g935tuvs8crl1,october through december security patchesvarious bug fixes and system improvements,15,True
+Samsung,Galaxy S7 Edge,8.0,2019-02-28,2019-02-01,android 8.0baseband version:g935tuvs9csb2,january/february security patchesvarious bug fixes and system improvements,27,True
+Samsung,Galaxy S7 Edge,8.0,2019-04-02,2019-03-01,android 8.0baseband version:g935tuvs9csc1,march security patchvarious bug fixes and system improvements,32,True
+Samsung,Galaxy S7 Edge,8.0,2019-07-26,2019-07-01,android 8.0baseband version:g935tuvsacsg1,july security patches,25,True
+Samsung,Galaxy S8,7.0,2017-04-20,2017-04-01,android 7.0baseband version: g950usqu1aqd9,various system improvements,19,True
+Samsung,Galaxy S8,7.0,2017-05-01,2017-05-01,android 7.0baseband version: g950usqu1aqde,reddish display fix,0,True
+Samsung,Galaxy S8,7.0,2017-06-06,2017-06-01,android 7.0baseband version: g950usqu1aqef,android pay and bixby enhancements,5,True
+Samsung,Galaxy S8,7.0,2017-07-08,2017-07-01,android 7.0baseband version: g950usqu1aqfj,"digits update, qualcomm update for microphone fix, bixby enhancements, various system improvements",7,True
+Samsung,Galaxy S8, 9,2019-10-09,2019-08-01,android 9.0baseband version:g950usqu6dsh8,camera enhancementaugust security patchother fixes,69,True
+Samsung,Galaxy S8, 9,2019-10-21,2019-10-01,android 9.0baseband version:g950usqu6dsj3,october security patch,20,True
+Samsung,Galaxy S8, 9,2019-11-15,2019-11-01,android 9.0baseband version:g950usqu6dsj6,rcs related enhancements,14,True
+Samsung,Galaxy S8 Active,7.0,2017-12-21,2017-12-01,android 7.0baseband version: g892usqu1aqk5,december security updateslicense assisted access (laa) enabled to use lte advanced technologyvarious improvements,20,True
+Samsung,Galaxy S8 Active,7.0,2018-01-18,2018-01-01,android 7.0baseband version:g892usqs1ara1,january monthly security updatesvarious bug fixes and security improvements,17,True
+Samsung,Galaxy S8 Active,7.0,2018-02-22,2018-02-01,android 7.0baseband version:g892usqs1arb3,february monthly security updatesvarious bug fixes and security improvements,21,True
+Samsung,Galaxy S8 Active,8.0,2018-03-29,2018-03-01,android 8.0baseband version:g892usqu1brc4,android 8.0 (oreo) osbug fixes and software stability improvements,28,True
+Samsung,Galaxy S8 Active,8.0,2018-04-26,2018-04-01,android 8.0baseband version:g892usqs1brd5,april monthly security patchvarious bug fixes and system improvements,25,True
+Samsung,Galaxy S8 Active,8.0,2018-06-03,2018-05-01,android 8.0baseband version:g892usqu2bre3,may security patchvarious bug fixes and system improvements,33,True
+Samsung,Galaxy S8 Active,8.0,2018-06-28,2018-06-01,android 8.0baseband version:g892usqs2brf1,june security updates,27,True
+Samsung,Galaxy S8 Active,8.0,2018-07-26,2018-07-01,android 8.0baseband version:g892usqs3brg5,july security updates,25,True
+Samsung,Galaxy S8 Active,8.0,2018-08-23,2018-08-01,android 8.0baseband version:g892usqs3brh2,august security updates,22,True
+Samsung,Galaxy S8 Active,8.0,2018-10-25,2018-10-01,android 8.0baseband version:g892usqu3brj2,september/october security updatesvarious bug fixes and system improvements,24,True
+Samsung,Galaxy S8 Active,8.0,2018-11-18,2018-11-01,android 8.0baseband version:g892usqs3brj7,november security updatevarious bug fixes and system improvements,17,True
+Samsung,Galaxy S8 Active,8.0,2019-03-01,2019-02-01,android 8.0baseband version:g892usqs4bsb2,january and february security updatesvarious bug fixes and system improvements,28,True
+Samsung,Galaxy S8 Active,8.0,2019-03-28,2019-03-01,android 8.0baseband version:g892usqs4bsc3,google march 2019 security update,27,False
+Samsung,Galaxy S8 Active,8.0,2019-05-28,2019-05-01,android 8.0baseband version:g892usqs5bse5,may 2019 security update,27,False
+Samsung,Galaxy S8 Active,8.0,2019-07-26,2019-07-01,android 8.0baseband version:g892usqs5bsg4,security updates,25,True
+Samsung,Galaxy S8 Active, 9,2019-09-28,2019-09-01,android 9.0baseband version:g892usqs5csi2,september security patch,27,True
+Samsung,Galaxy S8 Active, 9,2019-10-18,2019-10-01,android 9.0baseband version:g892usqs5csi5,october security patch,17,True
+Samsung,Galaxy S8 Active, 9,2019-11-26,2019-11-01,android 9.0baseband version:g892usqs6csk1,november security patch,25,True
+Samsung,Galaxy S8+,7.0,2017-04-20,2017-04-01,android 7.0baseband version: g955usqu1aqd9,various system improvements,19,True
+Samsung,Galaxy S8+,7.0,2017-05-01,2017-05-01,android 7.0baseband version: g955usqu1aqde,reddish display fix,0,True
+Samsung,Galaxy S8+,7.0,2017-07-08,2017-07-01,android 7.0baseband version: g955usqu1aqfj,"digits update, qualcomm update for microphone fix, bixby enhancements, various system improvements",7,True
+Samsung,Galaxy S8+, 9,2019-10-09,2019-08-01,android 9.0baseband version:g955usqu6dsh8,camera enhancementaugust security patchother fixes,69,True
+Samsung,Galaxy S8+, 9,2019-10-21,2019-10-01,android 9.0baseband version:g955usqu6dsj3,october security patch,20,True
+Samsung,Galaxy S8+, 9,2019-11-15,2019-11-01,android 9.0baseband version:g955usqu6dsj6,rcs related enhancements,14,True
+Samsung,Galaxy S9,8.0,2018-04-13,2018-04-01,android 8.0baseband version:g960usqu2arc6,android security updatesvarious bug fixes,12,True
+Samsung,Galaxy S9,8.0,2018-06-21,2018-06-01,android 8.0baseband version:g960usqs2arf4,android security updatesvarious bug fixes,20,True
+Samsung,Galaxy S9,8.0,2018-07-08,2018-07-01,android 8.0baseband version:g960usqu2arf7,rtt updatesenhancements made to digitsvarious bug fixes and system improvements,7,True
+Samsung,Galaxy S9,8.0,2018-08-17,2018-08-01,android 8.0baseband version:g960usqs3arg8,august security updates,16,True
+Samsung,Galaxy S9,8.0,2018-10-21,2018-10-01,android 8.0baseband version:g960usqs3arib,september/october security patchvarious bug fixes and system improvements,20,True
+Samsung,Galaxy S9,8.0,2018-11-04,2018-11-01,android 8.0baseband version:g960usqu3brj5,wi-fi enhancements and bug fixesvarious bug fixes and system improvements,3,True
+Samsung,Galaxy S9,8.0,2018-12-16,2018-12-01,android 8.0baseband version:g960usqs3brk2,december security patch,15,True
+Samsung,Galaxy S9, 9,2019-02-13,2019-02-01,android 9.0baseband version:g960usqu3csab,upgrade to android 9.0 piercs universal profile 1.0band 28 roaming supportvarious bug fixes and system improvements,12,True
+Samsung,Galaxy S9, 9,2019-03-21,2019-03-01,android 9.0baseband version:g960usqs4csc3,march security patch,20,True
+Samsung,Galaxy S9, 9,2019-04-19,2019-04-01,android 9.0baseband version:g960usqs4csc8,april security patchescamera performance and image quality improvementstransfer over http,18,True
+Samsung,Galaxy S9, 9,2019-06-12,2019-06-01,android 9.0baseband version:g960usqs5csea,security patches,11,True
+Samsung,Galaxy S9, 9,2019-08-01,2019-08-01,android 9.0baseband version:g960usqs5csgb,security patches,0,True
+Samsung,Galaxy S9, 9,2019-11-03,2019-10-01,android 9.0baseband version:g965usqu7csj2,october security patchother fixes,33,True
+Samsung,Galaxy S9, 9,2019-11-13,2019-11-01,android 9.0baseband version:g960usqs7csj6,november security patch,12,True
+Samsung,Galaxy S9, 9,2019-12-10,2019-12-01,android 9.0baseband version:g960usqs7csk3,december security patch,9,True
+Samsung,Galaxy S9+,8.0,2018-03-16,2018-03-01,android version: 8.0baseband version:g965usqu1arbg,camera enhancementsvarious bug fixes and software improvements,15,True
+Samsung,Galaxy S9+,8.0,2018-04-13,2018-04-01,android version: 8.0baseband version:g965usqu2arc6,android security updatesvarious bug fixes,12,True
+Samsung,Galaxy S9+,8.0,2018-06-21,2018-06-01,android version: 8.0baseband version:g965usqs2arf4,june security patchvarious bug fixes and system improvements,20,True
+Samsung,Galaxy S9+,8.0,2018-07-08,2018-07-01,android version: 8.0baseband version:g965usqu2arf7,rtt updatesenhancements to digitsvarious bug fixes and system improvements,7,True
+Samsung,Galaxy S9+,8.0,2018-08-17,2018-08-01,android 8.0baseband version:g965usqs3arg8,august security updates,16,True
+Samsung,Galaxy S9+,8.0,2018-10-21,2018-10-01,android 8.0baseband version:g965usqs3arib,september/october security updatesvarious bug fixes and system improvements,20,True
+Samsung,Galaxy S9+,8.0,2018-11-04,2018-11-01,android 8.0baseband version:g965usqu3brj5,wi-fi enhancements and bug fixesvarious bug fixes and system improvements,3,True
+Samsung,Galaxy S9+,8.0,2018-12-16,2018-12-01,android 8.0baseband version:g965usqs3brk2,december security patch,15,True
+Samsung,Galaxy S9+, 9,2019-02-13,2019-02-01,android 9.0baseband version:g965usqu3csab,upgrade to android 9.0 piercs universal profile 1.0band 28 roaming supportvarious bug fixes and system improvements,12,True
+Samsung,Galaxy S9+, 9,2019-03-21,2019-03-01,android 9.0baseband version:g965usqs4csc3,march security patch,20,True
+Samsung,Galaxy S9+, 9,2019-04-19,2019-04-01,android 9.0baseband version:g965usqs4csc8,april security patchescamera performance and image quality improvementstransfer over http,18,True
+Samsung,Galaxy S9+, 9,2019-06-12,2019-06-01,android 9.0baseband version:g965usqs5csea,security patches,11,True
+Samsung,Galaxy S9+, 9,2019-08-01,2019-08-01,android 9.0baseband version:g965usqs5csgc,security patches,0,True
+Samsung,Galaxy S9+, 9,2019-11-03,2019-10-01,android 9.0baseband version:g965usqu7csj2,october security patchother fixes,33,True
+Samsung,Galaxy S9+, 9,2019-11-13,2019-11-01,android 9.0baseband version:g965usqs7csj6,november security patch,12,True
+Samsung,Galaxy S9+, 9,2019-12-10,2019-12-01,android 9.0baseband version:g960usqs7csk3,december security patch,9,True
+Samsung,Galaxy Tab 3 7.0,4.4.4,2015-08-24,2015-08-01,android version 4.4.4baseband version t217tuvuboh1,messaging security improvements,23,True
+Samsung,Galaxy Tab 3 7.0,4.4.4,2017-02-08,2017-02-01,android version 4.4.4baseband version t217tuvsbqa1,android security updates,7,True
+Samsung,Galaxy Tab 4,5.1.1,2015-09-28,2015-09-01,android 5.1.1baseband version: t337tuvu1coh5,android 5.0stagefright fix,27,True
+Samsung,Galaxy Tab 4,5.1.1,2016-08-28,2016-08-01,android 5.1.1baseband version: t337tuvs1cpg2,july and august security updates,27,True
+Samsung,Galaxy Tab 4,5.1.1,2017-02-01,2017-02-01,android 5.1.1baseband version: t337tuvs1cpl1,android security updates,0,True
+Samsung,Galaxy Tab E 8.0,6.0.1,2017-01-18,2017-01-01,android 6.0.1baseband version: t377tuvs1apl1,android security updates,17,True
+Samsung,Galaxy Tab E 8.0,7.0,2017-10-02,2017-10-01,android 7.0baseband version: t377tuvu1bqi5,update to android 7.0 (nougat)google security improvements,1,True
+Samsung,Galaxy Tab S,5.0.2,2015-09-28,2015-09-01,android version 5.0.2baseband version t807tuvu1boh2,stagefright fix,27,True
+Samsung,Galaxy Tab S,5.0.2,2015-11-02,2015-11-01,android version 5.0.2baseband version t807tuvu1boj3,security fixes,1,True
+Samsung,Galaxy Tab S,5.0.2,2016-01-11,2016-01-01,android version 5.0.2baseband version t807tuvs1bol1,google security fixes,10,True
+Samsung,Galaxy Tab S,5.0.2,2017-02-01,2017-02-01,android version 5.0.2baseband version t807tuvs1bpl2,android security updates,0,True
+Samsung,Galaxy Tab S2,5.1.1,2016-01-11,2016-01-01,android version 5.1.1baseband version t817tuvs2aol1,google security updates,10,True
+Samsung,Galaxy Tab S2,5.1.1,2016-02-29,2016-02-01,android version 5.1.1baseband version t817tuvs2apb1,google security updates,28,True
+Samsung,Galaxy Tab S2,6.0.1,2016-07-18,2016-07-01,android version 6.0.1baseband version t817tuvu2bpf1,android 6.0 update,17,True
+Samsung,Galaxy Tab S2,6.0.1,2017-01-23,2017-01-01,android version 6.0.1baseband version t817tuvs2bpl1,android security updates,22,True
+Samsung,Galaxy Tab S2,6.0.1,2017-02-24,2017-02-01,android version 6.0.1baseband version t818tuvs1aqa2,android security updates,23,True
+Samsung,Galaxy Tab S2,7.0,2017-06-05,2017-06-01,android version 7.0baseband version t817tuvu2bqe2,android n 7.0 update,4,True
+Samsung,Galaxy Tab S2,7.0,2017-11-02,2017-11-01,android version 7.0baseband version:  t818tuvu1bqj3,android security updates,1,True
+Samsung,Galaxy Tab S2,7.0,2018-02-01,2018-02-01,android 7.0baseband version:t818tuvs1bra4,android security updatesvarious software improvements,0,True
+Samsung,Galaxy Tab S2,7.0,2018-05-19,2018-05-01,android 7.0baseband version:t818tuvs2bre1,android security updatesvarious software improvements,18,True
+Samsung,Galaxy Tab S2,7.0,2018-08-01,2018-08-01,android 7.0baseband version:t818tuvs3brg2,android security updatesvarious software improvements,0,True
+Samsung,Galaxy Tab S2,7.0,2019-02-03,2019-02-01,android 7.0baseband version:t818tuvs3bsa1,android security updatesvarious software improvements,2,True
+Samsung,Galaxy Tab S2,7.0,2019-07-27,2019-07-01,android 7.0baseband version:t818tuvs4bsg3,android security updatesvarious software improvements,26,True
+Samsung,Galaxy Tab S4,8.1.0,2018-12-20,2018-12-01,android 8.1.0baseband version:t837tuvu1ark1,signal bar ui fixvoip bug fix,19,True
+Samsung,Galaxy Tab S4,8.1.0,2019-03-01,2019-02-01,android 8.1.0baseband version:t837tuvs1asb3,january through february security updatesvarious bug fixes and system improvements,28,True
+Samsung,Galaxy Tab S4, 9,2019-04-28,2019-03-01,android 9.0baseband version:t837tuvu1bsd4,android 9.0 piemarch security patchlod support for linux on dexaudio/video delay sync fix,58,True
+Samsung,Galaxy Tab S4, 9,2019-06-28,2019-06-01,android 9.0baseband version:t837tuvs2bsf2,june security patch,27,True
+Samsung,Galaxy Tab S4, 9,2019-10-19,2019-08-01,android 9.0baseband version:t837tuvu3bsi1,call & message continuity supportbixby voice supportaugust security patch,79,True
+Samsung,Galaxy Tab S4, 9,2019-11-19,2019-11-01,android 9.0baseband version:t837tuvs4bsk1,november security patch,18,True
+Samsung,Galaxy Tab S6, 9,2019-12-10,2019-11-01,android 9.0baseband version:t867usqs2ask3,november security patch,39,True
+Samsung,J3 Prime,7.0,2017-07-07,2017-06-01,android version 7.0baseband version j327tuvu1aqf7,june security updates,36,True
+Samsung,J3 Prime,7.0,2017-07-25,2017-07-01,android version 7.0baseband version j327tuvu1aqg1,various system improvements,24,True
+Samsung,J3 Prime,7.0,2017-12-07,2017-12-01,android 7.0baseband versionj327tuvu1aqk6,ims roaming bug fixvarious system improvements,6,True
+Samsung,J3 Prime,7.0,2018-03-29,2018-03-01,android 7.0baseband version:j327tuvs2arc1,google security patchvarious bug fixes and system improvements,28,True
+Samsung,J3 Prime,7.0,2018-05-24,2018-05-01,android 7.0baseband version:j327tuvs2are1,google security patchvarious bug fixes and system improvements,23,True
+Samsung,J3 Prime,7.0,2018-12-23,2018-11-01,android 7.0baseband version:j327tuvu3ark4,november security patchvolte fix,52,True
+Samsung,J3 Prime,7.0,2019-03-03,2019-02-01,android 7.0baseband version: j327tuvs3asb1,december to february security patches,30,True
+Samsung,J3 Prime,7.0,2019-08-28,2019-08-01,android 7.0baseband version: j327tuvs3ash2,august security patches,27,True
+Samsung,S6 Edge Plus,5.1.1,2015-09-03,2015-09-01,android version 5.1.1baseband version:g928tuvu1boh4,t-mobile video calling,2,True
+Samsung,S6 Edge Plus,5.1.1,2015-11-02,2015-11-01,android version 5.1.1baseband version: g928tuvu2coj5,samsung gear vr supportsecurity updatesvarious bug fixes and improvements,1,True
+Samsung,S6 Edge Plus,5.1.1,2015-12-14,2015-12-01,android version 5.1.1baseband version: g928tuvs2cokc,google security update,13,True
+Samsung,S6 Edge Plus,6.0.1,2016-04-18,2016-04-01,android version 6.0.1baseband version: g928tuvu2dpd1,android m os update,17,True
+Samsung,S6 Edge Plus,6.0.1,2016-07-13,2016-07-01,android version 6.0.1baseband version: g928tuvu3dpg1,"google security fix, june and july security maintenance release, various system improvements",12,True
+Samsung,S6 Edge Plus,6.0.1,2016-09-08,2016-09-01,android version 6.0.1baseband version:g928tuvs4dph2,android m os update,7,True
+Samsung,S6 Edge Plus,6.0.1,2016-12-06,2016-11-01,android version 6.0.1baseband version:g928tuvu4dpk6,domestic data roaming improvementsdtmf fixnovember security update,35,True
+Samsung,S6 Edge Plus,6.0.1,2017-02-01,2017-02-01,android version 6.0.1baseband version:g928tuvs4dqa1,android security updates,0,True
+Samsung,S6 Edge Plus,6.0.1,2017-04-05,2017-04-01,android version 6.0.1baseband version:g928tuvu4dqc2,various system improvements,4,True
+Samsung,S6 Edge Plus,7.0,2017-05-01,2017-05-01,android version 7.0baseband version:g928tuvu4eqc6,android 7.0 (nougat) os update,0,True
+Samsung,S6 Edge Plus,7.0,2017-07-20,2017-07-01,android version 7.0baseband version:g928tuvs4eqg1,various system improvements,19,True
+Samsung,S6 Edge Plus,7.0,2017-08-01,2017-08-01,android version 7.0baseband version:g928tuvu4eqg3,various system improvements,0,True
+Samsung,S6 Edge Plus,7.0,2017-11-09,2017-11-01,android version 7.0baseband version:  g928tuvu4eqj3,ims roaming fixdigits bug fixgoogle security improvements,8,True
+Samsung,S6 Edge Plus,7.0,2018-01-24,2018-01-01,android 7.0baseband version:g928tuvs5era1,google security updatesminor bug fixes and system improvements,23,True
+Samsung,S6 Edge Plus,7.0,2018-03-21,2018-03-01,android 7.0baseband version:g928tuvs5erc1,google security updatesminor bug fixes and system improvements,20,True
+Samsung,S6 Edge Plus,7.0,2018-05-24,2018-05-01,android 7.0baseband version:g928tuvs5ere1,google security improvementsminor bug fixes and system improvements,23,True
+Samsung,S6 Edge Plus,7.0,2018-06-28,2018-06-01,android 7.0baseband version:g928tuvs5erf2,june security update,27,True
+Samsung,S6 Edge Plus,7.0,2018-07-27,2018-07-01,android 7.0baseband version:g928tuvs5erg1,july security updates,26,True
+Samsung,Tab A (2018),8.1.0,2018-12-04,2018-11-01,android version: 8.1.0baseband version:t387tuvu1ark2,november security updates,33,True
+Samsung,Tab A (2018),8.1.0,2019-03-21,2019-03-01,android version: 8.1.0baseband version:t387tuvs1asc1,march security updates,20,True
+Samsung,Tab A (2018),8.1.0,2019-03-22,2019-06-01,android version: 8.1.0baseband version:t387tuvs1asf2,june security updates,-71,True
+Samsung,Tab A (2018), 9,2019-09-30,2019-09-01,android version: 9.0baseband version:t387tuvu1bsi1,android pie os updatesseptember security patch,29,True
+Samsung,Tab A 8.0,5.0.2,2016-08-22,2016-08-01,android version 5.0.2baseband version t357tuvs1aph1,july and august security update,21,True
+Samsung,Tab A 8.0,5.0.2,2017-01-23,2017-01-01,android version 5.0.2baseband version t357tuvs1apl1,android security updates,22,True
+Sony,Xperia Z1S 4G LTE,5.0.2,2015-09-28,2015-09-01,android version 5.0.2baseband version: 14.5.b.0.247  ,messaging security improvements,27,True
+Sony,Xperia Z3,5.0.2,2015-09-28,2015-09-01,23.1.c.0.399android version 5.0.2software version 23.1.c.0.399,messaging security improvements,27,True
+T-Mobile,REVVL,7.0,2017-09-10,2017-09-01,android version 7.0build number h7jumj3,various system improvements,9,True
+T-Mobile,REVVL,7.0,2018-01-18,2018-01-01,android version 7.0build number h7wumw5,various system improvements,17,True
+T-Mobile,REVVL,7.0,2019-04-03,2019-04-01,android version 7.0build number h8cumc3,gps updates,2,True
+T-Mobile,REVVL 2,8.1.0,2018-12-24,2018-12-01,android version: 8.1.0build number: ar3humh3,december 2018 google security update,23,False
+T-Mobile,REVVL 2,8.1.0,2019-02-25,2019-02-01,android version: 8.1.0build number: ar3luml1,"google security updatemultiple messaging, gps, and stability fixes",24,True
+T-Mobile,REVVL 2,8.1.0,2019-05-16,2019-05-01,android version: 8.1.0build number: ar3qumq7,google security update,15,True
+T-Mobile,REVVL 2,8.1.0,2019-06-14,2019-06-01,android version: 8.1.0build number: ar3tumt3,june 2019 security update,13,False
+T-Mobile,REVVL 2 PLUS,8.1.0,2018-11-19,2018-11-01,android version: 8.1.0build number: a4zumui,"maintenance release 1latest android security patchplay store app version updateimproved rcs (rich communication services) experiencefix for messaging issues; support gif files, remove emoticon package",18,True
+T-Mobile,REVVL 2 PLUS,8.1.0,2019-01-20,2019-01-01,android version: 8.1.0build number: a4zumzi,google january 2019 security updatemaintenance release 2,19,False
+T-Mobile,REVVL 2 PLUS,8.1.0,2019-03-22,2019-03-01,android version: 8.1.0build number: ai7um75,gps updates,21,True
+T-Mobile,REVVL 2 PLUS,8.1.0,2019-04-17,2019-04-01,android version: 8.1.0build number: 1aiauma5,google april 2019 security update,16,False
+T-Mobile,REVVL PLUS,7.1.1,2018-06-25,2018-06-01,android version: 7.1.1build number: 7.1.143.30.180504.3701a-tmobaseband version: msm8953-3701a,"updated t-mobile app v6.6.0.2fixes for various volte, rcs, wfc issues",24,True
+T-Mobile,REVVL PLUS,7.1.1,2018-12-03,2018-12-01,android version: 7.1.1build number: 143.35.180815.3701a-tmobaseband version: msm8953-3701a,google december 2018 security update,2,False
+ZTE,Avid Plus,5.1.1,2016-11-16,2016-11-01,android version 5.1.1baseband version: z828v1.0.0b16,security updates,15,True
+ZTE,Avid Plus,5.1.1,2017-08-20,2017-08-01,android version 5.1.1baseband version: v1.0.0b18,security updates,19,True
+ZTE,Avid Trio,6.0.1,2017-07-17,2017-07-01,android version 6.0.1baseband version:z833v1.0.0b03,google security updatevarious improvements,16,True
+ZTE,Concord II,4.3,2016-02-05,2016-02-01,android 4.3baseband version: z730v1.0.0b20,security enhancements,4,True
+ZTE,Obsidian,5.1,2016-02-23,2016-02-01,android version 5.1baseband version: z820v1.0.0b28,volte and band 12 support added,22,True
+ZTE,Obsidian,5.1,2016-05-30,2016-05-01,android version 5.1baseband version: z820v1.0.0b29,security updates,29,True
+ZTE,Obsidian,5.1,2018-11-28,2018-11-01,android version 5.1baseband version: z820v1.0.0b30,security updates,27,True
+ZTE,ZMAX,4.4.2,2015-09-01,2015-09-01,android version 4.4.2software version z970v1.0.0b33,"volte, band 12, messaging security improvements",0,True
+ZTE,ZMAX,4.4.2,2016-05-23,2016-05-01,android version 4.4.2software version z970v1.0.0b34,security updates,22,True
+ZTE,ZMAX,4.4.2,2016-11-16,2016-11-01,android version 4.4.2software version z970v1.0.0b35,november security updates,15,True
+ZTE,ZMAX Pro,6.0.1,2016-11-21,2016-11-01,android 6.0.1build number: tmo_z981v1.0.0b07,ewp fixesnovember google security updates,20,True
+ZTE,ZMAX Pro,6.0.1,2017-05-15,2017-03-01,android 6.0.1build number: tmo_z981v1.0.0b13,resolves volte e911 timer issueadditional bug fixesmarch google security updates,75,True
+ZTE,ZMAX Pro,6.0.1,2017-09-26,2017-09-01,android 6.0.1build number: tmo_z981v1.0.0b14,google security updates,25,True
+ZTE,ZMAX Pro,6.0.1,2017-01-27,2017-12-01,android 6.0.1build number: tmo_z981v1.0.0b09,bug fixesdecember google security updates,-308,True
+ZTE,Zinger,4.4.2,2015-11-30,2015-11-01,android 4.4.2baseband version: z667tv1.0.0b09,messaging security improvements (stagefright),29,True
+ZTE,Zinger,4.4.2,2016-05-30,2016-05-01,android 4.4.2baseband version: z667tv1.0.0.b10,security updates,29,True
+ZTE,Zinger,4.4.2,2016-11-15,2016-11-01,android 4.4.2baseband version: z667tv1.0.0.b11,security updates,14,True
