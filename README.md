@@ -17,8 +17,11 @@ After executing all three Jupyter Notebooks located in normalization, these note
 
 ## Prerequisites
 In order to normalize and visualize, these Jupyter notebooks require the following:
-* Python 
-* Anaconda (includes Jupyter notebooks and other libraries such as pandas, numpy, and matplotlib)
-* Plotly (for interactive visualizations)
-* Orca (for saving the interactive visuals)
-* Reserachpy (Calculating correlation coefficient)
+* Python (tested on 3.6.10)
+* Anaconda (tested on 4.8.3)
+  * pandas (tested on 1.0.3)
+  * numpy (tested on 1.18.1)
+  * matplotlib (tested on 3.1.3)
+* plotly (tested on 4.6.0)
+* plotly-orca (tested on 1.2.1)
+* reserachpy (tested on 0.1.9)
