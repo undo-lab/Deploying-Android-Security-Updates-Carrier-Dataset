@@ -3,7 +3,7 @@ This repository contains raw data collected from the top 4 U.S. mobile carriers 
 
 *** 
 
-## Folder Directory
+## Repository Contents
 
 | directory name | description |
 |----------------|-------------|
