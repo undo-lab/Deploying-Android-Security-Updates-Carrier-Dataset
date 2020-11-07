@@ -1,5 +1,7 @@
 # Deploying-Android-Security-Updates-Carrier-Dataset
-This repository contains raw data collected from the top 4 U.S. mobile carriers and Jupyter notebooks to normalize and visualize this data as used in "Deploying Android Security Updates: an Extensive Study Involving Manufacturers, Carriers, and End Users"
+This repository contains raw data collected from the top 4 U.S. mobile carriers and Jupyter notebooks to normalize and visualize this data as used in "Deploying Android Security Updates: an Extensive Study Involving Manufacturers, Carriers, and End Users".
+
+[Here is the link to this paper](https://www.ittc.ku.edu/~alexbardas/papers/deploying-android-security-updates.pdf)
 
 *** 
 
